@@ -1,0 +1,11 @@
+Coming soon!
+
+The sentiment over time to stock price over time graph has not yet been created yet.
+
+This is because the sentiments being calculated are still not up to my standard.
+
+The current analysis models I am using seem to have trouble differentiating between
+negative sentiment for Apple, and negative sentiment in general (and vice versa).
+For example, an article like "Apple to donate basic resources after devestating flood"
+should have a very positive sentiment for Apple, but NewsMTSC and FlairNLP especially
+may have trouble differentiating the subjects.

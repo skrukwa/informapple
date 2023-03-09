@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    font-size: 2.4vw;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 1.7vw;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.4vw;
+    font-weight: 600;
+}
+
+h4 {
+    font-size: 1.2vw;
+    font-weight: 400;
+}
+
+.inform {
+    font-weight: 600;
+}
+
+.apple {
+    font-weight: 400;
+}
+
+a:not(.fill-div) {
+    text-decoration: none;
+    color: #3C65D2;
+    position: relative;
+    white-space: nowrap;
+}
+
+a:not(.fill-div)::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #2d66d9;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+  
+a:not(.fill-div):hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
+#media-cover {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(22, 22, 22);
+    z-index: 9999999;
+}
+
+#media-cover h1 {
+    color: #b3b9c4;
+    display: flex;
+    height: 100%;
+    margin: 0 20% 0 20%;
+    text-align: center;
+    align-items: center;
+}
+
+@media (min-aspect-ratio: 4/3) and (max-aspect-ratio: 23/10) and (pointer: fine) {
+    #media-cover {display: none;}
+}

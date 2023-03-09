@@ -1,0 +1,63 @@
+#hero-container {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: -999;
+    overflow: hidden;}
+
+#hero-background-video {
+    min-width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+}
+
+#hero-content {
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+    display: flex;
+    align-items: center;
+}
+
+#hero-left-text-container {
+    width: calc(50vw - 40px - 80px - 40px);
+    margin-right: 80px;
+}
+
+#hero-right-table-container {
+    width: 50vw;
+}
+
+#hero-table {
+    width: 100%;
+}
+
+.wide {
+    width: 18.7%;
+}
+
+.arrow {
+    width: 9.7%;
+}
+
+.narrow {
+    width: 14.8%;
+}
+
+#hero-table td {
+    padding: 4px;
+}
+
+#hero-table-desc td:not(:last-child) h4 {
+    margin-right: 30px;
+}
+
+#down-arrow {
+    position: fixed;
+    bottom: 0;
+    left: 40px;
+}

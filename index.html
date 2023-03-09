@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <title>Informapple</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="media/favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/hero.css">
+    <link rel="stylesheet" href="css/content.css">
+    <link rel="stylesheet" href="css/footer.css">
+  </head>
+
+  <body>
+
+    <div id="media-cover">
+      <h1>Unfortunately, mobile devices are not supported. Please use this website on a computer with a mouse and a landscape display with aspect ratio around 16:10. Thanks</h1>
+    </div>
+
+    <header>
+      <img src="media/logo.svg">
+      <a href="temp_results.txt">> See the results</a>
+      <a href="https://github.com/EEG-Brain-Scanner/Informapple">> See the source code</a>
+    </header>
+    <div id="logo-words">
+      <span class="inform">Inform</span><span class="apple">apple</span>
+    </div>
+    <div id="bottom-line"></div>
+    
+    <div id="hero-container">
+      <video playsinline autoplay muted loop id="hero-background-video">
+        <source src="media/hero-background.mp4" type="video/mp4">
+      </video>
+      <div id="down-arrow"><h4>scroll down for articles</h4></div>
+      <div id="hero-content">
+        <div id="hero-left-text-container">
+          <h1>Welcome to Informapple!</h1>
+          <h2>An analytical project which scrapes top Apple news articles and compares the sentiment of those articles to Apple stock price over time.</h2>
+          <h3>Developed by <a href="https://www.linkedin.com/in/evan-skrukwa/">Evan Skrukwa</a> and powered by Python.</h3>
+        </div>
+        <div id="hero-right-table-container">
+          <table id="hero-table">
+            <tr id="hero-table-desc">
+              <td colspan="2"><h4>Crowdsource top 25 Apple news articles every month (3 articles in example below).</h4></td>
+              <td colspan="2"><h4>Scrape and filter article content using libraries such as scrapy, Newspaper, and readability (news-please).</h4></td>
+              <td colspan="2"><h4>Analyze sentiment using target-dependent sentiment (NewsMTSC) and natural language processing (FlairNLP).</h4></td>
+              <td><h4>Calculate average sentiment for the month and add to <a href="temp_results.txt">results plot</a>.</h4></td>
+            </tr>
+            <tr>
+              <td class="wide"><img src="media/hero-table-web.png" width="100%"></td>
+              <td class="arrow"><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td class="narrow"><img src="media/hero-table-txt.png" width="100%"></td>
+              <td class="arrow"><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td class="wide"><img src="media/hero-table-value-x.png" width="100%"></td>
+              <td class="arrow"><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td class="wide"><img src="media/hero-table-arrow-down.png" width="100%"></td>
+            </tr>
+            <tr>
+              <td><img src="media/hero-table-web.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-txt.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-value-y.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-avg.png" width="100%"></td>
+            </tr>
+            <tr>
+              <td><img src="media/hero-table-web.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-txt.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-value-z.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow.png" width="100%"></td>
+              <td><img src="media/hero-table-arrow-up.png" width="100%"></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div id="scroll-container">
+      <div id="sticky-header-background"></div>
+      <div id="scroll-content">
+        <div id="date-selector-container">
+          <h1>Top 25 Apple articles for</h1>
+          <form autocomplete="off">
+            <div>
+              <input type="text" id="month-field" placeholder="ex. September">
+            </div>
+            <div>
+              <input type="text" id="year-field" placeholder="ex. 2016">
+            </div>
+          </form>
+        </div>
+        <div id="articles-container">
+          <!--
+          <div class="article">
+            <h3>[Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, id unde facilis magnam odit perspiciatis, quibusdam et distinctio, dolores maxime aspernatur error doloribus? Voluptatum aliquam excepturi dolores nisi veritatis totam.]</h3>
+            <h4>[Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla vel ducimus amet quo natus porro.]</h4>
+            <div class="green-bar" style="height: calc(30% - 0.5px)"></div>
+            <div class="red-bar" style="height: calc(70% - 0.5px)"></div>
+            <a href="tetettetetet" class="fill-div"></a>
+          </div>
+          -->
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      &copy Evan Skrukwa. All rights reserved. This website is not affiliated with Apple.
+    </footer>
+
+    <script src="article-handler.js"></script>
+
+  </body>
+</html>
