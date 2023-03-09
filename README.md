@@ -18,7 +18,7 @@ Responsible for classifying the sentiment of an article content. This is done by
 Responsible for creating custom error classes that inheriet from `Exception` to be used in other files for better error handeling.
 
 # Installation
-If you would like to try running the script yourself (i.e. using **example_runner.py**), as of January 2023, I would reccomend having a Python 3.7 `venv` as that is what `flair` officially supports. However, you will then have to use a constraint (`pip install -c`) when installing `NewsSentiment`. Finally, you *may* need to `pip install pydantic==1.10.2` or some other version if you run into errors created by by the prior constraint install.
+If you would like to try running the script yourself (i.e. using **example_runner.py**), as of January 2023, I would reccomend having a Python 3.7 `venv` as that is what `flair` officially supports. However, you will then have to use a constraint (`pip install -c`) when installing `NewsSentiment`. Finally, you *may* need to `pip install pydantic==1.10.2` or some other version if you run into errors created by the prior constraint install.
 
 # Sample `example_runner.py` Output
 (Line breaks added for ease of viewing.)
