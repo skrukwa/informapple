@@ -1,0 +1,477 @@
+{
+    "article_0": {
+        "title": "iOS 16 beta 5 finally adds the battery percentage to the status bar",
+        "body": "The battery percentage has finally been added back to the status bar with this week\u2019s release of iOS 16 to the public. This addresses one of the most common iOS requests since Apple removed the icon with the release of the iPhone X.\niPhone battery percentage is back\nIn iOS 16, you can add the battery percentage back to the status bar. Simply go into Settings, then choose Battery, then toggle on the new Battery Percentage option. It might even be enabled by default, but that only appears to be the case for some users.\nWhen your iPhone is disconnected from power, you\u2019ll see the normal battery icon but with the percentage number inside. If your iPhone is in low power mode, the battery icon turns yellow. If you\u2019re charging, you\u2019ll see the percentage with a small charging icon next to it.\nThe battery percentage was a staple of the status bar for iPhone models leading up to the iPhone X. With the introduction of the notch and the limited space for status bar information, Apple dropped the percentage. Instead, you had to swipe down into Control Center to view the percentage.\nIn the version of iOS 16 released to the public, the battery percentage option is not available on the iPhone XR, iPhone 11, iPhone 12 mini, and iPhone 13 mini. The latest beta of iOS 16.1, however, brings the battery centage to these devices. iOS 16.1 is expected to be released sometime later this fall.",
+        "url": "https://9to5mac.com/2022/08/08/ios-16-battery-percentage/",
+        "labels": {
+            "software": 0.8416517376899719,
+            "iphone": 0.05475442111492157,
+            "airtag": 0.021733108907938004,
+            "ipad": 0.021648678928613663,
+            "employees": 0.010719274170696735,
+            "apple watch": 0.008719992823898792,
+            "airpods": 0.008709898218512535,
+            "apple tv or apple music": 0.008166958577930927,
+            "leaks or rumours": 0.008141457103192806,
+            "mac computers": 0.006588605232536793,
+            "data privacy": 0.005524870008230209,
+            "money or stock": 0.0036410638131201267
+        }
+    },
+    "article_1": {
+        "title": "Apple Employees Reportedly Petitioning Against Plan to Return to Office 3x Per Week",
+        "body": "Apple employees are reportedly petitioning against the company's plan to require workers to return to in-person work at the office three days a week starting next month.\nEarlier this month, Apple informed corporate employees that they must return to the office for three days a week starting early next month. The current plan will require staff to come to the office on Tuesday, Thursday, and a third day of the week that will vary by team.\nAccording to a new report from the Financial Times, a growing number of employees at Apple are reportedly unhappy with the new plan, instead advocating for \"location flexible work.\" The report cites a petition formed by the group \"Apple Together\" that's making its way around Apple and gaining signatures. Apple has been eager to get employees back to in-person work for some time. Apple's CEO, Tim Cook, has defended Apple's eagerness to return to the office to protect the \"in-person collaboration that is so essential to our culture.\"\nApple Together counters that a \"uniform mandate from senior leadership\" fails to respect the \"many compelling reasons\" why some employees are \"happier and more productive\" working outside of traditional office arrangements. The group is demanding that Apple allows employees to work with their \"immediate manager\" to decide their working arrangements, and that they should not be subject to \"high-level approvals\" and \"complex procedures\" or have to provide private information.\nThe petition says that Apple \"should encourage, not prohibit, flexible work\" where employees can \"feel comfortable to 'think different' together.\" Apple's current plan to have employees working in-person at the office three days a week starts on September 5.",
+        "url": "https://www.macrumors.com/2022/08/22/apple-protesting-plan-to-return-to-office/",
+        "labels": {
+            "employees": 0.8234514594078064,
+            "software": 0.03657051920890808,
+            "airtag": 0.026882365345954895,
+            "money or stock": 0.0261367280036211,
+            "iphone": 0.022268326953053474,
+            "leaks or rumours": 0.014454924501478672,
+            "mac computers": 0.012516101822257042,
+            "ipad": 0.011411437764763832,
+            "apple watch": 0.011341665871441364,
+            "apple tv or apple music": 0.007534487638622522,
+            "airpods": 0.0038645032327622175,
+            "data privacy": 0.003567518200725317
+        }
+    },
+    "article_2": {
+        "title": "An Apple AirTag led Florida police to an airline worker who was then arrested in connection to thousands of dollars worth of stolen luggage items",
+        "body": "This photograph taken on July 26, 2022 shows suitcases at the baggage claim service at Schiphol Airport in Amsterdam. - Due to staff shortages, crowds and many missed flights, thousands of suitcases are waiting at Schiphol Airport. - Netherlands OUT (Photo by Remko de Waal / ANP / AFP) / Netherlands OUT (Photo by REMKO DE WAAL/ANP/AFP via Getty Images) REMKO DE WAAL / Getty Images\nA Florida airline worker is charged in connection to the theft of over $16,000 worth of luggage.\nThe suspect was caught with the assistant of one victim's Apple AirTag, which she kept in her luggage.\nInvestigators cross-referenced the employee database with the AirTag's last active location to find the suspect.\nA Florida airline worker was arrested after an Apple AirTag helped authorities locate a traveler's missing luggage.\nGiovanni De Luca, 19, an airline subcontractor at Destin-Fort Walton Beach Airport, is charged with two counts of grand theft, according to a statement by Okaloosa County Sheriff's Office on Thursday.\nAccording to the statement, a traveler reported her suitcase, which contained more than $1,600 worth of items, had gone missing from her final destination in July.\nThe traveler told authorities that an Apple AirTag in her suitcase had last activated in Mary Esther, Florida, according to the statement.\nAnother traveler reported his luggage, which contained more than $15,000 worth of jewelry, missing, according to the statement.\nInvestigators from the Okaloosa County Sheriff's Office used the airline database to cross reference employees who lived near the address where the AirTag was last activated and made \"consensual contact\" with De Luca at his home where they recovered the missing items.\nDe Luca admitted to rummaging through the July victim's suitcase and removing the Apple AirTag however her items have not been recovered, according to the statement.\n\"This arrest is an example of excellent teamwork by our Airport Security Unit, our Investigators, and the Airport to find the person responsible for these thefts and make sure he is held responsible,\" said Sheriff Eric Aden in the statement.\nRead the original article on Insider",
+        "url": "https://www.yahoo.com/news/apple-airtag-led-florida-police-200040774.html",
+        "labels": {
+            "airtag": 0.30352041125297546,
+            "employees": 0.19397206604480743,
+            "iphone": 0.15392453968524933,
+            "software": 0.14256590604782104,
+            "ipad": 0.07023892551660538,
+            "airpods": 0.03500666096806526,
+            "data privacy": 0.026028722524642944,
+            "money or stock": 0.022375185042619705,
+            "apple tv or apple music": 0.020924953743815422,
+            "mac computers": 0.015250537544488907,
+            "apple watch": 0.011011207476258278,
+            "leaks or rumours": 0.005180894397199154
+        }
+    },
+    "article_3": {
+        "title": "Kuo: AirPods to switch to USB-C for charging alongside iPhone 15 in 2023",
+        "body": "Apple is reportedly planning to switch the iPhone to USB-C for charging as soon as next year. Now, Apple analyst Ming-Chi Kuo also predicts that Apple will launch new versions of the AirPods charging cases as soon as next year.\nThere are new AirPods Pro coming later this year, but the charging case for this model is expected to stick with Lightning connectivity. Apple also released its AirPods 3 headphones last year, and they also use Lightning for charging. The charging cases for both AirPods and AirPods Pro also support wireless charging as well.\nKuo reports:\nI predict Apple will launch USB-C-capable charging cases for all AirPods models in 2023. However, the charging case of the new AirPods Pro 2 launched in 2H22 may still support Lightning.\nThis isn\u2019t the first time Kuo has reported that future versions of AirPods will use USB-C for charging. In May, the analyst said that AirPods as well as Apple\u2019s other accessories would also switch to USB-C alongside the iPhone. This also includes accessories like the Magic Keyboard, Magic Trackpad, and Magic Mouse accessories for Mac, and the MagSafe Battery Pack accessory for iPhone.\nWhat this means is that once the iPhone 15 goes USB-C in 2023, Apple will simultaneously start the process of switching all of its products to USB-C. This will, eventually, mark the end of the Lightning connector altogether. With the prevalence of Lightning, however, this will likely take years to actually complete.\n9to5Mac\u2019s Take\nLegislation in the European Union is one of the driving forces behind Apple\u2019s decision to finally switch the iPhone, AirPods, and other accessories to USB-C. The common charger legislation will require all smartphones and accessories to use USB-C for charging starting in 2024.\nThe biggest disappointment here is Apple apparently waiting until the last possible minute to switch AirPods to USB-C charging. Ideally, the company would begin the switch to USB-C with the launch of AirPods Pro 2 later this year. Instead, AirPods Pro 2 will stick with Lightning, forcing buyers to purchase a new charging case in 2023 if they want to standardize on USB-C.",
+        "url": "https://9to5mac.com/2022/08/09/airpods-usb-c-iphone/",
+        "labels": {
+            "airpods": 0.6792317628860474,
+            "iphone": 0.1019907146692276,
+            "leaks or rumours": 0.08307705074548721,
+            "airtag": 0.06156833469867706,
+            "data privacy": 0.018178259953856468,
+            "software": 0.016554392874240875,
+            "ipad": 0.011378930881619453,
+            "employees": 0.00922104250639677,
+            "money or stock": 0.008020255714654922,
+            "apple tv or apple music": 0.006952893454581499,
+            "mac computers": 0.0023926012217998505,
+            "apple watch": 0.001433697179891169
+        }
+    },
+    "article_4": {
+        "title": "M2 MacBook Air runs Windows 11 faster than pricier Dell laptop",
+        "body": "Real-world experiments with the new MacBook Air show Apple\u2019s latest can use Parallels 18 to run Windows 11 faster than a Dell XPS Plus.\nIt\u2019s a tribute to the performance of the Apple M2 processor in the latest Air.\nMacBook Air can be a high-performance PC\nWindows has the lion\u2019s share of the desktop/laptop market. That means that situations arise where dedicated macOS users need to be able to run Microsoft\u2019s operating system. That\u2019s where Parallels comes in. This virtualization software can put Windows on a Mac.\nThe YouTube channel Max Tech loaded the recently released Parallels 18 onto the 2022 MacBook Air and tested it with Geekbench 5. The laptop scored 1681 on the single-core test and 7260 on the multi-core one.\nFor comparison, the Dell XPS Plus scored 1182 single-core and 5476 multi-core on the same test while unplugged, losing to the Mac on both test segments. That said, take the Windows PC off its battery and its scores rise to 1548 single-core and 8103 multi-core, so one of its benchmark scores beats the MacBook.\nBut there\u2019s a drawback for someone planning to use their notebook on the go. When talking about the Dell, Max Tech host Vadim Yuryev said, \u201cThe battery life on those machines is not good and those chips take a lot of power.\u201d\nThis is not an example of an expensive Mac being more powerful than a cheap PC. The MacBook Air configuration in the test costs $1,599, while the XPS Plus goes for $1,849.\nWatch the full video for more details:\nIt\u2019s all about the Apple M2\nThe 2022 MacBook Air in the head-to-head test is one of the first with the Apple M2 processor. Apple says the chip is 18% quicker than its predecessor. Real-world tests show that it\u2019s at least that fast.\nThe new processor already proved its chops by solidly outscoring other Macs in the Speedometer 2.0 benchmarking app.",
+        "url": "https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/",
+        "labels": {
+            "mac computers": 0.6260983347892761,
+            "airtag": 0.15235614776611328,
+            "software": 0.1492777019739151,
+            "airpods": 0.031645484268665314,
+            "money or stock": 0.00896648783236742,
+            "employees": 0.006207155529409647,
+            "data privacy": 0.00600420031696558,
+            "leaks or rumours": 0.005422346759587526,
+            "apple watch": 0.004790813662111759,
+            "apple tv or apple music": 0.003886941121891141,
+            "ipad": 0.002916923724114895,
+            "iphone": 0.002427424769848585
+        }
+    },
+    "article_5": {
+        "title": "Apple Targets Sept. 7 for iPhone 14 Launch in Flurry of Devices",
+        "body": "Africa+\nAfrica is quickly becoming one of the business world's most supercharged areas, with a burgeoning startup scene, expansive infrastructure projects, and capital pouring in from across the world. In this series, Quicktake Originals takes an in-depth look at the domestic and international projects that are shaping modern Africa, and their implications for the global economy.",
+        "url": "https://www.bloomberg.com/news/articles/2022-08-17/apple-targets-sept-7-for-iphone-14-launch-in-flurry-of-devices",
+        "labels": {
+            "iphone": 0.481990247964859,
+            "airtag": 0.09634727239608765,
+            "software": 0.08424629271030426,
+            "leaks or rumours": 0.07671023160219193,
+            "money or stock": 0.0599677599966526,
+            "ipad": 0.042923424392938614,
+            "mac computers": 0.03587945178151131,
+            "employees": 0.033029649406671524,
+            "apple tv or apple music": 0.029897814616560936,
+            "data privacy": 0.028461305424571037,
+            "apple watch": 0.018560390919446945,
+            "airpods": 0.011986173689365387
+        }
+    },
+    "article_6": {
+        "title": "iPhone 14 Pro's Large Pill-Shaped Cutout Will Display Camera and Microphone Privacy Indicators",
+        "body": "The large pill-shaped combination cutout that's planned for the iPhone 14 Pro models will display privacy indicators for the microphone and the camera, according to a source that shared details on the MacRumors forums.\nApple is planning to replace the notch on the \u200ciPhone 14 Pro\u200c models with two separate pill-shaped and hole-punch cutouts that will house the TrueDepth camera system hardware for Face ID, but as we learned today, the cutouts will be combined together using software, appearing as a single long, pill-shaped cutout when the iPhone is in use.\nThe space between the two cutouts will apparently be used to show the orange and green dots that indicate when the camera or the microphone has been activated by an app. At the current time, these indicators are shown to the right of the notch when the hardware is actively engaged, but putting them front and center on the \u200ciPhone\u200c's display will make it more apparent when the camera and the microphone are in use.\nHaving the green dot front and center when the camera is active will make the experience of using an \u200ciPhone\u200c similar to using a Mac. On a Mac, when the webcam is in use, there is a green indicator light that cannot be disabled, with the light located right next to the camera.\nApple will apparently let users tap on the green and orange dots to receive more information about what apps are using the \u200ciPhone\u200c's hardware. Right now, that data is provided in Control Center, with Apple listing apps that have recently used the camera, microphone, and location.\nThe forums source claims that Apple will also redesign the Camera app, moving most of the controls to the top of the display to provide users with a larger view of the camera preview, but this change is \"still not entirely locked in.\"\nWhen the privacy indicators are not engaged, the space between the two cutouts on the \u200ciPhone 14 Pro\u200c models will be blacked out so that it appears as a single cutout. iPhone 14 models will use a standard notch and will therefore likely continue to feature the same hardware indicators that are available on the iPhone 13 models.",
+        "url": "https://www.macrumors.com/2022/08/31/iphone-14-pro-camera-cutout-indicators/",
+        "labels": {
+            "iphone": 0.6519479155540466,
+            "data privacy": 0.1941773146390915,
+            "software": 0.04556848481297493,
+            "airtag": 0.031088275834918022,
+            "ipad": 0.028696468099951744,
+            "leaks or rumours": 0.01609029620885849,
+            "airpods": 0.0072071910835802555,
+            "mac computers": 0.006260726135224104,
+            "employees": 0.005762098357081413,
+            "apple tv or apple music": 0.005338799674063921,
+            "money or stock": 0.0043730721808969975,
+            "apple watch": 0.003489366266876459
+        }
+    },
+    "article_7": {
+        "title": "Apple Finished iOS 16 Development and will now be focusing on bug fixes until the official release in September",
+        "body": "Apple engineers wrapped up development of the initial version of iOS 16 last week, according to Bloomberg's Mark Gurman. This likely means that Apple has few to no major new features or changes planned for the remaining iOS 16 betas and will instead focus on bug fixes in the final weeks before the software update is publicly released.\nIn the latest edition of his \"Power On\" newsletter, Gurman reiterated that iOS 16 and watchOS 9 are planned for release in September alongside new iPhone 14 and Apple Watch Series 8 models, while he expects iPadOS 16 and macOS Ventura to be released in October.\nHere's the exact quote from Gurman's newsletter:\nThe iOS 16.0 update, which Apple engineers finished work on this past week, is due to launch in September alongside watchOS 9. Those updates will correspond with the new hardware. The macOS Ventura and iPadOS upgrades, on the other hand, are now scheduled for October (after Stage Manager-related delays to the iPad software) to match the new hardware lineup.\niOS 16's major new features include a customizable Lock Screen with widgets, the ability to temporarily edit or unsend an iMessage, iCloud Shared Photo Library for sharing photos with family and friends, a revamped Home app, and more. Apple also reintroduced a battery percentage icon in the status bar on most iPhones with a notch.\nGurman recently reported that Apple is planning to hold an event on Wednesday, September 7 to unveil new iPhone 14 and Apple Watch Series 8 models. Apple would likely also announce release dates for iOS 16 and watchOS 9 at the event, which Apple has yet to officially confirm. Gurman believes Apple is likely to hold another event in October focused on new Macs and iPads, including updated iPad Pro models with the M2 chip.",
+        "url": "https://www.macrumors.com/2022/08/21/ios-16-development-wrapped-up-gurman/",
+        "labels": {
+            "software": 0.7269309163093567,
+            "iphone": 0.08927612006664276,
+            "airtag": 0.0254262275993824,
+            "employees": 0.024062922224402428,
+            "ipad": 0.022814365103840828,
+            "mac computers": 0.019536690786480904,
+            "apple watch": 0.019516631960868835,
+            "apple tv or apple music": 0.01947631686925888,
+            "money or stock": 0.017006823793053627,
+            "leaks or rumours": 0.01685924269258976,
+            "airpods": 0.009571284055709839,
+            "data privacy": 0.009522463195025921
+        }
+    },
+    "article_8": {
+        "title": "iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser",
+        "body": "Update: A week later, I\u2019ve published a new post, looking into other apps including TikTok, where I also found an additional JavaScript event listener of Instagram which can monitor all taps on third party websites.\nCheck it out here\nThe iOS Instagram and Facebook app render all third party links and ads within their app using a custom in-app browser. This causes various risks for the user, with the host app being able to track every single interaction with external websites, from all form inputs like passwords and addresses, to every single tap.\nNote: To keep this post simple, I'll use \"Instagram\" instead of \"Meta\" or \"Facebook\"\nWhat does Instagram do?\nLinks to external websites are rendered inside the Instagram app, instead of using the built-in Safari.\nThis allows Instagram to monitor everything happening on external websites, without the consent from the user, nor the website provider.\nThe Instagram app injects their JavaScript code into every website shown, including when clicking on ads. Even though the injected script doesn\u2019t currently do this, running custom scripts on third party websites allows them to monitor all user interactions, like every button & link tapped, text selections, screenshots, as well as any form inputs, like passwords, addresses and credit card numbers.\nWhy is this a big deal?\nAfter the App Tracking Transparency was introduced, Meta announced:\nApple\u2019s simple iPhone alert is costing Facebook $10 billion a year\nFacebook complained that Apple\u2019s App Tracking Transparency favors companies like Google because App Tracking Transparency \u201ccarves out browsers from the tracking prompts Apple requires for apps.\u201d\nWebsites you visit on iOS don\u2019t trigger tracking prompts because the anti-tracking features are built in.\n\u2013 Daring Fireball & MacWorld\nWith 1 Billion active Instagram users, the amount of data Instagram can collect by injecting the tracking code into every third party website opened from the Instagram & Facebook app is a staggering amount.\nWith web browsers and iOS adding more and more privacy controls into the user\u2019s hands, it becomes clear why Instagram is interested in monitoring all web traffic of external websites.\nFacebook bombarded its users with messages begging them to turn tracking back on. It threatened an antitrust suit against Apple. It got small businesses to defend user-tracking, claiming that when a giant corporation spies on billions of people, that\u2019s a form of small business development.\n\u2013 EFF - Facebook Says Apple is Too Powerful. They\u2019re Right.\nNote added on 2022-08-11: Meta is following the ATT (App Tracking Transparency) rules (as added as a note at the bottom of the article). I explained the above to provide some context on why getting data from third party websites/apps is a big deal. The message of this article is about how the iOS Instagram app actively injects and executes JavaScript code on third party websites, using their in-app browser. This article does not talk about the legal aspect of things, but the technical implementation of what is happening, and what is possible on a technical level.\nFAQs for non-tech readers\nCan Instagram/Facebook read everything I do online? No! Instagram is only able to read and watch your online activities when you open a link or ad from within their apps.\nNo! Instagram is only able to read and watch your online activities when you open a link or ad from within their apps. Does Facebook actually steal my passwords, address and credit card numbers? No! I didn\u2019t prove the exact data Instagram is tracking, but wanted to showcase the kind of data they could get without you knowing. As shown in the past, if it\u2019s possible for a company to get access to data legally and for free, without asking the user for permission, they will track it.\nNo! I didn\u2019t prove the exact data Instagram is tracking, but wanted to showcase the kind of data they could get without you knowing. As shown in the past, if it\u2019s possible for a company to get access to data legally and for free, without asking the user for permission, they will track it. How can I protect myself? For full details scroll down to the end of the article. Summary: Whenever you open a link from Instagram (or Facebook or Messenger), make sure to click the dots in the corner to open the page in Safari instead.\nFor full details scroll down to the end of the article. Summary: Whenever you open a link from Instagram (or Facebook or Messenger), make sure to click the dots in the corner to open the page in Safari instead. Is Instagram doing this on purpose? I can\u2019t say how the decisions were made internally. All I can say is that building your own in-app browser takes a non-trivial time to program and maintain, significantly more than just using the privacy and user-friendly alternative that\u2019s already been built into the iPhone for the past 7 years.\nWhat gets injected?\nThe external JavaScript file the Instagram app injects is the (connect.facebook.net/en_US/pcm.js) which is code to build a bridge to communicate with the host app. According to Meta\u2019s info provided to me in response to this publication, it helps aggregate events, i.e. online purchase, before those events are used for targeted advertising and measurement for the Facebook platform.\nDisclaimer\nI don\u2019t have a list of precise data Instagram sends back home. I do have proof that the Instagram and Facebook app actively run JavaScript commands to inject an additional JavaScript SDK without the user\u2019s consent, as well as tracking the user\u2019s text selections. If Instagram is doing this already, they could also inject any other JavaScript code. The Instagram app itself is well protected against human-in-the-middle attacks, and only by modifying the Android binary to remove certificate pinning and running it in a simulator.\nOverall the goal of this project wasn\u2019t to get a list of data that is sent back, but to highlight the privacy & security issues that are caused by the use of in-app browsers, as well as to prove that apps like Instagram are already exploiting this loophole.\nTo summarize the risks and disadvantages of having in-app browsers:\nPrivacy & Analytics: The host app can track literally everything happening on the website, every tap, input, scrolling behavior, which content gets copy & pasted, as well as data shown like online purchases\nThe host app can track literally everything happening on the website, every tap, input, scrolling behavior, which content gets copy & pasted, as well as data shown like online purchases Stealing of user credentials, physical addresses , API keys, etc.\n, API keys, etc. Ads & Referrals: The host app can inject advertisements into the website, or replace the ads API key to steal revenue from the host app, or replace all URLs to include your referral code (this happened before)\nThe host app can inject advertisements into the website, or replace the ads API key to steal revenue from the host app, or replace all URLs to include your referral code (this happened before) Security: Browsers spent years optimizing the security UX of the web, like showing the HTTPs encryption status, warning the user about sketchy or unencrypted websites, and more\nBrowsers spent years optimizing the security UX of the web, like showing the HTTPs encryption status, warning the user about sketchy or unencrypted websites, and more Injecting additional JavaScript code onto a third party website can cause issues and glitches, potentially breaking the website\nThe user\u2019s browser extensions & content blockers aren\u2019t available\nDeep linking doesn\u2019t work well in most cases\nOften no easy way to share a link via other platforms (e.g. via Email, AirDrop, etc.)\nInstagram\u2019s in-app browser supports auto-fill of your address and payment information. However there is no legit reason for this to exist in the first place, with all of this already built into the operating system, or the web browser itself.\nTesting various Meta\u2019s apps\nInstagram iOS Messenger iOS\nFacebook iOS Instagram Android\nWhatsApp is opening iOS Safari by default, therefore no issues.\nHow it works\nTo my knowledge, there is no good way to monitor all JavaScript commands that get executed by the host iOS app (would love to hear if there is a better way).\nI created a new, plain HTML file, with some JS code to override some of the document. methods:\ndocument . getElementById = function ( a , b ) { appendCommand ( ' document.getElementById(\" ' + a + ' \") ' ) return originalGetElementById . apply ( this , arguments ); }\nOpening that HTML file from the iOS Instagram app yielded the following:\nComparing this to what happens when using a normal browser, or in this case, Telegram, which uses the recommended SFSafariViewController :\nAs you can see, a regular browser, or SFSafariViewController doesn\u2019t run any JS code. SFSafariViewController is a great way for app developers to show third party web content to the user, without them leaving your app, while still preserving the privacy and comfort for the user.\nTechnical Details\nInstagram adds a new event listener, to get details about every time the user selects any text on the website. This, in combination with listening to screenshots, gives Instagram full insight over what specific piece of information was selected & shared\nThe Instagram app checks if there is an element with the ID iab-pcm-sdk : According to this tweet, the iab likely refers to \u201cIn App Browser\u201d.\n: According to this tweet, the likely refers to \u201cIn App Browser\u201d. If no element with the ID iab-pcm-sdk was found, Instagram creates a new script element, sets its source to https://connect.facebook.net/en_US/pcm.js\nwas found, Instagram creates a new element, sets its source to It then finds the first script element on your website to insert the pcm JavaScript file right before\nelement on your website to insert the pcm JavaScript file right before Instagram also queries for iframes on your website, however I couldn\u2019t find any indication of what they\u2019re doing with it\nUpdate: A week later, I\u2019ve published a new post, looking into other apps including TikTok, where I also found an additional JavaScript event listener of Instagram, in particular:\nInstagram iOS subscribes to every tap on any button, link, image or other component on external websites rendered inside the Instagram app.\nInstagram iOS subscribes to every time the user selects a UI element (like a text field) on third\nCheck out the full post here\nHow to protect yourself as a user?\nEscape the in-app-webview\nMost in-app browsers have a way to open the currently rendered website in Safari. As soon as you land on that screen, just use that option to escape it. If that button isn\u2019t available, you will have to copy & paste the URL to open the link in the browser of your choice.\nUse the web version\nMost social networks, including Instagram and Facebook, offer a decent mobile-web version, offering a similar feature set. You can use https://instagram.com without issues in iOS Safari.\nHow to protect yourself as a website provider?\nUntil Instagram resolves this issue (if ever), you can quite easily trick the Instagram and Facebook app to believe the tracking code is already installed. Just add the following to your HTML code:\nAdditionally, to prevent Instagram from tracking the user\u2019s text selections on your website:\nconst originalEventListener = document . addEventListener document . addEventListener = function ( a , b ) { if ( b . toString (). indexOf ( \" messageHandlers.fb_getSelection \" ) > - 1 ) { return null ; } return originalEventListener . apply ( this , arguments ); }\nThis will not solve the actual problem of Instagram running JavaScript code against your website, but at least no additional JS scripts will be injected, as well as less data being tracked.\nIt\u2019s also easy for an app to detect if the current browser is the Instagram/Facebook app by checking the user agent, however I couldn\u2019t find a good way to pop out of the in-app browser automatically to open Safari instead. If you know a solution, I\u2019d love to know.\nUpdate on 2022-08-11: As response to this article, Adrian published a post about this exact topic.\nProposals\nFor Apple\nApple is doing a fantastic job building their platform with the user\u2019s privacy in mind. One of the 4 privacy principles:\nUser Transparency and Control: Making sure that users know what data is shared and how it is used, and that they can exercise control over it.\n\u2013 Apple Privacy PDF (April 2021)\nAt the moment of writing, there is no AppStore Review Rule that prohibits companies from building their own in-app browser to track the user, read their inputs, and inject additional ads to third party websites. However Apple is clearly recommending that to use SFSafariViewController :\nAvoid using a web view to build a web browser. Using a web view to let people briefly access a website without leaving the context of your app is fine, but Safari is the primary way people browse the web. Attempting to replicate the functionality of Safari in your app is unnecessary and discouraged.\n\u2013 Apple Human Interface Guidelines (June 2022)\nIf your app lets users view websites from anywhere on the Internet, use the SFSafariViewController class. If your app customizes, interacts with, or controls the display of web content, use the WKWebView class.\n\u2013 Apple SFSafariViewController docs (June 2022)\nIntroducing App-Bound Domains\nApp-Bound Domains is an excellent new WebKit feature making it possible for developers to offer a safer in-app browsing experience when using WKWebView . As an app developer, you can define which domains your app can access, and all web requests will be restricted to them. To disable the protection, a user would have to explicitly disable it in the iOS settings app.\nApp-Bound Domains went live with iOS 14 (~1.5 years ago), however it\u2019s only an opt-in option for developers, meaning the vast majority of iOS apps don\u2019t make use of this feature.\nIf the developers of SocialApp want a better user privacy experience they have two paths forward: Use SafariViewController instead of WKWebView for in-app browsing. SafariViewController protects user data from SocialApp by loading pages outside of SocialApp\u2019s process space. SocialApp can guarantee it is giving its users the best available user privacy experience while using SafariViewController.\ninstead of for in-app browsing. protects user data from SocialApp by loading pages outside of SocialApp\u2019s process space. SocialApp can guarantee it is giving its users the best available user privacy experience while using SafariViewController. Opt-in to App-Bound Domains. The additional WKWebView restrictions from App-Bound Domains ensure that SocialApp is not able to track users using the APIs outlined above.\nI highlighted the \"want a better user privacy experience\" part, as this is the missing piece: App-Bound Domains should be a requirement for all iOS apps, since the social media apps are the ones injecting the tracking code.\nIn July 2022 Apple introduced the Lockdown Mode to better protect people who are at high risk. Unfortunately the iOS Lockdown Mode doesn\u2019t change the way in-app web views work. I have filed a radar with Apple: rdar://10735684, for which Apple has responded with \u201cThis isn\u2019t what Lockdown Mode is for\u201d\nA few immediate steps for Apple to take:\nUpdate the App Review Rules to require the use of SFSafariViewController or App-Bound Domains when displaying any third party websites.\nThere should be only a few exception (e.g. browser apps), that require two extra steps: Request an extra entitlement to ensure it\u2019s a valid use-case Have the user confirm the extra permission\nFirst-party websites/content can still be displayed using the WKWebView class, as they are often used for UI elements, or the app actually modifying their first party content (e.g. auto-dismissing of their own cookie banners)\nI\u2019ve also submitted a radar (rdar://38109139) to Apple as part of my past blog post.\nDo what Meta is already doing with WhatsApp: Stop modifying third party websites, and use Safari or SFSafariViewController for all third party websites. It\u2019s what\u2019s best for the user, and the right thing to do.\nI\u2019ve disclosed this issue with Meta through their Bug Bounty Program, where within a few hours they confirmed they were able to reproduce the \u201cissue\u201d, however I haven\u2019t heard back anything else within the last 9 weeks, besides asking me to wait longer until they have a full report. Since there hasn\u2019t been any responses on my follow-up questions, nor did they stop injecting tracking code into external websites, I\u2019ve decided to go public with this information (after giving them another 2 weeks heads-up)\nAfter the publication went live, Meta has sent two emails clarifying what is happening on their end. I addressed their comments, the following has changed:\nThe script that gets injected isn\u2019t the Meta Pixel, but it\u2019s the pcm.js script, which, according to Meta, helps aggregate events, i.e. online purchase, before those events are used for targeted advertising and measurement for the Facebook platform\nAccording to Meta, the script injected (pcm.js) helps Meta respect the user\u2019s ATT opt out choice, which is only relevant if the rendered website has the Meta Pixel installed. However as far as my understanding goes, all of this wouldn\u2019t be necessary if Instagram were to open the phone\u2019s default browser, instead of building & using the custom in-app browser.\nI sent Meta a few follow-up questions - once I hear back, I\u2019ll update the post accordingly, and announce the changes on Twitter.\nIn the mean-time, everything published in this post is correct: the Instagram app is executing and injecting JavaScript code into third party websites, rendered inside their in-app browser, which exposes a big risk for the user. Also, there is no way to opt-out of the custom in-app browser.\nAs Meta was providing me with more context and details, I have updated the post to reflect this. You can find the full history of the post, and which parts got edited over here.\nThe main question I asked: If Meta built a whole system to inject JavaScript code ( pcm.js ) into third party websites to respect people\u2019s App Tracking Transparency (ATT) choices, why wouldn\u2019t Instagram just open all external links in the user\u2019s default browser? This would put the user in full control over their privacy settings, and wouldn\u2019t require any engineering effort on Meta\u2019s end.\nTo that, the answer was:\nAs shared earlier, pcm.js is required to respect a user\u2019s ATT decision. The script needs to be injected to authenticate the source and the integrity (i.e. if pixel traffic is valid) of the data being received. Authentication would include checking that, when data is received from the In App Browser through the WebView-iOS native bridge, it contains a valid nonce coming from the injected script. SFSafariViewController doesn\u2019t support this. There are additional components within the In App Browser that provide security and user features that SFSafariViewController also doesn\u2019t support.\nWhile that answer provides some context, I don\u2019t think it answers my question. Other apps, including Meta\u2019s own WhatsApp, can operate perfectly fine without using a custom in-app browser.\nMy ticket with Meta got marked as resolved \"given the items raised in your submission are intentional and not a privacy concern\" .\nMy second question was about the tracking of the user\u2019s text selection, and according to Meta, this is some old code that isn\u2019t used anymore:\nIn older versions of iOS, this code was necessary to allow users to share selected text to their news feed. As newer versions of iOS have built-in functionality for text selection, this feature has been deprecated for some time and was already identified for removal as part of our standard code maintenance. There is no code in our In App Browser that shares text selection information from websites without the user taking action to share it themselves via a feature (like quote share).\nCheck out my other privacy and security related publications.",
+        "url": "https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser",
+        "labels": {
+            "data privacy": 0.39243000745773315,
+            "iphone": 0.26911461353302,
+            "software": 0.1829608827829361,
+            "ipad": 0.10073130577802658,
+            "airtag": 0.021997787058353424,
+            "apple watch": 0.009701293893158436,
+            "airpods": 0.006797764450311661,
+            "apple tv or apple music": 0.005197332240641117,
+            "employees": 0.0036876548547297716,
+            "leaks or rumours": 0.0033221961930394173,
+            "money or stock": 0.0020484908018261194,
+            "mac computers": 0.002010664436966181
+        }
+    },
+    "article_9": {
+        "title": "Telegram CEO claims Apple is delaying update that will 'revolutionize' messaging",
+        "body": "If you buy through our links, we may get a commission. Read our ethics policy\nTelegram app\nTelegram CEO Pavel Durov claims that Apple has been delaying an App Store update to the app that will \"revolutionize how people express themselves in messaging.\"\nIn a Telegram message on Thursday, Durov says that the upcoming update has been stuck in Apple's review process for two weeks with no explanation from the iPhone maker about the holdup.\n\"If Telegram, one of the top 10 most popular apps globally, is receiving this treatment, one can only imagine the difficulties experienced by smaller app developers,\" Durov wrote.\nThe Telegram chief executive also hit Apple and Google for charging a 30% commission on app and in-app purchases. Durov says the app review delay is just another harm on the commission, which he likens to a \"tax.\"\n\"The regulators in the EU and elsewhere are slowly starting to look into these abusive practices,\" he said. \"But the economic damage that has already been inflicted by Apple on the tech industry won't be undone.\"\nThis isn't the first time that a Telegram update has been stuck in Apple's app review process. Back in 2018, Apple delayed global updates after Russian authorities demanded the Cupertino tech giant remove the secure messaging app from the App Store.\nOther app developers and executives have complained about Apple's App Review process in the past. In 2021, Hopscotch CEO Samantha John called Apple's review process \"Kafkaesque.\"",
+        "url": "https://appleinsider.com/articles/22/08/11/telegram-ceo-claims-apple-is-delaying-update-that-will-revolutionize-messaging",
+        "labels": {
+            "software": 0.5148332118988037,
+            "leaks or rumours": 0.2595405876636505,
+            "iphone": 0.05309483781456947,
+            "airtag": 0.036358293145895004,
+            "money or stock": 0.033275652676820755,
+            "mac computers": 0.02862798422574997,
+            "ipad": 0.01909349486231804,
+            "employees": 0.015875549986958504,
+            "data privacy": 0.014149214141070843,
+            "apple watch": 0.011442960239946842,
+            "airpods": 0.008126910775899887,
+            "apple tv or apple music": 0.00558127136901021
+        }
+    },
+    "article_10": {
+        "title": "Apple drops mask requirements for most of its corporate workers",
+        "body": "Team,\nWe are writing to share an update to our current protocols. In light of current circumstances, wearing a face mask will no longer be required in most locations. As always, please check Welcome Forward regularly for specific requirements for your site, including those from local health authorities, or any site you may visit.\nWe recognize that everyone\u2019s personal circumstances are different. Don\u2019t hesitate to continue wearing a face mask if you feel more comfortable doing so. Also, please respect every individual\u2019s decision to wear a mask or not.\nThank you for all that you do to support Apple\u2019s COVID-19 health and safety protocols.\nThe COVID-19 Response Team",
+        "url": "https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store",
+        "labels": {
+            "employees": 0.6362797021865845,
+            "iphone": 0.06720266491174698,
+            "airtag": 0.055673349648714066,
+            "software": 0.045182760804891586,
+            "apple watch": 0.04048042744398117,
+            "mac computers": 0.034001290798187256,
+            "ipad": 0.03296178951859474,
+            "money or stock": 0.024822821840643883,
+            "leaks or rumours": 0.021917302161455154,
+            "apple tv or apple music": 0.017099691554903984,
+            "data privacy": 0.013017453253269196,
+            "airpods": 0.011360784992575645
+        }
+    },
+    "article_11": {
+        "title": "TikTok's In-App Browser Reportedly Capable of Monitoring Anything You Type",
+        "body": "TikTok's custom in-app browser on iOS reportedly injects JavaScript code into external websites that allows TikTok to monitor \"all keyboard inputs and taps\" while a user is interacting with a given website, according to security researcher Felix Krause, but TikTok has reportedly denied that the code is used for malicious reasons.\nKrause said TikTok's in-app browser \"subscribes\" to all keyboard inputs while a user interacts with an external website, including any sensitive details like passwords and credit card information, along with every tap on the screen.\n\"From a technical perspective, this is the equivalent of installing a keylogger on third party websites,\" wrote Krause, in regards to the JavaScript code that TikTok injects. However, the researcher added that \"just because an app injects JavaScript into external websites, doesn't mean the app is doing anything malicious.\"\nIn a statement shared with Forbes, a TikTok spokesperson acknowledged the JavaScript code in question, but said it is only used for debugging, troubleshooting, and performance monitoring to ensure an \"optimal user experience.\"\n\"Like other platforms, we use an in-app browser to provide an optimal user experience, but the Javascript code in question is used only for debugging, troubleshooting and performance monitoring of that experience \u2014 like checking how quickly a page loads or whether it crashes,\" the statement said, according to Forbes.\nKrause said users who wish to protect themselves from any potential malicious usage of JavaScript code in in-app browsers should switch to viewing a given link in the platform's default browser if possible, such as Safari on the iPhone and iPad.\n\"Whenever you open a link from any app, see if the app offers a way to open the currently shown website in your default browser,\" wrote Krause. \"During this analysis, every app besides TikTok offered a way to do this.\"\nFacebook and Instagram are two other apps that insert JavaScript code into external websites loaded in their in-app browsers, giving the apps the ability to track user activity, according to Krause. In a tweet, a spokesperson for Facebook and Instagram parent company Meta said that the company \"intentionally developed this code to honor people's App Tracking Transparency (ATT) choices on our platforms.\"\nKrause said he created a simple tool that allows anyone to check if an in-app browser is injecting JavaScript code when rendering a website. The researcher said users simply need to open an app they wish to analyze, share the address InAppBrowser.com somewhere inside the app (such as in a direct message to another person), tap on the link inside the app to open it in the in-app browser, and read the details of the report shown.\nApple did not immediately respond to a request for comment.\nUpdate: A spokesperson for TikTok issued the following statement to MacRumors.\n\"The report's conclusions about TikTok are incorrect and misleading. The researcher specifically says the JavaScript code does not mean our app is doing anything malicious, and admits they have no way to know what kind of data our in-app browser collects. Contrary to the report's claims, we do not collect keystroke or text inputs through this code, which is solely used for debugging, troubleshooting, and performance monitoring.\"\nAccording to the TikTok spokesperson, the JavaScript code is part of a software development kit (SDK) that TikTok is leveraging, and the \"keypress\" and \"keydown\" functions mentioned by Krause are common inputs that TikTok does not use for keystroke logging.",
+        "url": "https://www.macrumors.com/2022/08/18/felix-krause-in-app-browser-javascript-tool/",
+        "labels": {
+            "software": 0.8137177228927612,
+            "data privacy": 0.043906621634960175,
+            "airtag": 0.02978564240038395,
+            "iphone": 0.02445957250893116,
+            "ipad": 0.02290687896311283,
+            "apple tv or apple music": 0.012233437970280647,
+            "apple watch": 0.011577809229493141,
+            "employees": 0.010100145824253559,
+            "leaks or rumours": 0.009811755269765854,
+            "airpods": 0.008718602359294891,
+            "mac computers": 0.0064188167452812195,
+            "money or stock": 0.00636298255994916
+        }
+    },
+    "article_12": {
+        "title": "Apple Criticized for 'Fundamentally Misguided' Approach to Stage Manager in iPadOS 16",
+        "body": "Stage Manager in the iPadOS 16 beta is receiving heavy criticism for being \"fundamentally misguided\" in its approach to bringing a new level of multitasking to the iPad experience, with some even calling on Apple to delay the feature entirely due to its shortcomings.\nFederico Viticci, the founder and editor in chief of MacStories and a prominent member of the Apple community, outlined his frustration with \u200cStage Manager\u200c in a Twitter thread earlier this week. Viticci says that design decisions built into \u200cStage Manager\u200c are \"fundamentally misguided,\" arguing that the feature is unstable, hard to use, and has user interface glitches across the experience.\n\"If \u200cStage Manager\u200c is the future of iPadOS for pro users, I hope Apple understands that it can't be rushed. We waited years for this; might as well get it in Spring 2023,\" Viticci says, suggesting Apple delay \u200cStage Manager\u200c's release entirely and rethink its approach.\n\u200cStage Manager\u200c, for the first time, lets users overlap windows and use external display support with their \u200ciPad\u200c. Apple's implementation of the feature, however, is not as clear-cut as some may have hoped.\n\u200ciPad\u200c enthusiasts have yearned for the company to take better advantage of the \u200ciPad\u200c's power and multitasking potential, and \u200cStage Manager\u200c is Apple's answer to those calls. The narrative around iPadOS and its inability to take full advantage of the \u200ciPad\u200c's hardware took a momentous leap when Apple brought the M1 Apple silicon chip to the iPad Pro in April 2021 and then to the iPad Air last fall.\n\u200cStage Manager\u200c is designed to only work with iPads powered by the \u200cM1\u200c chip, another point of contention surrounding the increasingly controversial feature. Apple argues that only the unified memory architecture of the \u200cM1\u200c chip, designed initially for the Mac, can power the heavy workload that \u200cStage Manager\u200c requires.\nAnnouncing \u200cStage Manager\u200c at WWDC in June, Apple's senior vice president of software engineering, Craig Federighi, said, \"With technologies like display scaling and virtual memory swap, we have the foundation for a big leap forward in user experience, one that can change how our Pro users get work done on \u200ciPad\u200c.\"\n\u200cStage Manager\u200c is one of just a few new features of \u200ciPadOS 16\u200c, but it's also present in macOS Ventura. While they share a name and the same fundamental idea, \u200cStage Manager\u200c's implementation on \u200ciPadOS 16\u200c and \u200cmacOS Ventura\u200c could not be more different.\nFor instance, as Viticci noted in his early overview of iPadOS 16, Apple is looking to alleviate the heavy lifting often faced by Mac users of having to perfectly position their overlapping Mac windows to create an ideal workspace. With \u200cStage Manager\u200c on \u200ciPadOS 16\u200c, the system automatically moves apps around to keep the main app in use in the center of the \"stage\" while other apps open \"gracefully move to the side.\" As Viticci wrote at the time:\nThe idea behind Stage Manager is that you'll get a system that wants to help you keep the benefits of overlapping windows while offering tools that should alleviate some of the pains behind window management for people like me, who have historically disliked the Mac's overlapping windows. Stage Manager also takes care of automatically focusing on the 'center app', and you can choose to hide or show the dock and recent apps on the left side. If you keep the dock, you'll have a fast way to drag in new windows into a workspace.\nViticci shared on Twitter two feedback reports he filed back to Apple about \u200cStage Manager\u200c, still in testing. First, he suggests an easy way to move windows from the \u200ciPad\u200c to an external display, as it's currently not possible to do so. The other feedback report outlines how the system \"destroys\" workspaces for apps when connected to an external display.\nFor the latter report, Apple responded by saying it \"behaves as intended,\" which Viticci calls \"baffling.\" For the other suggestion to make it easier to move windows and spaces to an external display, Apple said after having \"carefully considered\" the idea, it won't be moving forward with its implementation.\nStepping away from the precedent in years past, Apple is planning to release \u200ciPadOS 16\u200c later in the fall and not alongside iOS 16, expected in September. The delay in \u200ciPadOS 16\u200c's launch should give Apple ample time to address concerns around \u200cStage Manager\u200c before it launches to customers sometime in October.\nApple is unlikely to pull \u200cStage Manager\u200c from \u200ciPadOS 16\u200c when it's released, although it could always opt to label it as a beta feature until it works through the kinks, as it did for Universal Control in macOS Monterey.",
+        "url": "https://www.macrumors.com/2022/08/19/apple-criticized-ipados-16-stage-manager/",
+        "labels": {
+            "software": 0.7413343787193298,
+            "ipad": 0.16661392152309418,
+            "airtag": 0.03674812242388725,
+            "airpods": 0.009053904563188553,
+            "apple tv or apple music": 0.008106747642159462,
+            "money or stock": 0.007158773951232433,
+            "employees": 0.006961476057767868,
+            "data privacy": 0.006323352921754122,
+            "apple watch": 0.006178117357194424,
+            "iphone": 0.005450595635920763,
+            "mac computers": 0.0039760759100317955,
+            "leaks or rumours": 0.0020944622810930014
+        }
+    },
+    "article_13": {
+        "title": "Apple Finds Its Next Big Business: Showing Ads on Your iPhone",
+        "body": "Africa+\nAfrica is quickly becoming one of the business world's most supercharged areas, with a burgeoning startup scene, expansive infrastructure projects, and capital pouring in from across the world. In this series, Quicktake Originals takes an in-depth look at the domestic and international projects that are shaping modern Africa, and their implications for the global economy.",
+        "url": "https://www.bloomberg.com/news/newsletters/2022-08-14/apple-aapl-set-to-expand-advertising-bringing-ads-to-maps-tv-and-books-apps-l6tdqqmg",
+        "labels": {
+            "iphone": 0.5981538891792297,
+            "money or stock": 0.0912378653883934,
+            "software": 0.09038882702589035,
+            "airtag": 0.06793254613876343,
+            "ipad": 0.039552442729473114,
+            "apple tv or apple music": 0.028576288372278214,
+            "apple watch": 0.017465025186538696,
+            "leaks or rumours": 0.016763770952820778,
+            "mac computers": 0.015045735985040665,
+            "data privacy": 0.013652083463966846,
+            "airpods": 0.011449577286839485,
+            "employees": 0.009781906381249428
+        }
+    },
+    "article_14": {
+        "title": "iOS 16.1 to let users delete Wallet app amid antitrust concerns over Apple Pay",
+        "body": "Apple on Tuesday surprised developers with the release of both iOS 16.0 beta 7 and iPadOS 16.1 beta 1. And while neither update comes with significant changes, it seems that Apple will soon let users delete the Wallet app from their devices with iOS 16.1.\nTo make things clearer, iPadOS 16.1 beta is only available for iPad at this point as Apple has confirmed that the release of iPadOS 16 has been delayed to a later date. As such, iOS 16.0 is expected to be released for iPhone users in the coming weeks, while iPadOS 16 will arrive as version 16.1 later this fall.\nOf course, iPadOS 16.1 gives us an idea of what to expect from iOS 16.1, since the iPad\u2019s operating system is heavily based on iPhone software. By looking at the internal codes of iPadOS 16.1, 9to5Mac found that users will be able to uninstall the Wallet app with the update.\nThe Wallet app, once known as Passbook, is an app that comes installed by default on the iPhone to let users manage tickets, transit cards, keys, and most importantly, credit and debit cards added through Apple Pay. Right now, users can\u2019t uninstall the Wallet app from their iPhone if they want to, but this is about to change.\nCode seen by 9to5Mac makes it clear that the Wallet app has become \u201cdeletable\u201d with iOS 16.1. Unsurprisingly, some features like Apple Pay won\u2019t work without the Wallet app. In this case, users will see a message telling them to \u201cDownload the Wallet app from the App Store.\u201d\nSince iOS 16.1 is not yet available for iPhone and the iPad lacks the Wallet app, we haven\u2019t been able to see this new option in action.\nFollowing the release of the first iOS 16.1 beta for iPhone on Wednesday, we were able to confirm that the Wallet app is now removable.\nAntitrust concerns over Apple Pay\nThis move comes at a time when Apple is facing antitrust complaints against Apple Pay. Earlier this year, the European Union shared a Statement of Objections in which it criticizes Apple for restricting the NFC technology in the iPhone to its own payments platform. In July, law firm Hagens Berman also filed a lawsuit against Apple for forcing banks to adopt Apple Pay in order to reach iPhone and Apple Watch users.\nWith iOS 16, Apple has already introduced some changes to minimize these concerns. The update, which will be available to everyone this fall, will finally allow third-party web browsers to work with Apple Pay. Apple also announced \u201cTap to Pay\u201d for iPhone as a way to let third-party apps use the device as a contactless card terminal to receive payments.\nOn a related note, previous betas of iOS 16 began letting users delete Apple\u2019s Find My, Health, and Clock apps.",
+        "url": "https://9to5mac.com/2022/08/23/ios-16-1-let-users-delete-wallet-app/",
+        "labels": {
+            "software": 0.4970962703227997,
+            "iphone": 0.16085246205329895,
+            "airtag": 0.08236314356327057,
+            "data privacy": 0.07934387028217316,
+            "ipad": 0.04132331907749176,
+            "money or stock": 0.03664045408368111,
+            "apple watch": 0.028981534764170647,
+            "employees": 0.017912788316607475,
+            "apple tv or apple music": 0.01686764881014824,
+            "leaks or rumours": 0.01518373191356659,
+            "airpods": 0.013420076109468937,
+            "mac computers": 0.010014699772000313
+        }
+    },
+    "article_15": {
+        "title": "India Considering New Rules That Could Force Apple to Adopt USB-C on iPhone",
+        "body": "Following in the footsteps of the EU, India is now in the early stages of considering imposing regulations on consumer products sold in the country that force a universal standard charger, including USB-C, by as early as 2024, Mint reports.\nThe EU had reached an agreement earlier this summer that would force Apple to adopt USB-C on the iPhone and AirPods by fall 2024. While the agreement has been reached, the legislation still needs to be formally approved by the European Parliament and European Council later this year before Apple is forced to change its ways.\nOfficials in India held a meeting earlier this week with industry stakeholders and popular consumer electronic makers to discuss the possible impacts of a common charger. \"The meeting will be more of an explorative nature. We will try to learn from the stakeholders how a common charger can be adopted in India. We will also try to understand their concerns,\" India's secretary of Consumer Affairs told local media outlets.\nThe EU and India's push towards adopting a \"common port\" would impact a wide range of devices, including, more specifically, Apple, which has kept the \u200ciPhone\u200c with the Lightning port since 2012, while other products, such as the Mac and iPad, have largely moved towards USB-C.\nAmid pressure to move towards a \"common port,\" rumors from both Apple analyst Ming-Chi Kuo and Bloomberg's Mark Gurman have said that Apple is testing a USB-C iPhone, which could debut with the iPhone 15 next year. Other Apple products such as the AirPods will follow, according to Kuo.",
+        "url": "https://www.macrumors.com/2022/08/18/india-rules-usb-c-forced-on-iphone/",
+        "labels": {
+            "iphone": 0.6569889187812805,
+            "mac computers": 0.09580664336681366,
+            "airtag": 0.06508640944957733,
+            "leaks or rumours": 0.04640069231390953,
+            "software": 0.038638077676296234,
+            "ipad": 0.024033868685364723,
+            "money or stock": 0.02369844913482666,
+            "employees": 0.019734930247068405,
+            "data privacy": 0.01041330210864544,
+            "apple tv or apple music": 0.007717915810644627,
+            "airpods": 0.005832530092447996,
+            "apple watch": 0.0056482963263988495
+        }
+    },
+    "article_16": {
+        "title": "The Zoom installer let a researcher hack his way to root access on macOS",
+        "body": "A security researcher has found a way that an attacker could leverage the macOS version of Zoom to gain access over the entire operating system.\nDetails of the exploit were released in a presentation given by Mac security specialist Patrick Wardle at the Def Con hacking conference in Las Vegas on Friday. Some of the bugs involved have already been fixed by Zoom, but the researcher also presented one unpatched vulnerability that still affects systems now.\nThe exploit works by targeting the installer for the Zoom application, which needs to run with special user permissions in order to install or remove the main Zoom application from a computer. Though the installer requires a user to enter their password on first adding the application to the system, Wardle found that an auto-update function then continually ran in the background with superuser privileges.\nA privilege escalation attack\nWhen Zoom issued an update, the updater function would install the new package after checking that it had been cryptographically signed by Zoom. But a bug in how the checking method was implemented meant that giving the updater any file with the same name as Zoom\u2019s signing certificate would be enough to pass the test \u2014 so an attacker could substitute any kind of malware program and have it be run by the updater with elevated privilege.\nThe result is a privilege escalation attack, which assumes an attacker has already gained initial access to the target system and then employs an exploit to gain a higher level of access. In this case, the attacker begins with a restricted user account but escalates into the most powerful user type \u2014 known as a \u201csuperuser\u201d or \u201croot\u201d \u2014 allowing them to add, remove, or modify any files on the machine.\nWardle is the founder of the Objective-See Foundation, a nonprofit that creates open-source security tools for macOS. Previously, at the Black Hat cybersecurity conference held in the same week as Def Con, Wardle detailed the unauthorized use of algorithms lifted from his open-source security software by for-profit companies.\n\u201cIt was really frustrating to wait ... six, seven, eight months\u201d\nFollowing responsible disclosure protocols, Wardle informed Zoom about the vulnerability in December of last year. To his frustration, he says an initial fix from Zoom contained another bug that meant the vulnerability was still exploitable in a slightly more roundabout way, so he disclosed this second bug to Zoom and waited eight months before publishing the research.\n\u201cTo me that was kind of problematic because not only did I report the bugs to Zoom, I also reported mistakes and how to fix the code,\u201d Wardle told The Verge in a call before the talk. \u201cSo it was really frustrating to wait, what, six, seven, eight months, knowing that all Mac versions of Zoom were sitting on users\u2019 computers vulnerable.\u201d\nA few weeks before the Def Con event, Wardle says Zoom issued a patch that fixed the bugs that he had initially discovered. But on closer analysis, another small error meant the bug was still exploitable.\nIn the new version of the update installer, a package to be installed is first moved to a directory owned by the \u201croot\u201d user. Generally this means that no user that does not have root permission is able to add, remove, or modify files in this directory. But because of a subtlety of Unix systems (of which macOS is one), when an existing file is moved from another location to the root directory, it retains the same read-write permissions it previously had. So, in this case, it can still be modified by a regular user. And because it can be modified, a malicious user can still swap the contents of that file with a file of their own choosing and use it to become root.\nWhile this bug is currently live in Zoom, Wardle says it\u2019s very easy to fix and that he hopes that talking about it publicly will \u201cgrease the wheels\u201d to have the company take care of it sooner rather than later.\nIn a statement to The Verge, Matt Nagel, Zoom\u2019s security and privacy PR lead, said: \u201cWe are aware of the newly reported vulnerability in the Zoom auto updater for macOS and are working diligently to address it.\u201d",
+        "url": "https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle",
+        "labels": {
+            "mac computers": 0.6991216540336609,
+            "software": 0.22715941071510315,
+            "airtag": 0.03130686283111572,
+            "airpods": 0.010628676041960716,
+            "data privacy": 0.009016345255076885,
+            "employees": 0.005194284487515688,
+            "apple tv or apple music": 0.0037466513458639383,
+            "money or stock": 0.003102407790720463,
+            "iphone": 0.003010918153449893,
+            "leaks or rumours": 0.0026952733751386404,
+            "apple watch": 0.0026342966593801975,
+            "ipad": 0.002383231185376644
+        }
+    },
+    "article_17": {
+        "title": "Gurman: Apple Planning to Show Ads in Maps App Starting Next Year",
+        "body": "Apple plans to begin showing search ads in its Maps app on the iPhone starting next year, according to Bloomberg's Mark Gurman.\n\"I believe the engineering work is already underway to launch search ads in the Apple Maps app, and we should begin to see it be implemented sometime next year,\" wrote Gurman, in the subscriber-only version of his \"Power On\" newsletter today.\nAds in the Apple Maps app would not be the traditional banner ads that you see on websites, but rather paid search results. For example, a fast food chain could pay Apple to appear near the top of the results when a user searches for \"burgers\" or \"fries.\" Many similar apps already offer search ads, including Google Maps, Waze, and Yelp.\nApple already displays search ads in the App Store, allowing developers to pay to promote their apps to users who search for relevant keywords. Apple is also planning to show ads in the App Store's \"Today\" tab and in a new \"You Might Also Like\" section at the bottom of app listings, while banner ads are displayed in Apple's News and Stocks apps.\nLast week, Gurman said Apple is planning to significantly expand its advertising business over time. In his newsletter, he said that Apple's advertising division is generating about $4 billion in revenue annually and that Apple's advertising chief Todd Teresi wants to increase that figure to at least $10 billion per year over time.",
+        "url": "https://www.macrumors.com/2022/08/21/ads-coming-to-apple-maps-report/",
+        "labels": {
+            "software": 0.446351021528244,
+            "leaks or rumours": 0.29839035868644714,
+            "airtag": 0.06378385424613953,
+            "iphone": 0.06313875317573547,
+            "ipad": 0.038188014179468155,
+            "data privacy": 0.01961761713027954,
+            "apple watch": 0.015695739537477493,
+            "money or stock": 0.01471524778753519,
+            "airpods": 0.012372384779155254,
+            "mac computers": 0.010413680225610733,
+            "employees": 0.0096404068171978,
+            "apple tv or apple music": 0.007692880928516388
+        }
+    },
+    "article_18": {
+        "title": "Apple asked for a cut of Facebook\u2019s ad sales years before it stifled Facebook\u2019s ad sales",
+        "body": "Apple and Meta may not be the best of friends right now, but at one point, Apple was in discussions with the social media company about how it could make more money from its presence on the App Store, according to The Wall Street Journal.\nApple reportedly argued that it deserved a cut of certain portions of Facebook\u2019s ad revenue. The specific ads in question were boosted posts, which let users pay to have their posts reach more people, the WSJ reports. Apple apparently argued boosted posts are in-app purchases, which it famously takes a portion of; Meta argued that they were ads, from which Apple doesn\u2019t get a share. It seems that Meta won out.\nApple hasn\u2019t only wanted a share of boost sales from Meta. Matt Mullenweg, the CEO of Tumblr owner Automattic, says that Apple rejected Tumblr\u2019s recently-introduced boost-like feature until the company offered them as in-app purchases.\nApple and Meta also had conversations about a Facebook subscription that would remove ads from the social network, according to the WSJ. This also could have benefitted Apple, as it would have been able to earn revenue from subscriptions purchased in the app. The two companies weren\u2019t able to come to an agreement on the ideas. The discussions took place \u201cmostly\u201d between 2016 and 2018.\nApple and Meta didn\u2019t immediately reply to a request for comment. The two companies are now ideologically opposed when it comes to ads; Apple touts privacy as a key differentiator for its products, while Meta relies heavily on advertising for its business. And Apple\u2019s introduction of the \u201cAsk App not to Track\u201d prompt as part of iOS 14.5 in 2021 has had a significant impact on Meta, costing the company $10 billion in ad revenue last year.\nIn 2018, Meta executives also considered halting the collection of third-party data (like what\u2019s used for the company\u2019s targeted advertising), but CEO Mark Zuckerberg \u201copted instead to leave the bulk of its data-collection practices in place,\u201d the WSJ said.",
+        "url": "https://www.theverge.com/2022/8/12/23303095/apple-meta-facebook-ad-sales-subscription?fbclid=iwar0rtmwiazzdr3nu0tirl1yc9dna7g3jh_rn9gliodrygjbsyp0cc2wi60m",
+        "labels": {
+            "money or stock": 0.2766208052635193,
+            "iphone": 0.21058693528175354,
+            "software": 0.11017759144306183,
+            "airtag": 0.10987706482410431,
+            "ipad": 0.08524312824010849,
+            "mac computers": 0.06051528826355934,
+            "data privacy": 0.05848797783255577,
+            "apple watch": 0.034982144832611084,
+            "leaks or rumours": 0.015492646023631096,
+            "apple tv or apple music": 0.015058131888508797,
+            "employees": 0.012330185621976852,
+            "airpods": 0.010628098621964455
+        }
+    },
+    "article_19": {
+        "title": "Gurman: Apple Considering Updated HomePod Mini Alongside New High-End HomePod",
+        "body": "Apple is reportedly considering an update to the HomePod mini as it plans a larger push into the Home devices market, which includes releasing an updated version of the full-sized HomePod in the early months of 2023, according to Bloomberg's Mark Gurman.\nIn his latest Power On newsletter, Gurman reports that Apple is considering updating the \u200cHomePod mini\u200c, which was announced in October 2020. Gurman doesn't shed any details on what a possible update could include but states it's unlikely to be anything \"super-impressive.\"\nAs has been previously reported, Apple is planning to resurrect the original full-sized \u200cHomePod\u200c after discontinuing it in March 2021. The updated version of the \u200cHomePod\u200c is rumored to feature an updated S8 processor and possibly a new multi-touch display on top.\nGurman says the new full-sized \u200cHomePod\u200c is on track for a launch in early 2023, lining up with a timeline set forth by Apple analyst Ming-Chi Kuo.\nOther than an updated \u200cHomePod mini\u200c and a new full-sized \u200cHomePod\u200c, Gurman has previously reported that Apple is working on several new products for the Home. The most ambitious project under development is reportedly a \u200cHomePod\u200c product that combines a speaker, Apple TV functions, and a FaceTime camera into one device.\nAdditionally, Apple is working on a device focused on use in the kitchen that combines an iPad and a speaker connected to a robotic arm. Gurman expects at least one of these two Home products to launch towards the end of 2023 or in early 2024.",
+        "url": "https://www.macrumors.com/2022/08/07/new-homepod-mini-and-high-end-homepod/",
+        "labels": {
+            "leaks or rumours": 0.3970259428024292,
+            "apple tv or apple music": 0.16476595401763916,
+            "airtag": 0.0966748297214508,
+            "airpods": 0.07190601527690887,
+            "money or stock": 0.05350703001022339,
+            "software": 0.05164073407649994,
+            "iphone": 0.051372818648815155,
+            "employees": 0.029167477041482925,
+            "ipad": 0.02638419345021248,
+            "data privacy": 0.025716746225953102,
+            "mac computers": 0.019529856741428375,
+            "apple watch": 0.012308464385569096
+        }
+    },
+    "article_20": {
+        "title": "Kuo: Apple to start iPhone 14 production simultaneously in India and China",
+        "body": "Apple\u2019s key partner Foxconn has iPhone production lines in a few other places in the world outside of China, such as Brazil and India. However, China\u2019s operations remain the most important when it comes to worldwide iPhone shipments. This time, however, it seems that Apple will begin production of the iPhone 14 simultaneously in India and China.\nThe report comes from reliable analyst Ming-Chi Kuo, who revealed that at least one of the new iPhone 14 models will be produced in India at the same time as in China. If true, this will be the first time that production of a new generation iPhone will begin in another country simultaneously with China.\nAs noted by Kuo, in normal situations, production of a new iPhone outside of China usually takes a few months to start. For instance, Foxconn started assembling iPhone 13 in India in April this year, while production in Brazil began a few weeks later.\nOf course, iPhone production in other countries is not aimed at meeting global demand but at serving local markets. According to Kuo, the iPhone 14 production capacity in India won\u2019t be enough to fill the gap caused by production challenges in China in the short term, but it\u2019s still an \u201cimportant milestone for Apple\u201d when it comes to expanding iPhone production to other places.\nThe analyst emphasizes that Apple\u2019s decision to accelerate iPhone 14 production in India is due to geopolitical impacts on the company\u2019s supply chain.\nApple seeking alternatives to China\nAs reported earlier today, Apple has warned its suppliers about a possible \u201crevenge\u201d by the Chinese government against the United States after the controversial visit of US House of Representatives Speaker Nancy Pelosi to Taiwan. Pelosi had meetings with some of Apple\u2019s suppliers such as chipmaker TSMC and Taiwanese assembler Pegatron. Since then, there have been reports that China is blocking shipments from these companies.\nAt the same time, production of the iPhone 14 lineup has also been facing delays due to component shortages and some minor quality issues. By increasing iPhone production in India and potentially in Brazil as well, Apple might be able to slowly reduce its reliance on China \u2013 although this will be quite difficult to achieve.\nYet, despite all these setbacks, analysts still believe that Apple will announce the new iPhones next month. It\u2019s also rumored that the company will introduce the next generation Apple Watch with a Pro model for the first time and a redesigned entry-level iPad with USB-C port and 5G.",
+        "url": "https://9to5mac.com/2022/08/05/apple-iphone-14-production-india/",
+        "labels": {
+            "iphone": 0.30721741914749146,
+            "leaks or rumours": 0.30379819869995117,
+            "airtag": 0.08969065546989441,
+            "money or stock": 0.07051252573728561,
+            "employees": 0.06426108628511429,
+            "mac computers": 0.0400153249502182,
+            "software": 0.03134170174598694,
+            "data privacy": 0.03090151771903038,
+            "ipad": 0.01976897567510605,
+            "airpods": 0.018789051100611687,
+            "apple tv or apple music": 0.017834682017564774,
+            "apple watch": 0.005868822336196899
+        }
+    },
+    "article_21": {
+        "title": "Apple is allegedly threatening to fire an employee over a viral TikTok video - The Verge",
+        "body": "Apple is allegedly threatening to fire an employee who posted a TikTok video with basic iPhone security tips. The employee, Paris Campbell, says she was told that she breached company policy by identifying herself as an Apple employee and posting about Apple-related topics.\nThe company\u2019s social media policy warns employees against posting about customers, colleagues, or confidential information \u2014 but Apple doesn\u2019t specifically bar employees from posting about the technology entirely.\n\u201cWe want you to be yourself, but you should also be respectful in posts, tweets, and other online communications,\u201d an internal document reads.\nCampbell, a single mother living in New York, has worked at Apple for nearly six years, most recently as a repair technician in Apple retail. Last week, she responded to another TikTok user who\u2019d lost her iPhone at Coachella, then received threatening text messages saying her personal information would be sold on the black market unless she removed the iPhone from her Apple ID.\n\u201cI can\u2019t tell you exactly how I know this information, but I can tell you that for the last six years, I\u2019ve been a certified hardware engineer for a certain company that likes to talk about fruit,\u201d Campbell said in her response video, before warning the user not to listen to the extortionists. \u201cYour phone is actually useless to them, and you\u2019re the only person that can save them, and I suggest that you don\u2019t.\u201d\nThat video went viral, wracking up 5 million views in roughly 24 hours. On Friday, Campbell received a call from a manager, telling her to remove the video or she\u2019d be subject to disciplinary action \u201cup to and including termination.\u201d When she asked what would happen if she left the video up, she says the manager walked back the original comment and said he would get back to her. So far, he hasn\u2019t.\nOver the weekend, Campbell posted a second video titled \u201cdear Apple,\u201d where she revealed that she was an Apple employee and said she was waiting to hear if she was going to be fired. \u201cI\u2019ve never actually identified myself as an Apple employee until this video,\u201d she said. \u201cFunny thing is, though, after reviewing the social media policies... nowhere does it say I can\u2019t identify myself as an Apple employee publicly, just that I shouldn\u2019t do so in a way that makes the company look bad.\u201d\nCampbell, who\u2019s been a stand-up comic since 2011, has a significant social media following, including 439,000 followers on TikTok.\nThe popularity of her posts might not be enough to stop her from getting fired. Last year, Apple terminated two high-profile activists for allegedly sharing confidential information. But Campbell says her videos don\u2019t contain any information that isn\u2019t already publicly available.\n\u201cI find Apple\u2019s response to be directly in contrast to how we portray ourselves as a company in terms of telling people to think different, innovate, and come up with creative solutions,\u201d she says in an interview with The Verge. \u201cI don\u2019t just have all this Apple knowledge because I work for Apple. I come to this knowledge because I have a long technical education and history. That\u2019s why they hired me.\u201d",
+        "url": "https://www.theverge.com/2022/8/15/23306722/apple-fire-employee-viral-tiktok-video",
+        "labels": {
+            "employees": 0.5586786866188049,
+            "leaks or rumours": 0.20028814673423767,
+            "iphone": 0.05985375866293907,
+            "airtag": 0.05674765259027481,
+            "data privacy": 0.025836803019046783,
+            "money or stock": 0.022796662524342537,
+            "software": 0.016991592943668365,
+            "ipad": 0.016506506130099297,
+            "apple tv or apple music": 0.014117584563791752,
+            "mac computers": 0.011265230365097523,
+            "apple watch": 0.009275385178625584,
+            "airpods": 0.007642024662345648
+        }
+    },
+    "article_22": {
+        "title": "Kuo: Apple to Increase Prices of iPhone 14 Pro Models",
+        "body": "Apple plans to increase the prices of iPhone 14 Pro models compared to iPhone 13 Pro models, according to analyst Ming-Chi Kuo.\nKuo did not reveal exact pricing for the iPhone 14 Pro models. However, in a tweet today, he estimated that the average selling price of the iPhone 14 lineup as a whole will increase by about 15% compared to the iPhone 13 lineup.\nIn the United States, the iPhone 13 Pro starts at $999 and the iPhone 13 Pro Max starts at $1,099. If there were to be a 10% price increase to the Pro models, the iPhone 14 Pro could start at $1,099, while the iPhone 14 Pro Max could start at $1,199. However, the exact price increase for the Pro models remains to be seen.\n(1/2)\nHon Hai/Foxconn is one of the winners of the increased ASP of iPhone 14 series. I estimated iPhone 14 series ASP would increase by about 15% (vs. iPhone 13 series ASP) to $1,000-1,050 (USD) due to two iPhone 14 Pro's price hikes & higher shipment proportion. https://t.co/UgiW0kom4F \u2014 \u90ed\u660e\u9324 (Ming-Chi Kuo) (@mingchikuo) August 10, 2022\nIncreased prices could be due to inflation, the many new features expected for iPhone 14 Pro models, and other factors. It has also been predicted that iPhone 14 Pro models could start with an increased 256GB of storage , up from 128GB.\nKey new features rumored for the iPhone 14 Pro models include a new pill-shaped cutout and hole replacing the notch, a faster A16 chip, an upgraded 48-megapixel rear camera lens with support for 8K video recording, and an always-on display that shows the time, date, battery percentage, and iOS 16's new Lock Screen widgets.\nApple is expected to announce the iPhone 14 lineup in September as usual.",
+        "url": "https://www.macrumors.com/2022/08/10/iphone-14-pro-price-increase-kuo/",
+        "labels": {
+            "leaks or rumours": 0.4998559057712555,
+            "iphone": 0.21463900804519653,
+            "money or stock": 0.10092336684465408,
+            "airtag": 0.06390105187892914,
+            "software": 0.029386887326836586,
+            "employees": 0.02872699871659279,
+            "mac computers": 0.014514135196805,
+            "data privacy": 0.0144029026851058,
+            "apple tv or apple music": 0.010557162575423717,
+            "ipad": 0.009966989979147911,
+            "airpods": 0.008096531964838505,
+            "apple watch": 0.005029160063713789
+        }
+    },
+    "article_23": {
+        "title": "Apple Plans to Delay Launch of iPadOS 16 Update by About a Month",
+        "body": "Africa+\nAfrica is quickly becoming one of the business world's most supercharged areas, with a burgeoning startup scene, expansive infrastructure projects, and capital pouring in from across the world. In this series, Quicktake Originals takes an in-depth look at the domestic and international projects that are shaping modern Africa, and their implications for the global economy.",
+        "url": "https://www.bloomberg.com/news/articles/2022-08-03/apple-to-delay-ipad-software-launch-by-a-month-in-unusual-move",
+        "labels": {
+            "software": 0.5793188214302063,
+            "ipad": 0.16196906566619873,
+            "leaks or rumours": 0.14607907831668854,
+            "airtag": 0.04200436919927597,
+            "money or stock": 0.014176443219184875,
+            "airpods": 0.011064371094107628,
+            "employees": 0.010211152024567127,
+            "apple tv or apple music": 0.007962550967931747,
+            "data privacy": 0.007937531918287277,
+            "apple watch": 0.007270754314959049,
+            "iphone": 0.006894235033541918,
+            "mac computers": 0.005111684091389179
+        }
+    },
+    "article_24": {
+        "title": "System Settings App in macOS Ventura Beta 5 Still Riddled With UI Issues",
+        "body": "It seems Apple's redesigned macOS Ventura System Settings app, which replaces the System Preferences found in macOS Monterey and earlier versions, is still not without its problems five betas in, as catalogued by developer Niki Tonsky on Twitter.\nFor those unfamiliar with it, the new System Settings app looks more akin to the Settings app on the iPhone and iPad than it does to the earlier macOS preferences panels, with settings placed in a sidebar for supposedly easier access.\nHowever, Tonsky's thread highlights several bugs and issues with the interface layout in developer betas 4 and 5 of macOS Ventura, including inconsistent use and erratic behavior of basic UI elements like dropdowns and buttons, misaligned text and poorly sized windows, menu titles that are cut off by menu windows, misplaced content, and more.\nThe System Settings app is built using SwiftUI, Apple's cross-platform user interface layer that works across iOS, macOS, tvOS, and watchOS. Another complex app written in SwiftUI, Shortcuts, has also drawn criticism for similar UI and performance bugs on both macOS and iOS.\nOk thread of weird stuff found in redesigned macOS Ventura System Settings app. First one: what happens if you simply hold \u201cUp\u201d button pic.twitter.com/Xuez5U5ufe \u2014 Niki Tonsky (@nikitonsky) August 10, 2022\nThere are buttons that are halfway cut off by their parent view. When has Apple ever shipped beta software with problems like that? Putting aside the philosophical issue of whether the Mac's system prefs/settings app should follow the basic model of Settings on iOS/iPadOS, no matter what style MacOS's System Settings is supposed to look like, there should be no question that it should look pixel-perfect.\nLinking to and commenting on Tonsky's tweet thread on his own website, Daring Fireball 's John Gruber said there is \"something deeply wrong with SwiftUI that, even while in-progress, so many little layout details are apparently hard to get right.\"\nIn an interview with Gruber on The Talk Show Live at WWDC 2022, Craig Federighi said that despite what some may think, \u200cmacOS Ventura\u200c's System Settings redesign was not largely inspired by iOS. Federighi insisted that the development team's main goal was consistency for users, and said System Settings on \u200cmacOS Ventura\u200c is a \"great interface.\"\nDespite the lingering issues, there's still time for Apple to correct them, as macOS Ventura isn't likely to be scheduled for release until October, or perhaps even early November. Have you had similar experiences interacting with System Settings in the latest beta? What do you think of the new look? Let us know in the comments.",
+        "url": "https://www.macrumors.com/2022/08/16/system-settings-macos-ventura-beta-ui-issues/",
+        "labels": {
+            "software": 0.5852956175804138,
+            "mac computers": 0.24708975851535797,
+            "airtag": 0.07675720006227493,
+            "employees": 0.016044247895479202,
+            "apple watch": 0.012316491454839706,
+            "airpods": 0.011307112872600555,
+            "ipad": 0.010734055191278458,
+            "apple tv or apple music": 0.010121687315404415,
+            "iphone": 0.008305743336677551,
+            "data privacy": 0.008002241142094135,
+            "money or stock": 0.00711169745773077,
+            "leaks or rumours": 0.006914151832461357
+        }
+    }
+}

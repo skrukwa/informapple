@@ -1,0 +1,5 @@
+#scroll-container {
+    clip-path: inset(0);
+    width: 100%;
+    margin-top: calc(var(--lvh) * 100);
+}

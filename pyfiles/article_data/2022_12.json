@@ -1,0 +1,477 @@
+{
+    "article_0": {
+        "title": "FBI Calls Apple's Enhanced iCloud Encryption 'Deeply Concerning' as Privacy Groups Hail It As a Victory for Users",
+        "body": "Apple yesterday announced that end-to-end encryption is coming to even more sensitive types of iCloud data, including device backups, messages, photos, and more, meeting the longstanding demand of both users and privacy groups who have rallied for the company to take the significant step forward in user privacy.\n\u200ciCloud\u200c end-to-end encryption, or what Apple calls \"Advanced Data Protection,\" encrypts users' data stored in \u200ciCloud\u200c, meaning only a trusted device can decrypt and read the data. \u200ciCloud\u200c data in accounts with Advanced Data Protection can only be read by a trusted device, not Apple, law enforcement, or government entities.\nFollowing its announcements, the EFF or Electronic Frontier Foundation, a group that has long-called for Apple to enable end-to-end encryption and take more steps to safeguard user privacy, put out a statement applauding the new feature and Apple's renewed commitment to privacy.\nWe applaud Apple for listening to experts, child advocates, and users who want to protect their most sensitive data. Encryption is one of the most important tools we have for maintaining privacy and security online. That's why we included the demand that Apple let users encrypt iCloud backups in the Fix It Already campaign that we launched in 2019.\nMeredith Whittaker, CEO of the popular encrypted messaging app Signal, said the decision by Apple to offer end-to-end encryption \"is great.\" \"There's been enough pressure and enough narrative work that they see the side of history forming. It's really incredible,\" Whittaker told The Washington Post.\nThe Surveillance Technology Oversight Project, or S.T.O.P, called Advanced Data Protection \"essential and overdue.\" Despite the announcement, the group is \"disappointed\" that end-to-end encryption will require users to opt-in and is not to be enabled by default. Fox Cahn, the group's executive director, said, \"it's good to see Apple's privacy protections catching up with its sales pitch, but making these protections opt-in will leave most users vulnerable.\"\nFor years, Apple has touted its privacy record while leaving its users vulnerable, particularly to police surveillance. Much of the data users store on iCloud is just a court order away from becoming a policing tool. With these changes, Apple will keep up with the privacy best practices that other companies have followed for years. But it's disappointing that users have to opt-in to many of these new protections, leaving the vast majority at risk.\nFight for the Future, another privacy-focused advocacy group, said on Twitter that Apple's announcement of end-to-end encryption brings the company's marketing of being privacy-focused to reality. \"Apple's reputation as the pro-privacy tech company has long been at odds with the reality that \u200ciCloud\u200c backups aren't secured by end-to-end encryption. This news means people's personal messages, documents, and data will be secure from law enforcement, hackers, and Apple itself.\" The group is now calling upon Apple to implement RCS messaging into iPhone, a move the group says is a \"non-negotiable next step.\"\nWhile privacy groups and apps applaud Apple for the expansion of end-to-end encryption in \u200ciCloud\u200c, governments have reacted differently. In a statement to The Washington Post, the FBI, the largest intelligence agency in the world, said it's \"deeply concerned with the threat end-to-end and user-only-access encryption pose.\" Speaking generally about end-to-end encryption like Apple's Advanced Data Protection feature, the bureau said that it makes it harder for the agency to do its work and that it requests \"lawful access by design.\"\n\"This hinders our ability to protect the American people from criminal acts ranging from cyber-attacks and violence against children to drug trafficking, organized crime, and terrorism,\" the bureau said in an emailed statement. \"In this age of cybersecurity and demands for 'security by design,' the FBI and law enforcement partners need 'lawful access by design.'\"\nFormer FBI official Sasha O'Connell also weighed in, telling The New York Times \"it's great to see companies prioritizing security, but we have to keep in mind that there are trade-offs, and one that is often not considered is the impact it has on decreasing law enforcement access to digital evidence.\"\nIn January 2020, Reuters reported that Apple dropped plans to encrypt user data in \u200ciCloud\u200c at the behest of the FBI, which was concerned such a move would hinder investigations and its intelligence efforts. In an interview yesterday with The Wall Street Journal's Joanna Stern, Apple's vice president of software engineering, Craig Federighi, labeled the report as inaccurate. \"I've heard that rumor, but I don't know where it came from.\"\nIn that same interview, Federighi said Apple \"deeply appreciates the work of law enforcement and supports the work of law enforcement. We view that we really have the same mission at heart which is to keep people safe.\" Apple says that Advanced Data Protection will be available to all US users by the end of this year, with plans to launch globally in early 2023.\nUpdate: This article has been updated to note that the FBI was speaking generally about end-to-end encryption, which includes Apple's new Advanced Data Protection feature.",
+        "url": "https://www.macrumors.com/2022/12/08/fbi-privacy-groups-icloud-encryption/",
+        "labels": {
+            "data privacy": 0.7621015310287476,
+            "software": 0.09259207546710968,
+            "iphone": 0.044110655784606934,
+            "airtag": 0.03528779000043869,
+            "leaks or rumours": 0.011294865049421787,
+            "mac computers": 0.010059097781777382,
+            "apple watch": 0.009466401301324368,
+            "apple tv or apple music": 0.009251167997717857,
+            "ipad": 0.009187080897390842,
+            "money or stock": 0.007546945940703154,
+            "airpods": 0.0045635090209543705,
+            "employees": 0.004538827110081911
+        }
+    },
+    "article_1": {
+        "title": "Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws",
+        "body": "Bloomberg Daybreak Asia\nLive market coverage co-anchored from Hong Kong and New York. Overnight on Wall Street is daytime in Asia. Markets never sleep, and neither does Bloomberg. Track your investments 24 hours a day, around the clock from around the world.",
+        "url": "https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe",
+        "labels": {
+            "software": 0.4429473280906677,
+            "iphone": 0.13830095529556274,
+            "mac computers": 0.06958376616239548,
+            "airtag": 0.06286934018135071,
+            "ipad": 0.05991942062973976,
+            "money or stock": 0.04896879196166992,
+            "apple watch": 0.043645069003105164,
+            "data privacy": 0.03691555932164192,
+            "leaks or rumours": 0.030712662264704704,
+            "apple tv or apple music": 0.028160713613033295,
+            "airpods": 0.020897898823022842,
+            "employees": 0.017078446224331856
+        }
+    },
+    "article_2": {
+        "title": "Apple Reportedly 'Seriously' Concerned About iPhone 14 Plus Sales, Looking to Reevaluate iPhone 15 Lineup",
+        "body": "Apple is reportedly \"seriously\" concerned over the sales performance of the iPhone 14 Plus, the 6.7-inch non-Pro variant of the \u200ciPhone 14\u200c lineup. As a result, it is considering ways to restrategize its iPhone lineup for next year.\nThe \u200ciPhone 14\u200c Plus is the newest addition to the \u200ciPhone\u200c lineup and replaces the 5.4-inch mini \u200ciPhone\u200c. The \u200ciPhone 14\u200c Plus features the same design, cameras, and performance as the standard \u200ciPhone 14\u200c but with a larger display and battery. According to a post by yeux1122 on Naver, who has shared both accurate and inaccurate information in the past, Apple is thinking of ways to reevaluate how it treats pro and non-pro iPhones for the iPhone 15.\nThe post outlines two possible strategies reportedly under consideration at Apple, with the first being to further differentiate the pro and non-pro iPhones, which was previously rumored by Apple analyst Ming-Chi Kuo. Secondly, Apple is considering reducing the price of the Plus model of the lineup, which starts at $899, according to the post, which cites supply chain and industry sources. A price reduction of the Plus model means the standard \u200c\u200ciPhone\u200c\u200c, which starts at $799, could also see a price decrease unless Apple wants to shrink the pricing gap between the two models.\nIn the last few years, Apple has shifted and reevaluated its \u200ciPhone\u200c lineup a few times. Starting with the \u200ciPhone\u200c 6 and \u200ciPhone\u200c 6 Plus, Apple began offering small and large-sized iPhones before branching out and offering four models, two standard and two high-end models, with different materials, colors, and camera features. Starting with the iPhone 13 Pro, for example, Apple began to offer the same camera systems on the 6.1-inch Pro and 6.7-inch Pro Max model, unlike in previous years where more advanced camera features were reserved for only the largest \u200ciPhone\u200c.\nWith the \u200ciPhone 14\u200c and iPhone 14 Pro, Apple chose to offer two standard and two high-end models with matching sizes: two 6.1-inch models and two 6.7-inch models. Both the \u200ciPhone 14 Pro\u200c and \u200ciPhone 14 Pro\u200c Max feature the same cameras and designs, the only difference being a physically bigger battery in the \u200ciPhone 14 Pro\u200c Max.\nThe \u200ciPhone 15\u200c is still a year away, so it's too early to know what strategy Apple will use. In one sign, however, that it's looking to unify the entire lineup, Dynamic Island is expected to come to all iPhone 15 models. For a complete rundown of everything we know so far about the \u200ciPhone 15\u200c, check out our roundup.",
+        "url": "https://www.macrumors.com/2022/12/28/apple-reevaluate-iphone-15-lineup/",
+        "labels": {
+            "leaks or rumours": 0.32253676652908325,
+            "iphone": 0.30428972840309143,
+            "money or stock": 0.1666851043701172,
+            "airtag": 0.08893821388483047,
+            "data privacy": 0.021977221593260765,
+            "employees": 0.019604884088039398,
+            "software": 0.01646118238568306,
+            "mac computers": 0.016025057062506676,
+            "apple tv or apple music": 0.013843775726854801,
+            "airpods": 0.010976730845868587,
+            "apple watch": 0.009962993673980236,
+            "ipad": 0.008698458783328533
+        }
+    },
+    "article_3": {
+        "title": "Apple Advances User Security with Powerful New Data Protections",
+        "body": "December 7, 2022\nUPDATE\nApple advances user security with powerful new data protections\niMessage Contact Key Verification, Security Keys for Apple ID, and Advanced Data Protection for iCloud provide users with important new tools to protect their most sensitive data and communications\nApple today introduced three advanced security features focused on protecting against threats to user data in the cloud, representing the next step in its ongoing effort to provide users with even stronger ways to protect their data. With iMessage Contact Key Verification, users can verify they are communicating only with whom they intend. With Security Keys for Apple ID, users have the choice to require a physical security key to sign in to their Apple ID account. And with Advanced Data Protection for iCloud, which uses end-to-end encryption to provide Apple\u2019s highest level of cloud data security, users have the choice to further protect important iCloud data, including iCloud Backup, Photos, Notes, and more.\nAs threats to user data become increasingly sophisticated and complex, these new features join a suite of other protections that make Apple products the most secure on the market: from the security built directly into our custom chips with best-in-class device encryption and data protections, to features like Lockdown Mode, which offers an extreme, optional level of security for users such as journalists, human rights activists, and diplomats. Apple is committed to strengthening both device and cloud security, and to adding new protections over time.\n\u201cAt Apple, we are unwavering in our commitment to provide our users with the best data security in the world. We constantly identify and mitigate emerging threats to their personal data on device and in the cloud,\u201d said Craig Federighi, Apple\u2019s senior vice president of Software Engineering. \u201cOur security teams work tirelessly to keep users\u2019 data safe, and with iMessage Contact Key Verification, Security Keys, and Advanced Data Protection for iCloud, users will have three powerful new tools to further protect their most sensitive data and communications.\u201d\niMessage Contact Key Verification\nApple pioneered the use of end-to-end encryption in consumer communication services with the launch of iMessage, so that messages could only be read by the sender and recipients. FaceTime has also used encryption since launch to keep conversations private and secure. Now with iMessage Contact Key Verification, users who face extraordinary digital threats \u2014 such as journalists, human rights activists, and members of government \u2014 can choose to further verify that they are messaging only with the people they intend. The vast majority of users will never be targeted by highly sophisticated cyberattacks, but the feature provides an important additional layer of security for those who might be. Conversations between users who have enabled iMessage Contact Key Verification receive automatic alerts if an exceptionally advanced adversary, such as a state-sponsored attacker, were ever to succeed breaching cloud servers and inserting their own device to eavesdrop on these encrypted communications. And for even higher security, iMessage Contact Key Verification users can compare a Contact Verification Code in person, on FaceTime, or through another secure call.\nSecurity Keys\nApple introduced two-factor authentication for Apple ID in 2015. Today, with more than 95 percent of active iCloud accounts using this protection, it is the most widely used two-factor account security system in the world that we\u2019re aware of. Now with Security Keys, users will have the choice to make use of third-party hardware security keys to enhance this protection. This feature is designed for users who, often due to their public profile, face concerted threats to their online accounts, such as celebrities, journalists, and members of government. For users who opt in, Security Keys strengthens Apple\u2019s two-factor authentication by requiring a hardware security key as one of the two factors. This takes our two-factor authentication even further, preventing even an advanced attacker from obtaining a user\u2019s second factor in a phishing scam.\nAdvanced Data Protection for iCloud\nFor years, Apple has offered industry-leading data security on its devices with Data Protection, the sophisticated file encryption system built into iPhone, iPad, and Mac. \u201cApple makes the most secure mobile devices on the market. And now, we are building on that powerful foundation,\u201d said Ivan Krsti\u0107, Apple\u2019s head of Security Engineering and Architecture. \u201cAdvanced Data Protection is Apple\u2019s highest level of cloud data security, giving users the choice to protect the vast majority of their most sensitive iCloud data with end-to-end encryption so that it can only be decrypted on their trusted devices.\u201d For users who opt in, Advanced Data Protection keeps most iCloud data protected even in the case of a data breach in the cloud.\niCloud already protects 14 sensitive data categories using end-to-end encryption by default, including passwords in iCloud Keychain and Health data. For users who enable Advanced Data Protection, the total number of data categories protected using end-to-end encryption rises to 23, including iCloud Backup, Notes, and Photos. The only major iCloud data categories that are not covered are iCloud Mail, Contacts, and Calendar because of the need to interoperate with the global email, contacts, and calendar systems.\nEnhanced security for users\u2019 data in the cloud is more urgently needed than ever before, as demonstrated in a new summary of data breach research, \u201cThe Rising Threat to Consumer Data in the Cloud,\u201d published today. Experts say the total number of data breaches more than tripled between 2013 and 2021, exposing 1.1 billion personal records across the globe in 2021 alone. Increasingly, companies across the technology industry are addressing this growing threat by implementing end-to-end encryption in their offerings.\nAvailability\niMessage Contact Key Verification will be available globally in 2023.\nSecurity Keys for Apple ID will be available globally in early 2023.\nAdvanced Data Protection for iCloud is available in the US today for members of the Apple Beta Software Program, and will be available to US users by the end of the year. The feature will start rolling out to the rest of the world in early 2023.\nA complete technical overview of the optional security enhancements offered by Advanced Data Protection can be found in our Platform Security Guide, along with the data breach research \u201cThe Rising Threat to Consumer Data in the Cloud\u201d by Dr. Stuart Madnick, professor emeritus at MIT Sloan School of Management.\nPress Contacts\nTrevor Kincaid\nApple\nt_kincaid@apple.com\n(202) 281-6403\nShane Bauer\nApple\nsa_bauer@apple.com\n(512) 966-7192\nApple Media Helpline\nmedia.help@apple.com",
+        "url": "https://www.apple.com/newsroom/2022/12/apple-advances-user-security-with-powerful-new-data-protections/",
+        "labels": {
+            "data privacy": 0.37432122230529785,
+            "mac computers": 0.1804703027009964,
+            "software": 0.1709129810333252,
+            "iphone": 0.0955352932214737,
+            "ipad": 0.0490260049700737,
+            "airtag": 0.039187170565128326,
+            "apple watch": 0.03723093867301941,
+            "apple tv or apple music": 0.020999616011977196,
+            "money or stock": 0.011050446890294552,
+            "airpods": 0.008133008144795895,
+            "employees": 0.007240862585604191,
+            "leaks or rumours": 0.005892149172723293
+        }
+    },
+    "article_4": {
+        "title": "Apple plans to leave China as COVID-19 protests delay production of its products: Tim Cook could move factories to India and Vietnam after brutal lockdown at iPhone plant mean key deliveries won't arrive in time for Christmas",
+        "body": "Apple is planning to move parts of its production out of China after violent governmental protests delayed the company's production - as CEO Tim Cook eyes up Vietnam and India as new hubs.\nThe tech giant has accelerated plans to leave Zhengzhou, China - where iPhone City is located - in recent weeks, a source told the Wall Street Journal.\nCOVID-19 protests and wage disputes have broken out in the city, which employs up to 300,000 workers, leaving Apple's busiest time of year in shambles with production and delivery delays.\nConsumers are facing the longest wait times in the iPhone's 15-year history, with estimated ship dates being after Christmas, WSJ said. In addition, Apple's fourth quarter productions are around 10million less than expected, with iPhone Pro and Pro Max being hit the hardest.\nIn November, the company issued a notice that iPhone backups could happen due to the health restrictions in Zhengzhou.\nIt is now eyeing India and Vietnam to reduce its dependency on Taiwanese-based assemblers led by Foxconn Technology Group.\nTim Cook's company Apple is looking to work parts of its production out of China due to COVID-19 protests and wage disputes delaying productions at its busiest time of the year\nApple's Zhengzhou factory - known as iPhone City - is only running at around 20 percent, but could be bumped up to 40 percent this month, after China quarantined millions of people after a protest. Apple customers are facing the longest wait times in the phone's history and ship dates are estimated to extend past Christmas\nHowever, the countries could propose an issue for new production introduction as it does not have the amount of production engineers and suppliers to build hundreds of millions of products like China does.\niPhone City, located in Zhengzhou, made around 85 percent of Pro lineup at one point.\nBut analysts told WSJ that Apple no longer feels comfortable having the majority of its business locked in one place.\n'In the past, people didn\u2019t pay attention to concentration risks,' former US executive for Foxconn, Alan Yeung said. 'Free trade was the norm and things were very predictable. Now we\u2019ve entered a new world.'\nApple is hoping, long-term, to ship up to 45 percent of its products from India, which currently only does single digits, according to Ming-chi Kuo, an analyst at TF International Securities.\nAnd Vietnam could be largely handling the production AirPods, smartwatches and laptops, WSJ reported.\nFoxconn, which runs the Chinese factory, shipped $32billion in product in 2019, but Apple is reportedly looking to shift to India and Vietnam. Apple is hoping, long-term, to ship up tp 45 percent of its products from India, which currently only does single digits\nHowever, the company could still maintain a large presence in China - which has brought in around 1million local jobs, according to People's Daily, a state-backed newspaper - by using other supplies. Two companies Apple is reportedly considering is Luxshare Precision Industry Co. and Wingtech Technology Co.\nFoxconn, which run the Zhengzhou factory, shipped $32billion in product in 2019 and accounted for nearly four percent of China\u2019s exports in 2021, according to People's Daily.\nEven with Beijing's tensions with Taiwan, which the US has been politically involved in, the country still looks fondly at Apple presence in the country, the People's Daily reported.\nHowever, despite China easing some of the COVID-19 restrictions due to the ongoing protests, Apple's factory is still missing a lot of workers. Numbers are number, but it is estimated to be thousands to tens of thousands of workers, according to WSJ.\nKuo estimated that it is running at about 20 percent capacity, but it could shoot up to 40 percent this month.\nFoxconn has tried to move some of the production to its Shenzhen factory, which is roughly 1,000 miles away from the main factory, but it cannot make up the entire gap, according to WSJ.\nCOVID-19 restriction protests (pictured) have broken out recently, in a rare display of government resistance in the Communist country\nA protest broke out near the factory and the government ordered at five-day quarantine\nAnd now Foxconn is offering monetary incentives to get workers back in the factory by offering an $1,800 bonus in January to any full-time worker who started in November or earlier. Those who wanted to quit got a reported $1,400.\nLast week, China has ordered six million people into lockdown after hundreds of workers took to the streets in Zhengzhou.\nBeijing's move to crush the dissent came after images of the protests went viral, and as the number of coronavirus cases in China hit an all-time high - nearly three years into the pandemic and the Chinese Communist Party's zero-COVID-19 approach.\nIn a rare display of public anger, workers - furious over COVID-19 isolation policies and working conditions - violently clashed with hazmat-clad personnel wielding batons.\nIn the wake of the unrest, residents of eight districts of Zhengzhou, home to 6.6 million people, were told to stay home for five days beginning Thursday 'unless necessary' - to buy food or get medical treatment.\nDaily mass testing was ordered in what the city government called a 'war of annihilation' against the virus. The restrictions do not cover the iPhone factory, where workers have already been under COVID-10 restrictions for weeks.\nWorkers (pictured in August) line up to get tested for COVID-19 at the Foxconn factory in Wuhan in central China's Hubei province. Workers at the Zhengzhou iPhone plant been under COVID-19 restrictions for weeks, and have taken to the streets over their working conditions\nIn addition, Apple faces the struggle of India and Vietnam being able to handle the amount of production that China can, with Vietnam only have a 10th of the population that China does and can only handle a 60,000 person factory compared to 300,000.\n'They\u2019re not doing high-end phones in India and Vietnam,' former Foxconn executive, Dan Panzica, told WSJ. 'No other places can do them.'\nAlthough India has the number of people, the government coordination isn't as good as China's, leaving Apple deal with vastly different regional government restriction in the country.\n'India is the Wild West in terms of consistent rules and getting stuff in and out,' Panzica said.\nPanzica believes that in order for Apple to succeed to diversifying its company, it's going to have to rely on 'spreading it around and making more villages instead of big cities.'",
+        "url": "https://www.dailymail.co.uk/news/article-11498113/apple-plans-leave-china-covid-protests-delay-production-products.html",
+        "labels": {
+            "iphone": 0.18996264040470123,
+            "leaks or rumours": 0.18424224853515625,
+            "money or stock": 0.16636310517787933,
+            "airtag": 0.1606006622314453,
+            "employees": 0.06984879821538925,
+            "ipad": 0.04760650172829628,
+            "apple watch": 0.041895486414432526,
+            "apple tv or apple music": 0.04127113148570061,
+            "data privacy": 0.03702355548739433,
+            "software": 0.02622939459979534,
+            "mac computers": 0.022067880257964134,
+            "airpods": 0.012888561002910137
+        }
+    },
+    "article_5": {
+        "title": "Bye bye to Dark Sky tomorrow. One of the few apps I ever bought. Apple weather just isn\u2019t as good of a substitute even with the new real time hyper local feed.",
+        "body": "The calendar has turned to January 1 and Apple has shut down popular weather app Dark Sky. The app had already been removed from the App Store in September and it stopped functioning for existing users starting today.\nApple acquired Dark Sky in March 2020 and it has since incorporated many of the app's features into the preinstalled Weather app on the iPhone, iPad, and Mac. Earlier this month, Apple shared a support document with information on how Dark Sky users can use the Weather app, which now offers \"hyperlocal\" forecasts, including next-hour precipitation, hourly forecasts for the next 10 days, high-resolution radar maps, and severe weather notifications.\nTo use Dark Sky features in the Weather app, your device must be updated to iOS 16, iPadOS 16, or macOS Ventura. Some of the features are currently only available in select countries, as outlined in a separate Apple support document.\nApple will also be shutting down Dark Sky's API for third-party weather apps on March 31, and introduced its own WeatherKit API as a replacement.",
+        "url": "https://www.macrumors.com/2022/12/31/dark-sky-shuts-down-tomorrow/",
+        "labels": {
+            "software": 0.7559894919395447,
+            "iphone": 0.06803984194993973,
+            "airtag": 0.029399996623396873,
+            "airpods": 0.027334438636898994,
+            "ipad": 0.025272779166698456,
+            "data privacy": 0.024825720116496086,
+            "leaks or rumours": 0.018016427755355835,
+            "employees": 0.01746017299592495,
+            "mac computers": 0.013935113325715065,
+            "money or stock": 0.010284029878675938,
+            "apple watch": 0.007151101715862751,
+            "apple tv or apple music": 0.0022908819373697042
+        }
+    },
+    "article_6": {
+        "title": "Apple Pushing to Launch Search Engine to Rival Google",
+        "body": "Apple is working on an online search engine to rival Google amid wider improvements to Spotlight search, according to a recent report from The Information.\nThe report explains that Apple's work on search technology is facing setbacks amid a loss of talent to Google. In 2018, Apple sought to bolster development of its own web search engine by buying machine learning startup Laserlike, which was founded by three former Google search engineers. The company's technology recommended websites based on a user's interests and browsing history. Now, Laserlike's founders have reportedly returned to Google.\nApple's search team is believed to contain at least 200 employees and powers the technology behind Spotlight, Siri Suggestions, and answers provided by \u200cSiri\u200c. The team is still at least four years away from launching an outright replacement to Google search, according to one person involved with the team speaking to The Information. While Google pays Apple around $15 billion per year to stay as the default search engine on Apple devices, Apple developing an in-house rival to Google search could increase its leverage during its periodic negotiations with Google over the deal.\nIn the meanwhile, Apple has apparently discussed using the technology it has built to power search for Apple Music and the App Store. Apple currently uses this search technology to generate data for Apple teams developing apps that use natural language processing, such as the Translate app, and to use tweets to determine newsworthy events that should show up in results and recommend Apple News articles \u2013 but it can be used more widely in the future. One of the search team's immediate priorities is said to be improving Spotlight so that it can handle \"100 times more\" queries than it does today.\nThe idea of an Apple search engine has been speculated since at least 2015, when Apple first confirmed its Applebot and posted a series of search-related job listings, and rumors around the eventual launch of service have resurfaced periodically.",
+        "url": "https://www.macrumors.com/2022/12/19/apple-to-launch-search-engine-to-rival-google/",
+        "labels": {
+            "software": 0.7665960788726807,
+            "iphone": 0.04719694331288338,
+            "leaks or rumours": 0.03938738629221916,
+            "ipad": 0.029812579974532127,
+            "money or stock": 0.02374415658414364,
+            "airtag": 0.022007152438163757,
+            "mac computers": 0.021344846114516258,
+            "employees": 0.02107321284711361,
+            "data privacy": 0.007862884551286697,
+            "airpods": 0.007803983986377716,
+            "apple watch": 0.00739837484434247,
+            "apple tv or apple music": 0.005772413685917854
+        }
+    },
+    "article_7": {
+        "title": "A17 chip for iPhone 15 may focus more on battery life than power, suggests report",
+        "body": "A17 chip report | iPhone 14 battery shown\nThe A17 chip expected to be used in the iPhone 15 may potentially focus more on battery-life improvements than processing power.\nApple chipmaker TSMC placed more emphasis on power efficiency than performance when discussing the 3nm process destined to be used for the iPhone 15 \u2026\nBackground\nTSMC has been leading the chipmaking industry in using ever smaller processes. Next year\u2019s iPhone 15, as well as Macs powered by a new M2 Pro chip, are expected to use the company\u2019s new 3nm process \u2013 which kicked off mass production a few days ago.\nThe move to 3nm is a big step. Although Apple refers to the A16 chip powering the iPhone 14 Pro models as a 4nm chip, TSMC instead describes the N4 process used for the processor as an enhanced version of 5nm \u2013 so will effectively be jumping directly from 5nm to 3nm.\nEach new process generation allows more power to be squeezed into the same sized chip. Typically there is a balancing act between performance and power consumption, with Apple\u2019s chip designs aiming to provide the best of both worlds thanks to a mix of performance and efficiency cores.\nTSMC 3nm production ready for A17 chip\nWe\u2019re still nine months out from the iPhone 15, of course, but TSMC\u2019s Taiwan plants will be ready in plenty of time. The company held a ceremony a few days ago to celebrate the start of mass production of 3nm chips. This new process is expected to debut in Macs powered by a new M2 Pro chip, ahead of the A17 processor in the iPhone 15. Later M3 chips are also expected to use a 3nm process.\nBloomberg reports remarks by the company\u2019s chairman, Mark Liu, earlier today.\nTSMC said its 3nm processes offer better performance than its 5nm chips, while requiring about 35% less power.\nProviding an impressive stat for power efficiency improvements, while referring in far less concrete terms to performance boosts, could provide a clue as to what to expect from devices powered by 3nm chips.\n9to5Mac\u2019s Take\nApple of course designs the chips that TSMC produces, so is free to use the greater transistor density to suit its own goals. While the chipmaker appears to be stressing power efficiency over performance, that\u2019s no guarantee that this will be Apple\u2019s priority for the A17 chip.\nAll the same, with raw processing power rarely a limitation for iPhones, many would welcome greater emphasis on improved battery life.\nSo far as the M2 Pro chip for 2023 Macs are concerned, there Apple is almost certain to aim to squeeze as much power as possible from the chip \u2013 though Apple Silicon is also incredibly power efficient.\nPhoto: iFixit",
+        "url": "https://9to5mac.com/2022/12/29/a17-chip-for-iphone-15/",
+        "labels": {
+            "iphone": 0.41015228629112244,
+            "leaks or rumours": 0.37337011098861694,
+            "airtag": 0.08117979019880295,
+            "employees": 0.029893839731812477,
+            "software": 0.022187212482094765,
+            "ipad": 0.018742302432656288,
+            "apple tv or apple music": 0.01871318928897381,
+            "airpods": 0.010836305096745491,
+            "money or stock": 0.010823195800185204,
+            "mac computers": 0.010057002305984497,
+            "apple watch": 0.00738612050190568,
+            "data privacy": 0.006658616475760937
+        }
+    },
+    "article_8": {
+        "title": "Apple's iPhone 14 Emergency SOS via Satellite Feature Saves Stranded Man in Alaska",
+        "body": "With the launch of iOS 16.1, Apple rolled out a Emergency SOS via Satellite, which is designed to allow iPhone 14 owners to contact emergency services using satellite connectivity when no cellular or WiFi connection is available. The feature was put to the test in Alaska today, when a man became stranded in a rural area.\nIn the early hours of the morning on December 1, Alaska State Troopers received an alert that a man traveling by snow machine from Noorvik to Kotzebue had become stranded. The man was in a cold, remote location with no connectivity, and he activated the Emergency SOS via satellite feature on his \u200ciPhone 14\u200c to alert authorities to his predicament.\nApple's Emergency Response Center worked with local search and rescue teams and the Northwest Arctic Borough Search and Rescue Coordinator to send out volunteer searchers directly to the GPS coordinates that were relayed to Apple using the emergency function.\nThe man was rescued successfully and there were no injuries. The area where he was located is remote and on the fringes of where satellite connectivity is available. Apple says that satellite connectivity might not work in places above 62\u00b0 latitude, such as northern parts of Canada and Alaska, and Noorvik and Kotzebue are close to 69\u00b0 latitude.\nTroopers who helped with the rescue were \"impressed with the accuracy and completeness of information included in the initial alert,\" with the Emergency SOS via Satellite feature designed to ask several questions ahead of when an alert is sent out to expedite rescue missions.\nEmergency Satellite via SOS is available to all \u200ciPhone 14\u200c users, and it can be activated when an emergency situation occurs and there is no WiFi or cellular connection available. The feature is free to use for two years, and Apple has not yet provided detail on how much it will cost going forward.\nSatellite connectivity is available in North America at the current time, and it will soon expand to France, Germany, Ireland, and the UK.",
+        "url": "https://www.macrumors.com/2022/12/01/iphone-14-satellite-sos-in-action/",
+        "labels": {
+            "iphone": 0.6518012285232544,
+            "software": 0.21157529950141907,
+            "airtag": 0.05768314376473427,
+            "mac computers": 0.015412872657179832,
+            "airpods": 0.013866470195353031,
+            "data privacy": 0.010211708024144173,
+            "ipad": 0.0101589635014534,
+            "apple tv or apple music": 0.008675954304635525,
+            "employees": 0.006358257029205561,
+            "apple watch": 0.006036555860191584,
+            "money or stock": 0.005180148873478174,
+            "leaks or rumours": 0.0030393570195883512
+        }
+    },
+    "article_9": {
+        "title": "Apple introduces Apple Music Sing",
+        "body": "December 6, 2022\nPRESS RELEASE\nApple introduces Apple Music Sing\nApple Music expands its world-class lyrics experience with a new feature for fans to easily sing along to tens of millions of songs\nCUPERTINO, CALIFORNIA Apple today announced Apple Music Sing, an exciting new feature that allows users to sing along to their favorite songs with adjustable vocals1 and real-time lyrics. Apple Music Sing offers multiple lyric views to help fans take the lead, perform duets, sing backup, and more \u2014 all integrated within Apple Music\u2019s unparalleled lyrics experience. Coupled with an ever-expanding catalog that features tens of millions of the world\u2019s most singable songs, Apple Music Sing makes it fun and easy for anyone to participate, however and wherever they choose.\nApple Music Sing will be available later this month to Apple Music subscribers worldwide, and can be enjoyed on iPhone, iPad, and the new Apple TV 4K.\n\u201cApple Music\u2019s lyrics experience is consistently one of the most popular features on our service,\u201d said Oliver Schusser, Apple\u2019s vice president of Apple Music and Beats. \u201cWe already know our users all over the world love to follow along to their favorite songs, so we wanted to evolve this offering even further to enable even more engagement around music through singing. It\u2019s really a lot of fun, our customers are going to love it.\u201d\nApple Music Sing includes:\nAdjustable vocals: Users now have control over a song\u2019s vocal levels. They can sing with the original artist vocals, take the lead, or mix it up on millions of songs in the Apple Music catalog.\nReal-time lyrics: Users can sing along to their favorite songs with animated lyrics that dance to the rhythm of the vocals.\nBackground vocals: Vocal lines sung simultaneously can animate independently from the main vocals to make it easier for users to follow.\nDuet view: Multiple vocalists show on opposite sides of the screen to make duets or multi-singer tracks easy to sing along to.\nApple Music will also be launching a suite of more than 50 dedicated companion playlists featuring all of the epic songs, duets, choruses, and anthems that have been compelling people all around the world to sing \u2014 fully optimized for the Apple Music Sing experience.\nAvailability\nApple Music Sing will be available later this month for Apple Music subscribers worldwide.2\nApple Music Sing will be available on all compatible iPhone and iPad models as well as the new Apple TV 4K.\nThe vocal slider adjusts vocal volume, but does not fully remove vocals. The feature is not available for Apple Music Voice Plan subscribers.\nApple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, and Apple TV. Apple\u2019s five software platforms \u2014 iOS, iPadOS, macOS, watchOS, and tvOS \u2014 provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, and iCloud. Apple\u2019s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.Apple loves music. Apple revolutionized the music experience with iPod and iTunes. Today, the award-winning Apple Music celebrates musicians, songwriters, producers, and fans with a catalog of over 100 million songs, expertly curated playlists, and the best artist interviews, conversations, and global premieres with Apple Music Radio. With original content from the most respected and beloved people in music, autoplay, time-synced lyrics, lossless audio, and immersive sound powered by Spatial Audio with Dolby Atmos, Apple Music offers the world\u2019s best listening experience, helping listeners discover new music and enjoy their favorites while empowering the global artist community. Apple Music is available in over 165 countries and regions on iPhone, iPad, iPod touch, Mac, Apple Watch, Apple TV, HomePod mini, CarPlay, and online at music.apple.com , plus popular smart speakers, smart TVs, and Android and Windows devices. Apple Music is ad-free and never shares consumer data with third parties. More information is available at apple.com/apple-music\nPress Contacts\nJessica Bass\nApple\njessica_bass@apple.com\nApple Media Helpline\nmedia.help@apple.com",
+        "url": "https://www.apple.com/newsroom/2022/12/apple-introduces-apple-music-sing/",
+        "labels": {
+            "software": 0.44353553652763367,
+            "apple tv or apple music": 0.28266239166259766,
+            "airtag": 0.07479701936244965,
+            "iphone": 0.05548548698425293,
+            "employees": 0.020827749744057655,
+            "money or stock": 0.019493358209729195,
+            "apple watch": 0.01913924515247345,
+            "airpods": 0.018570676445961,
+            "mac computers": 0.018450329080224037,
+            "ipad": 0.018222535029053688,
+            "data privacy": 0.01707843318581581,
+            "leaks or rumours": 0.011737187393009663
+        }
+    },
+    "article_10": {
+        "title": "Apple Considering Dropping Requirement for iPhone and iPad Web Browsers to Use Safari's WebKit Engine",
+        "body": "As part of a larger story about Apple's plans to allow third-party app stores on the iPhone and iPad in EU countries, Bloomberg's Mark Gurman claimed that Apple is also considering removing its requirement for iPhone and iPad web browsers to use WebKit, the open source browser engine that powers Safari.\nGurman said this potential change comes in response to the EU's Digital Markets Act. It's unclear if Apple would drop the requirement in other regions.\n\"Currently, third-party web browsers, including ones like Chrome from Alphabet Inc.'s Google, are required to use WebKit, Apple's Safari browsing engine,\" wrote Gurman. \"Under the plan to meet the new law, Apple is considering removing that mandate.\"\nGurman did not provide any additional details or a potential timeframe for Apple dropping this requirement, but the move would allow for web browsers and in-app browsers on the iPhone and iPad to use alternative browser engines like Google's Blink (used by Chrome and Microsoft Edge) and Mozilla's Quantum (used by Firefox). As a result, these browsers would no longer be tied to WebKit's features and development schedule.\nChrome, Edge, Firefox, and other popular web browsers like Opera and DuckDuckGo are all currently forced to use WebKit on iOS, resulting in limited differentiation with Safari. Apple has previously stated that the WebKit requirement is enforced primarily due to security and privacy considerations, but some find the policy anti-competitive.\nEarlier this year, a group of software engineers from the UK and other countries said Apple banning non-WebKit browsers on iOS is \"deeply anti-competitive\" and encouraged the company to remove this limitation. The group also complained that Safari has several features unavailable to third-party web browsers on iOS that do use WebKit.\nGurman's report also said that Apple is not currently considering adopting the RCS standard alongside iMessage, and said that the company is working to provide third-party apps with limited access to the iPhone's NFC chip, but he did not elaborate.",
+        "url": "https://www.macrumors.com/2022/12/14/apple-considering-non-webkit-iphone-browsers/",
+        "labels": {
+            "software": 0.4319646954536438,
+            "leaks or rumours": 0.21940937638282776,
+            "iphone": 0.13630439341068268,
+            "ipad": 0.08237850666046143,
+            "airtag": 0.024106813594698906,
+            "mac computers": 0.021510280668735504,
+            "apple watch": 0.016656119376420975,
+            "apple tv or apple music": 0.016382724046707153,
+            "data privacy": 0.014371898025274277,
+            "employees": 0.014304772019386292,
+            "airpods": 0.011307133361697197,
+            "money or stock": 0.0113033726811409
+        }
+    },
+    "article_11": {
+        "title": "iPhone 14 Pro Faced 'Unprecedented' Setback Leading to Removal of New Graphics Processor",
+        "body": "Apple planned a major generational update for the iPhone 14 Pro's graphics capabilities, but was forced to scrap plans for the new GPU late in development after \"unprecedented\" missteps were discovered, according to The Information.\nIn a paywalled report, The Information claimed that Apple engineers were \"too ambitious\" in adding new features to the graphics processor designed for the \u200ciPhone 14 Pro\u200c, including features like ray tracing \u2013 a lighting technique to achieve a further level of realism in games. This meant that \u200ciPhone 14 Pro\u200c prototype were found to draw much more power than expected, impacting the device's battery life and thermal management.\nAccording to several individuals that claim to possess first-hand knowledge of the incident speaking to The Information, Apple discovered the flaw in the \u200ciPhone 14 Pro\u200c's GPU late in the device's development cycle, meaning that it had to hastily pivot to revert largely to the GPU from the A15 Bionic chip from the previous year's iPhone 13 lineup.\nThe incident is reportedly unprecedented in Apple's chip design history and is responsible for why the \u200ciPhone 14 Pro\u200c shows only small improvements in graphics performance compared to the leaps made by previous iPhone generations. The error resulted in Apple restructuring its graphics processor team and moving some managers away from the project, including the exit of key figures that apparently contributed to Apple's emergence as a chip design leader.\nThe report goes on to reveal how Apple's chip design team has been forced to contend with a loss of talent in recent years, with the company having lost dozens of key people to various silicon design companies since 2019, as well as interpersonal feuds and lawsuits with chip startups.",
+        "url": "https://www.macrumors.com/2022/12/23/iphone-14-pro-setback-removed-graphics-processor/",
+        "labels": {
+            "iphone": 0.7335872650146484,
+            "software": 0.11519277840852737,
+            "airtag": 0.037046048790216446,
+            "leaks or rumours": 0.025656510144472122,
+            "ipad": 0.018867647275328636,
+            "mac computers": 0.01859847642481327,
+            "money or stock": 0.014276345260441303,
+            "airpods": 0.010887556709349155,
+            "employees": 0.007605859078466892,
+            "data privacy": 0.00710451602935791,
+            "apple tv or apple music": 0.006632665172219276,
+            "apple watch": 0.00454434659332037
+        }
+    },
+    "article_12": {
+        "title": "Never mind, Musk says \u2014 accusation against Apple was a \u2018misunderstanding\u2019",
+        "body": "Apple did not immediately respond to requests for comment. Musk did not explain how the alleged misunderstanding had occurred.\nCook is expected to be in Washington on Thursday, meeting with senators among others.\nMusk had a much different tone Monday, when he issued a series of tweets accusing Apple of threatening to \u201cwithhold\u201d Twitter from the App Store, among other unspecified \u201ccensorship actions\u201d that he laid at Apple\u2019s feet. Those tweets remained live on Musk\u2019s Twitter feed as of Wednesday night.\nRemoval from the App Store would pose an almost existential threat to Twitter by making it impossible for iPhone and iPad users to load the social media app onto their devices. Musk\u2019s accusation provoked a tide of anti-Apple attacks from Republicans, including lawmakers and Florida Gov. Ron DeSantis, a potential GOP presidential nominee in 2024.\nRepublicans cited the alleged threat as evidence that Congress needs to enact antitrust legislation loosening Apple\u2019s control over the App Store, a bulwark of the company\u2019s $2 trillion-plus fortune.\nWednesday\u2019s retraction is just the latest twist involving Musk since he bought Twitter last month, fired much of its staff and began reversing years worth of its content decisions, including by inviting former President Donald Trump and other right-wing figures back to the site. Civil rights and anti-disinformation groups have complained that Musk\u2019s moves are causing a resurgence of hate speech and harmful propaganda on Twitter \u2014 the kind of content that violates rules governing Apple\u2019s app marketplace.\nMohar Chatterjee contributed to this report.",
+        "url": "https://www.politico.com/news/2022/11/30/musk-cook-twitter-apple-app-store-00071521",
+        "labels": {
+            "airtag": 0.24453002214431763,
+            "leaks or rumours": 0.18911471962928772,
+            "money or stock": 0.1797448694705963,
+            "iphone": 0.0941583439707756,
+            "mac computers": 0.07964364439249039,
+            "ipad": 0.048527538776397705,
+            "software": 0.04290859028697014,
+            "apple watch": 0.03757644072175026,
+            "employees": 0.02206871658563614,
+            "data privacy": 0.022066958248615265,
+            "apple tv or apple music": 0.020952070131897926,
+            "airpods": 0.01870807260274887
+        }
+    },
+    "article_13": {
+        "title": "Apple Didn't Release Any New Macs This Quarter for First Time Since 2000",
+        "body": "The fourth quarter of 2022 this week becomes the first with no new Mac models in 22 years as previously anticipated devices like the next-generation MacBook Pro and Mac Pro models have apparently been pushed out to 2023.\nHistorically, Apple released at least one new Mac model every year in the fourth quarter that runs between October and December, starting in 2001 with the launch of the iBook G3. This means that there has been a new Mac toward the end of the year for the entire lifespan of product lines including the iPod, iPhone, iPad, and Apple Watch. The last Mac that Apple released is the M2 MacBook Air, which launched on July 15. Depending on how long Apple waits to launch its next Mac, the time following the launch of the \u200cMacBook Air\u200c could be among the longest periods with no new Mac models at all.\nWhile it was widely rumored that new 14- and 16-inch MacBook Pro models would emerge before the end of the year, a time frame seemingly supported by some mass production forecasts, as 2022 draws to a close, it is now almost certain that these devices have been substantially delayed. The MacBook Pro delay first became apparent when Korean blogger \"yeux1122\" cited a supply chain source saying that the updated 14-inch and 16-inch MacBook Pro models will not launch until around March next year. The picture became clearer when Bloomberg's Mark Gurman said in October that the next wave of Mac releases will now take place in the first quarter of 2023, including updated versions of the MacBook Pro, Mac mini, and \u200cMac Pro\u200c.\nOverall, this constitutes a delay of up to six months over what was originally expected for the next-generation MacBook Pro models. Gurman expects the next MacBook Pros to have few other upgrades beyond the \u200cM2\u200c Pro and \u200cM2\u200c Max chips, but high-bandwidth memory and ports with newer specifications seem plausible.\nThe \u200cMac Pro\u200c is another device that was once strongly believed to launch before the end of the year, not least because this would have aligned to Apple's wish to transition the entire Mac lineup to Apple silicon within two years. At its \"Peek Performance\" event earlier this year, Apple even directly teased the launch of the Apple silicon Mac Pro, saying \"that's for another day.\" While Apple reportedly had an M1-variant of the Mac Pro ready to launch earlier in 2022, the company appears to be waiting for an even bigger performance and efficiency jump next year.\nMultiple reports from Gurman about the Apple silicon \u200cMac Pro\u200c's chip options and specifications provide a fairly straightforward picture of what to expect from the new flagship Mac, but little is currently known about the device's design, ports, performance, and potential for modularity and customization. Most recently, Gurman said that Apple had likely scrapped plans for an \"\u200cM2\u200c Extreme\" chip, but \u200cM2\u200c Ultra configurations of the new \u200cMac Pro\u200c still seem to be on track for launch in 2023.",
+        "url": "https://www.macrumors.com/2022/12/30/no-new-macs-for-first-time-since-2000/",
+        "labels": {
+            "mac computers": 0.828158974647522,
+            "software": 0.04359912499785423,
+            "airtag": 0.038095347583293915,
+            "money or stock": 0.03219490125775337,
+            "data privacy": 0.01243381854146719,
+            "employees": 0.008827812038362026,
+            "leaks or rumours": 0.008490427397191525,
+            "apple tv or apple music": 0.006120069418102503,
+            "ipad": 0.0056488667614758015,
+            "apple watch": 0.005588374566286802,
+            "airpods": 0.005570530891418457,
+            "iphone": 0.005271786358207464
+        }
+    },
+    "article_14": {
+        "title": "3nm Chips From Apple Supplier TSMC to Enter Mass Production This Week",
+        "body": "Apple's main chip supplier TSMC will kick off mass production of 3nm chips this week, with Apple being the primary customer of the new process, which could first be used in upcoming M2 Pro chips expected to power updated MacBook Pro and Mac mini models.\nAccording to the new report by DigiTimes, TSMC will start mass production of its next-generation \u200c3nm\u200c chip process on Thursday, December 29, in line with reports from earlier in the year that said \u200c3nm\u200c mass production would begin later in 2022. From the report:\nTSMC is scheduled to hold a ceremony at Fab 18 at the Southern Taiwan Science Park (STSP) on December 29 to mark the start of commercial production of chips using 3nm process technology. The pure-play foundry will also detail plans to expand 3nm chip production at the fab, according to sources at semiconductor equipment companies.\nApple currently uses TSMC's 4nm process in the A16 Bionic chip in the iPhone 14 Pro series but could jump to \u200c3nm\u200c as soon as early next year. A report in August claimed the upcoming \u200cM2\u200c Pro chips would be the first to be based on the \u200c3nm\u200c process. The \u200cM2\u200c Pro chip is expected to debut first in updated 14-inch and 16-inch MacBook Pros early next year and possibly updated Mac Studio and \u200cMac mini\u200c models.\nLater in 2023, according to another report, the third generation of Apple silicon, the M3 chip, and the A17 Bionic for the iPhone 15, will be based on TSMC's enhanced \u200c3nm\u200c process, which has yet to be made available. According to the DigiTimes report today, citing industry sources, production of \u200c3nm\u200c process chips is \"unlikely to ramp up\" until production of the enhanced version gets underway.",
+        "url": "https://www.macrumors.com/2022/12/26/3nm-chips-mass-production/",
+        "labels": {
+            "mac computers": 0.1986180543899536,
+            "iphone": 0.1933586150407791,
+            "ipad": 0.10388932377099991,
+            "money or stock": 0.0949021726846695,
+            "airtag": 0.09141744673252106,
+            "leaks or rumours": 0.07107032835483551,
+            "apple watch": 0.06628977507352829,
+            "apple tv or apple music": 0.06300201267004013,
+            "data privacy": 0.053134165704250336,
+            "employees": 0.03353516384959221,
+            "software": 0.015661226585507393,
+            "airpods": 0.015121744945645332
+        }
+    },
+    "article_15": {
+        "title": "AirTag safety features foil Iowa man's repeated stalking attempts",
+        "body": "Apple\u2019s safety measures around its AirTag item tracker continue to work as intended. A new report out of Iowa says that a man was arrested after attempting to stalk a person he claimed to be married to. The victim, however, told investigators that \u201cthe two never had a relationship\u201d and the man had been blocked from calling and messaging them.\nAirTag safety features kick in to protect victim\nCarl Steven Shawver, 63, attempted to stalk the victim on three separate occasions, according to a report from local news outlet Keloland. He first placed an AirTag on top of a spare tire in the victim\u2019s car \u201cbecause he believed the victim was having an affair.\u201d The victim was alerted to the AirTag thanks to Apple\u2019s built-in safety precautions, which alerted them to AirTag that was moving with them.\nThe victim then went to the Bettendorf, Iowa police department to report the fact that they were being tracked by an AirTag. Shawver, seeing that the AirTag location was at the police department, later showed up and told officers he thought the victim was \u201chaving an affair at the station, which is why he was at the station looking for them.\u201d\nSeemingly no arrest was made at this point in the case. But then, the victim was alerted to a second AirTag that was following their location. West Des Moines Police officers located this AirTag \u201cplaced in a wallet and inside a plastic sandwich bag sitting on top of the spare tire.\u201d\nThe victim was later notified of a third AirTag that was tracking their location. At this point, the victim took their car to a mechanic shop, where a car lift was utilized to search for the device. By this point, Shawver had gotten more creative, and the \u201cAirTag was located on the car\u2019s sub frame near the front passenger tire wrapped in plastic and in a plastic case.\u201d\nAt this point, all three AirTags were placed into evidence at the police department, and Shawver again showed up to the department after he checked the location of the AirTags.\nAccording to court records, an officer with the West Des Moines Police Department placed all the AirTags into evidence, and when doing so saw Shawver in his vehicle in the station\u2019s parking lot. The officer later conducted a traffic stop on Shawver and during the stop Shawver told the officer that he and the victim had agreed to meet at the station, court records state. Despite Shawver telling police that he and the victim were married, the two never had a relationship and the victim had blocked Shawver from calling and messaging them, court records said.\nShawver is being held in the Polk County Jail on a $3,000 bond, and a preliminary hearing is set to take place on December 19.\nThis is yet another example of Apple\u2019s advanced AirTag safety features kicking into action. In this instance, the features worked as expected, not once, not twice, but three times. Apple announced a suite of new safety features to ease AirTag stalking concerns in February, and since then, we\u2019ve repeatedly seen the features kick in to protect users.\nFollow Chance: Twitter, Instagram, and Mastodon",
+        "url": "https://9to5mac.com/2022/12/11/airtag-safety-features-lead-to-arrest-of-stalker/",
+        "labels": {
+            "airtag": 0.6236270070075989,
+            "airpods": 0.25757914781570435,
+            "software": 0.03738097473978996,
+            "data privacy": 0.020176999270915985,
+            "ipad": 0.012336490675807,
+            "iphone": 0.011291489005088806,
+            "apple tv or apple music": 0.009418417699635029,
+            "apple watch": 0.007507134694606066,
+            "money or stock": 0.005901297088712454,
+            "employees": 0.005421909969300032,
+            "mac computers": 0.005276480223983526,
+            "leaks or rumours": 0.004082606174051762
+        }
+    },
+    "article_16": {
+        "title": "15.5-Inch MacBook Air Expected to Launch in Spring 2023",
+        "body": "Apple is developing a 15.5-inch MacBook Air that could launch in the spring of 2023, according to display analyst Ross Young. In a tweet shared with super followers, Young said that production on panels designed for the \u200cMacBook Air\u200c will start in the first quarter of 2023.\nA 15.5-inch \u200cMacBook Air\u200c will be sized between the 14 and 16-inch MacBook Pro models, and it will be the largest \u200cMacBook Air\u200c to date. The current model measures in at 13.6 inches. While Young now says that the display will be 15.5 inches, he previously said it would be around 15.2 inches.\nApple's rumored 15-inch \u200cMacBook Air\u200c is expected to feature the same general design as the 13-inch \u200cMacBook Air\u200c that was released in 2022 with flat edges, a large Force Touch trackpad, a keyboard with function keys, and more. It will also likely include a MagSafe charging port, upgraded speaker system, and a 1080p camera.\nAs for chips, the larger-screened \u200cMacBook Air\u200c could be available with M2 and \u200cM2\u200c Pro chip options, and in comparison to the MacBook Pro models, it is not expected to feature the same mini-LED display or ProMotion technology.",
+        "url": "https://www.macrumors.com/2022/12/15/15-inch-macbook-air-spring-2023/",
+        "labels": {
+            "mac computers": 0.7795721292495728,
+            "airtag": 0.07818542420864105,
+            "leaks or rumours": 0.03073856048285961,
+            "software": 0.024654483422636986,
+            "airpods": 0.024548035115003586,
+            "employees": 0.01455237902700901,
+            "money or stock": 0.013846375979483128,
+            "data privacy": 0.012559507042169571,
+            "apple tv or apple music": 0.010547414422035217,
+            "apple watch": 0.004551422316581011,
+            "ipad": 0.0036154165863990784,
+            "iphone": 0.002628931775689125
+        }
+    },
+    "article_17": {
+        "title": "Elon Musk Says Apple Has 'Fully Resumed' Advertising on Twitter",
+        "body": "Apple has \"fully resumed\" advertising on the Twitter social network, Twitter CEO Elon Musk said today during a two-hour Twitter Spaces chat highlighted by Bloomberg. Musk also confirmed that Apple is Twitter's largest advertiser.\nJust five days ago, Musk accused Apple of hating \"free speech,\" \"making moderation demands,\" and ceasing ad spending, causing a slew of press coverage about a potential battle brewing between Apple and Twitter. Musk publicly claimed that Apple had \"mostly stopped\" offering ads on Twitter and that it had also threatened to \"withhold Twitter from its App Store.\"\nThen, two days after making those statements, Musk met with Apple CEO Tim Cook, and ended up reversing course. After the meeting, Musk said that there had actually been a \"misunderstanding\" about Twitter potentially being removed from the \u200cApp Store\u200c, and Cook \"was clear that Apple never considered doing so.\"\nMusk said that Cook had shown him around Apple Park and that the two had a \"good conversation,\" which apparently led to Apple resuming its Twitter ads. Apple had not confirmed that it had stopped ad spending on Twitter, nor has it said anything about Musk's comments today. Following the Twitter Space discussion, Musk tweeted to \"thank advertisers for returning to Twitter.\"\nApple is consistently one of Twitter's top advertisers, and the ad spending reportedly exceeds $100 million annually.",
+        "url": "https://www.macrumors.com/2022/12/03/apple-resumes-twitter-advertising/",
+        "labels": {
+            "money or stock": 0.32548171281814575,
+            "airtag": 0.19388693571090698,
+            "iphone": 0.10589142143726349,
+            "leaks or rumours": 0.0921570360660553,
+            "software": 0.05553078278899193,
+            "apple watch": 0.051982685923576355,
+            "ipad": 0.0478365458548069,
+            "mac computers": 0.04630747064948082,
+            "apple tv or apple music": 0.024852260947227478,
+            "airpods": 0.01971384882926941,
+            "data privacy": 0.01859789527952671,
+            "employees": 0.01776137389242649
+        }
+    },
+    "article_18": {
+        "title": "Their car fell 300 feet into a canyon. A new iPhone satellite SOS system likely saved them",
+        "body": "A rescue helicopter responded to Tuesday's incident in the Angeles National Forest. (Los Angeles County Sheriff's Department)\nA couple whose car fell into a rocky canyon in the Angeles National Forest survived not just with a lot of luck, rescuers said, but likely also thanks to a new iPhone feature that immediately alerted first responders to the crash.\nTheir vehicle fell about 300 feet off a treacherous section of the Angeles Forest Highway where there is no cell service. It's a spot where Sgt. John Gilbert, of the Los Angeles County Sheriff's Department's Montrose Search and Rescue Team, said he remembers his team responding only to fatal crashes.\n\"Not only is it a big fall distance-wise, but that particular canyon is extremely steep,\" Gilbert said. He called it a \"miracle in itself\" that the couple survived \u2014 and then were also able to communicate for help.\nLuckily for the couple, Cloe Fields said she had recently switched her phone's service provider and got an upgrade to the iPhone 14, which she was thankful to learn came equipped with a new emergency SOS system that uses crash detection and satellite technology.\nEven before she and her boyfriend tried to call 911, which probably wouldn't have been possible from their location, her phone had alerted local emergency responders of their crash and location.\n\"I didn't know this was a feature on the iPhone,\" Fields, 23, said. Once her boyfriend, Christian Zelada, found her shattered but still functioning phone on the side of the canyon, she said, they used the emergency messaging via satellite to communicate more details about their injuries and the crash.\nApple operates relay centers with trained emergency specialists who communicate with people in crisis through the new satellite system, then send along the information to local emergency personnel, the company said.\nWithin about 30 minutes, Fields said, they were being rescued.\n\"Without any of that [technology], we wouldn't have been alerted to the fact that they had gone over the side of the mountain, and nobody would have known to look for them,\" Gilbert said. Even though the pair survived with relatively mild injuries, \"they would have had the secondary problem of how do we get out of this canyon before nightfall, when you start to have hypothermia issues.\"\nStory continues\nHe said it was about 45 degrees during the day and would have quickly fallen into the low 30s once the sun set.\nFields said she and Zelada had gone for a scenic drive Tuesday afternoon in their Hyundai Elantra. On their way home to Glendale, a vehicle began tailgating them and honked, so Zelada tried to pull over at a spot to let the car pass. But their car hit some loose gravel, she said, and Zelada lost control.\n\"The car lost traction,\" Fields said. \"The back of the car did a whole 180 on us, and next thing you know we're falling backwards down the mountain.\"\nFields said she remembers hitting at least two large trees and then rolling, until they landed upside down near a stream at the bottom of the canyon. When they undid their seat belts and got out, she said, they were surprised to find they both were largely OK.\nZelada then found Fields' phone, which had already signaled for help.\nRescuers converged on Monkey Canyon near mile marker 18 on the Angeles Forest Highway about 1:30 p.m. Tuesday, Gilbert said, after receiving the location information from Apple's emergency satellite system.\n\"That information allowed us to get the rescue helicopter,\" Gilbert said. He said the satellite information from the iPhone provided the latitude and longitude of the crash, and the rescue helicopter was able to quickly spot the vehicle and couple.\nHe said the crashed vehicle was not visible from the roadway.\nFields said they were both airlifted to a hospital, and after many tests, doctors confirmed their initial evaluation \u2014 neither had major injuries. Both have some minor cuts and bruising and sore necks, likely from the impact, but are feeling relatively fine, she said.\n\"We're kind of shocked on everything and how we feel after all of that,\" Fields said. \"But we walked away all in one piece, we feel extremely grateful.\"\nRescue personnel are seen at the site in the Angeles National Forest where a car fell into a canyon on Tuesday. (Los Angeles County Sheriff's Department)\n\"Their technology in this case was extremely useful,\" Gilbert said. \"This is the first time we've gotten one of these alerts in which a rescue [occurred].\" He said he remembered one other time an iPhone user utilized the satellite emergency system after becoming lost.\nThe Emergency SOS service via satellite is free for two years after the activation of iPhone 14 or iPhone 14 Pro, according to Apple, made possible through a partnership with Globalstar.\nFields set up a GoFundMe for the couple, which she said will help them deal with bills from their rescue and hospital visit.\nThis story originally appeared in Los Angeles Times.",
+        "url": "https://us.yahoo.com/news/car-fell-300-feet-canyon-004232626.html",
+        "labels": {
+            "iphone": 0.8126146793365479,
+            "airtag": 0.07231266051530838,
+            "software": 0.031244298443198204,
+            "ipad": 0.02215755544602871,
+            "airpods": 0.015685733407735825,
+            "data privacy": 0.011880669742822647,
+            "apple tv or apple music": 0.009047325700521469,
+            "employees": 0.007412409409880638,
+            "apple watch": 0.005511696916073561,
+            "leaks or rumours": 0.004579722881317139,
+            "mac computers": 0.004120592959225178,
+            "money or stock": 0.0034325921442359686
+        }
+    },
+    "article_19": {
+        "title": "Tor browser finally gets Apple Silicon support in new update",
+        "body": "A new version of the anonymous Tor browser has been released, bringing native support for Apple Silicon equipped devices, as well as optimizations for Android devices.\nThe updated Tor browser uses a universal binary that contains both x86-64 and ARM64 architectures, so can decide which one to use based on whether an Apple M1 or M2 or Android device is being used - meaning Tor should now perform better on Apple Mac computers.\nTor 12.0 is built on version 102 of Mozilla\u2019s Firefox , which means it features much of the same security improvements and fixes. The browser is focused on maintaining user privacy and anonymity online, promising not to keep tabs on your activity, as well preventing others from doing the same.\nAndroid getting attention too\nAndroid has been a system that Tor hasn\u2019t appeared all too keen on developing for, with sporadic updates for the browser on this platform, although Tor now claims it is rectifying this.\nIn announcing the release of the 12.0 browser, Tor commented the company \u201chave been working hard to recommence regular updates for Android, improve the app's stability\u2026 The next phase in our plan for Android is to begin porting selected, high-priority features that have recently been launched for desktop over to Android.\u201d\nAnother new feature in Tor 12.0 is the HTTPS-only mode for Android. This allows the browser to automatically connect to websites using the encrypted HTTPS protocol by default, as opposed to using HTTP which is not encrypted.\nAndroid versions also now have the option to prioritize .onion sites, meaning that users will be automatically redirected to .onion versions of websites if they are compatible. These domains were created by Tor to try and prevent connections to and from the site from being traced.\nAdditionally, language packs are now available with version 12.0, allowing users to switch between languages on the fly. Previously, individual instances of Tor had to be downloaded for a specific language.",
+        "url": "https://www.techradar.com/news/tor-browser-finally-gets-apple-silicon-support-in-new-update",
+        "labels": {
+            "software": 0.4622560441493988,
+            "mac computers": 0.21766281127929688,
+            "iphone": 0.09892039746046066,
+            "ipad": 0.04556913673877716,
+            "data privacy": 0.04152614250779152,
+            "airtag": 0.0390760600566864,
+            "apple tv or apple music": 0.021869342774152756,
+            "apple watch": 0.017805101349949837,
+            "money or stock": 0.017737701535224915,
+            "employees": 0.015510044991970062,
+            "airpods": 0.013166781514883041,
+            "leaks or rumours": 0.008900556713342667
+        }
+    },
+    "article_20": {
+        "title": "Apple will pay up to $395 to people with broken MacBook butterfly keyboards [Updated] - Class-action settlement applies to buyers nationwide.",
+        "body": "Update, 5:20pm ET: Girard Sharp partner Simon Grille, one of the attorneys representing the plaintiffs in the lawsuit, contacted Ars to clarify that the payouts would cover affected MacBook buyers in any US state, not just the seven initially involved in the lawsuit as we originally stated.\nThe class definition in the approval order (PDF) covers \"all persons and entities in the United States who purchased, other than for resale, one or more Class Computers.\"\nOriginal story: If you bought a MacBook with one of Apple's low-profile butterfly-switch keyboards, and if you ever had that keyboard repaired, good news! A judge has approved a $50 million settlement to a class-action lawsuit that Apple agreed to in July, meaning that payouts to affected users (and the attorneys involved) can begin soon.\nAccording to Macworld, there will be three tiers of payouts: $50 to people who had individual keycaps replaced, $125 to people who had one keyboard replacement, and $395 to people who had to go in for two or more replacements.\nFor those unfamiliar, MacBooks introduced between 2015 and 2019 used a new low-profile keyboard with a \"butterfly\" switch mechanism that saved space but also resulted in firmer keys that moved less than they did before. Early complaints were mostly subjective and centered on the keyboard's feel compared to previous scissor-switch designs. But as time passed, it became clear that butterfly-switch keyboards also failed at a higher rate than the scissor-switch designs. These problems persisted despite at least four major revisions to the butterfly-switch mechanism.\nAdvertisement\nAlthough the company never admitted fault (and maintains, despite the class-action settlement, that it didn't do anything wrong), Apple launched a repair program in 2018 that offered four years of free repair coverage to owners of all MacBook models with butterfly keyboards. Tellingly, this program covered all butterfly-switch MacBook models, including those that were introduced after the repair program was started, suggesting that the design was flawed in ways Apple could not address with hardware revisions. Apple re-introduced a modified scissor-switch keyboard in the 16-inch MacBook Pro in late 2019, and all MacBooks introduced since then have continued to use scissor-switch designs.\nThe settlement that was approved today resulted from a lawsuit that was granted class-action status in March 2021. If you had a keyboard replaced through Apple, you should be contacted automatically about your payout, but you will be able to find more information at KeyboardSettlement.com when the site is live.\nFor users who are currently using a broken butterfly-switch keyboard, Apple's Keyboard Service Program is still active, though the number of models it covers is slowly dwindling as time passes. The program \"covers eligible MacBook, MacBook Air, and MacBook Pro models for 4 years after the first retail sale of the unit,\" which at this point would mostly exclude the first wave of butterfly-keyboard Macs introduced between 2015 and 2017.",
+        "url": "https://arstechnica.com/gadgets/2022/11/judge-approves-50-million-settlement-over-broken-macbook-butterfly-keyboards/",
+        "labels": {
+            "mac computers": 0.7838743925094604,
+            "money or stock": 0.07989472895860672,
+            "airtag": 0.052865248173475266,
+            "software": 0.024733824655413628,
+            "data privacy": 0.01250279787927866,
+            "iphone": 0.010738438926637173,
+            "ipad": 0.008370493538677692,
+            "leaks or rumours": 0.0065810964442789555,
+            "apple tv or apple music": 0.005508062429726124,
+            "apple watch": 0.005108717828989029,
+            "employees": 0.004923658911138773,
+            "airpods": 0.0048985108733177185
+        }
+    },
+    "article_21": {
+        "title": "iPhone 15 price cut considered by Apple, for both base and Plus models",
+        "body": "A leaker with a decent track record says that Apple is considering an iPhone 15 price cut, when compared to iPhone 14 pricing. The reduced prices would, they say, apply to the base model iPhone 15 and the larger iPhone 15 Plus.\nWhile the idea of Apple cutting iPhone prices sounds unlikely, there is reason to believe that the report may be accurate \u2026\nLet\u2019s start at the beginning\nReports have consistently pointed to higher-than-expected demand for the iPhone 14 Pro and Pro Max, with correspondingly lower demand for the base model iPhone 14 \u2013 and especially for the iPhone 14 Plus.\nThere\u2019s good reason to believe those reports. Reviewers were almost unanimous in warning people not to buy the base model iPhone 14, as it offered almost no benefit over the older iPhone 13 \u2013 which can be bought direct from Apple for $200 less.\nThe iPhone 14 Plus was similarly received. All it has going for it is a bigger screen and a bigger battery \u2013 and while people might want both, they\u2019d be spending at least $900 for the privilege. Far better to spend an additional $200 to get the many extra features of the iPhone 14 Pro Max.\nThat $200 extra gets you:\nDynamic Island\nAlways-On Display\nProMotion\nAlmost twice the screen brightness\nThree cameras instead of two\n48MP main camera sensor\n6x optical zoom range\nBetter optical image stabilization\nNight mode portraits\nMacro photography\nApple ProRaw photos\nProRes videos\nA16 chip\nStainless steel frame\nNo surprise, then, that iPhone 14 Plus sales are estimated to have been incredibly small.\nApple considering price cut for the iPhone 15 Plus\nGiven this situation, it would make sense for Apple to completely cancel plans for the iPhone 15 Plus. Unfortunately, its product roadmap works a long way in advance, and a leaker with a good track record says that it\u2019s too late to do this. Instead, he says, Apple is considering significantly reducing the price of the iPhone 15 Plus from the $900+ level of its predecessor.\nMacworld reports.\nAccording to a post by yeux1122 on Naver (translation), the flagging sales of the iPhone 14 Plus are \u201cfar beyond\u201d even Apple\u2019s lowest estimates and Apple is considering new strategies with the iPhone 15 to reverse the trend. Apple plans its phone releases years in advance, so it\u2019s unlikely to cancel its plans for the iPhone 15 Plus. However, Apple is \u201cseriously\u201d considering a price reduction [\u2026] Yyeux1122 has a decent track record for leaks, accurately predicting the iPhone 14 Pro\u2019s price, chip, and colors, as well as the 10th-gen iPad\u2019s design changes and release date.\nYeux1122 doesn\u2019t specify the scale of the cut, but it would likely have to be $100 to have any significant impact.\nWould mean a base model iPhone 15 price cut too\nBut if the iPhone 15 Plus were sold for $800, the company couldn\u2019t sell the 6.1-inch model for the same price.\nFor that reason, Apple would also have to cut the price of the entry-level iPhone 15, perhaps down to the $700 price point of the now-abandoned mini model.\n9to5Mac\u2019s Take\nThis is a single report, albeit from a leaker with a decent track record. But there\u2019s certainly logic to the claim, as we note above.\nApple doesn\u2019t seem to have much luck with its strategy of adding a 4th model to the iPhone lineup \u2013 either smaller or larger. The iPhone 12 mini and subsequent iPhone 13 mini both sold so poorly that the company dropped a mini model from the range, and instead tried the opposite tack of a larger base model. Now it seems that the Plus model hasn\u2019t fared any better than the mini.\nLonger term, the company might be better off sticking to three flagship models \u2013 base, Pro, and Pro Max (with possible Ultra rebranding). The question is whether the Pro Max/Ultra model would get more features over the Pro. There are signs pointing in that direction, though personally I think that would be a shame.",
+        "url": "https://9to5mac.com/2022/12/30/iphone-15-price-cut/",
+        "labels": {
+            "iphone": 0.73768150806427,
+            "money or stock": 0.11141862720251083,
+            "airtag": 0.0589144192636013,
+            "leaks or rumours": 0.032328177243471146,
+            "data privacy": 0.010359284467995167,
+            "software": 0.009269002825021744,
+            "employees": 0.008654222823679447,
+            "ipad": 0.007967005483806133,
+            "mac computers": 0.00774479191750288,
+            "apple tv or apple music": 0.006232441868633032,
+            "airpods": 0.005508607719093561,
+            "apple watch": 0.003921745344996452
+        }
+    },
+    "article_22": {
+        "title": "Apple reportedly prepping \u2018multiple new external monitors\u2019 with Apple Silicon inside",
+        "body": "Apple is preparing to upgrade and potentially expand its lineup of external displays designed for Mac and iPad users. A new report today says that the company is working on \u201cmultiple new external monitors\u201d with Apple Silicon inside, including a new version of the Pro Display XDR.\nCurrently, Apple sells two external monitors: the Studio Display and the Pro Display XDR. The former was released earlier this year and starts at $1,599, while the latter was released in 2019 and starts at a whopping $4,999 (without a stand).\nIn the latest edition of his Power On newsletter, Bloomberg\u2019s Mark Gurman reports that Apple has \u201cmultiple new external monitors in development.\u201d Of these is a new version of the Pro Display XDR, which would be paired with the new Apple Silicon-powered Mac Pro. Gurman, however, says it\u2019s possible the new Pro Display XDR might not be released until after the new Mac Pro:\nApple is working on multiple new external monitors as well, including an update to the Pro Display XDR that was launched alongside the Intel Mac Pro in 2019. It is possible, however, that the company\u2019s next high-end display will ship after the Mac Pro, as the computer is further along in development than the monitor.\n9to5Mac previously reported that Apple is developing a new external display with a 7K resolution. The current Pro Display XDR has a 32-inch 6K (6016 x 3384) panel with 218 pixels per inch. A 7K external display from Apple could have a higher pixel density of 245 PPI with a 32-inch screen, or it could keep the same 218 PPI as the Pro Display XDR but on a larger 36-inch panel.\nGurman also reports that each of these new external displays will feature Apple Silicon chips inside so \u201cthe screens rely less on resources from the attached computer.\u201d This shouldn\u2019t come as a surprise, though, as the Studio Display features an A13 Bionic chip inside alongside an intriguing 64GB of storage.\nWe\u2019re still waiting on more details regarding Apple\u2019s \u201cmultiple new external displays.\u201d Nonetheless, it\u2019s interesting to imagine what the lineup could look like. What do you think? Let us know down in the comments.",
+        "url": "https://9to5mac.com/2022/12/18/apple-multiple-new-external-displays-in-development/",
+        "labels": {
+            "leaks or rumours": 0.897614061832428,
+            "airtag": 0.03310177102684975,
+            "money or stock": 0.01940850354731083,
+            "employees": 0.009455220773816109,
+            "apple tv or apple music": 0.0064603048376739025,
+            "software": 0.005837290082126856,
+            "data privacy": 0.005650810431689024,
+            "mac computers": 0.005544449668377638,
+            "ipad": 0.005442838650196791,
+            "apple watch": 0.005377201829105616,
+            "iphone": 0.0039194002747535706,
+            "airpods": 0.0021881619468331337
+        }
+    },
+    "article_23": {
+        "title": "Kuo: Apple to Cancel or Postpone 2024 iPhone SE 4",
+        "body": "Apple will cancel or postpone mass production for the planned 2024 iPhone SE 4, Apple analyst Ming-Chi Kuo said today in a series of tweets. Kuo said that he believes Apple will delay or scrap the device due to consistent lower than expected shipments of middle tier and lower-end smartphones like the \u200ciPhone SE\u200c 3, the iPhone 13 mini, and the iPhone 14 Plus.\nKuo also said that the full screen design that Apple has in mind for the \u200ciPhone SE\u200c 4 will require higher costs and selling prices, so Apple may need to \"reconsider the product positioning and return on investment\" for the \u200ciPhone SE\u200c 4. Reducing unnecessary product development costs will also help Apple navigate the \"challenges of the global economic recession in 2023,\" according to Kuo.\n(2/5)\nas well as concerns that the full-screen design of the SE 4 will lead to an increase in higher costs/selling prices. As a result, Apple may need to reconsider the product positioning and return on investment for the SE 4. \u2014 \u90ed\u660e\u9324 (Ming-Chi Kuo) (@mingchikuo) December 21, 2022\nMultiple rumors have suggested that Apple is working on a new version of the \u200ciPhone SE\u200c, with the device set to launch in 2024. Apple is developing a device that could look similar to the iPhone XR, with an all-display design that does away with the Touch ID Home button and instead adopts either Face ID or a \u200cTouch ID\u200c power button.\nRumors indicated that the \u200ciPhone SE\u200c 4 could have a 6.1-inch LCD or OLED display, along with a notch at the top much like the current \u200ciPhone 14\u200c models. Apple's plans for the \u200ciPhone SE\u200c 4 have not been finalized, and earlier this year, Apple analyst Ross Young said Apple had not decided between an OLED or LCD display for the device.\nApple opted not to offer a 5.4-inch option with the \u200ciPhone 14\u200c lineup after poor sales of mini-sized iPhone 12 and \u200ciPhone 13\u200c models, and rumors have also indicated that the more affordable \u200ciPhone 14\u200c Plus has seenlower than expected sales. For that reason, Apple could instead focus on its flagship iPhones in 2023 and 2024, pushing development on the \u200ciPhone SE\u200c line back or going with cheaper components that will allow for a lower price point than the planned design changes.",
+        "url": "https://www.macrumors.com/2022/12/20/apple-to-cancel-or-postpone-iphone-se-4/",
+        "labels": {
+            "iphone": 0.3607664406299591,
+            "leaks or rumours": 0.2971797585487366,
+            "software": 0.09656712412834167,
+            "airtag": 0.07731857895851135,
+            "money or stock": 0.05513148382306099,
+            "employees": 0.0290521252900362,
+            "ipad": 0.02660655416548252,
+            "mac computers": 0.019617658108472824,
+            "data privacy": 0.013032478280365467,
+            "apple tv or apple music": 0.010327829048037529,
+            "airpods": 0.008842888288199902,
+            "apple watch": 0.005557069554924965
+        }
+    },
+    "article_24": {
+        "title": "LG Innotek, Apple's Largest Optics Partner, will unveil their Breakthrough Ultra-Compact Optical Zoom camera module at CES in January",
+        "body": "In October 2021, Patently Apple posted a report titled \" LG Innotek reportedly secures a deal with Apple for a future Periscope Lens for iPhone.\" It was reported that LG Innotek, Apple's largest partner in the field of optics, is starting the project with Apple to install Innotek\u2019s folded camera onto the new Apple devices in the 2022-2023 time line. It was LG Innotek that challenged the Corephotonics folded camera in a Korean court and got the patent invalidated. This opened the door for a deal to supply Apple with a periscope \u2013 zoom lens by 2023.\nIn a new report this morning we're learning that LG Innotek has unveiled their new folded zoom. LG Innotek will officially unveil its ultra-compact optical zoom camera module at the Consumer Electronics Show (CES) 2023.\nLG Innotek won an innovation award with its camera module, a subminiature component enabling the telephoto camera function in smartphones. The latest module is the first in the world to apply the zoom lens mechanism of a mirrorless camera, enabling clearer images and video recordings without image quality degradation with a focal length of 85 - 125mm.\nTo ensure clear images regardless of shooting distance, LG developed a zoom actuator, a core part to move the lens for clear picture quality in all ranges between four and nine magnifications. In addition, its actuator is excellent in accuracy, speed, and durability, with less battery consumption. As demand from global customers for optical zoom is increasing, LG Innotek plans to speed up market penetration with its differentiated technology and business capabilities, said the company\u2019s CEO Jeong Cheol-dong.\nWhile LG Innotek will work with Qualcomm for Android phones, LG Innotek is still likely to be Apple's supplier for their iPhone 15 optical zoom module, a feature that the iPhone 14 Pro sorely lacks.\nThe timing of the unveiling in Vegas will be sometime between January 5-8. This all but confirms that Apple should have this feature ready for the iPhone 15 without further delays.",
+        "url": "https://www.patentlyapple.com/2022/12/lg-innotek-apples-largest-optics-partner-will-unveil-their-breakthrough-ultra-compact-optical-zoom-camera-module-at-ces-in.html",
+        "labels": {
+            "iphone": 0.29489487409591675,
+            "leaks or rumours": 0.19539795815944672,
+            "ipad": 0.140394389629364,
+            "mac computers": 0.07538885623216629,
+            "airtag": 0.06445149332284927,
+            "apple watch": 0.047965772449970245,
+            "apple tv or apple music": 0.04541712999343872,
+            "employees": 0.04164787009358406,
+            "data privacy": 0.03466619551181793,
+            "money or stock": 0.029738474637269974,
+            "software": 0.018102319911122322,
+            "airpods": 0.011934714391827583
+        }
+    }
+}

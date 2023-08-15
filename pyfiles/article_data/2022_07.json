@@ -1,0 +1,477 @@
+{
+    "article_0": {
+        "title": "Apple Ends Consulting Agreement With Jony Ive, Its Former Design Leader",
+        "body": "SAN FRANCISCO \u2014 When Jony Ive, Apple\u2019s influential design leader, exited the company in 2019, Tim Cook, its chief executive, reassured customers that Mr. Ive, the man who gave the world candy-colored computers, would work exclusively with the company for many years.\nNot anymore.\nMr. Ive and Apple have agreed to stop working together, according to two people with knowledge of their contractual agreement, ending a three-decade run during which the designer helped define every rounded corner of an iPhone and guided development of its only new product category in recent years, the Apple Watch.\nWhen Mr. Ive left Apple in 2019 to start his own design firm, LoveFrom, the iPhone maker signed a multiyear contract with him valued at more than $100 million. That made Apple his firm\u2019s primary client, people with knowledge of the agreement said.\nThe deal restricted Mr. Ive from taking on work that Apple found competitive and ensured that the designer would inform the development of future products, such as an augmented-reality headset that it is expected to ship next year, the people said.",
+        "url": "https://www.nytimes.com/2022/07/12/technology/apple-jony-ive-end-agreement.html",
+        "labels": {
+            "employees": 0.20603527128696442,
+            "airtag": 0.1780579835176468,
+            "software": 0.09869249910116196,
+            "iphone": 0.09567619115114212,
+            "money or stock": 0.07196438312530518,
+            "mac computers": 0.07025817781686783,
+            "apple watch": 0.061592526733875275,
+            "leaks or rumours": 0.054338403046131134,
+            "apple tv or apple music": 0.05249302461743355,
+            "ipad": 0.05103715509176254,
+            "data privacy": 0.036657173186540604,
+            "airpods": 0.023197297006845474
+        }
+    },
+    "article_1": {
+        "title": "iOS 16 beta 3 includes clownfish wallpaper from original iPhone",
+        "body": "Apple has just released iOS 16 beta 3 for developers, and while we\u2019re still looking to find out what\u2019s new with today\u2019s update, it seems that Apple has added an easter egg in celebration of 15 years of the iPhone. The classic clownfish wallpaper from the original iPhone is back \u2013 sort of.\nAs found by 9to5Mac in the internal files of iOS 16 beta 3, Apple has remastered the iconic clownfish wallpaper from the very first iPhone. However, there\u2019s a catch. The clownfish wallpaper is not yet available as an option for users \u2013 at least not for everyone.\nWhile some users on Twitter have been able to find it, others are not seeing the clownfish wallpaper in the iPhone home and lock screen settings, which is probably a bug.\nAs we previously explained, the wallpapers in iOS 16 are no longer static images, but rather real-time rendered animations that interact with the clock on the lock screen. Luckily, 9to5Mac has found a way to render the new wallpaper so that we can share it as an image.\nYou can download the \u201cnew\u201d clownfish wallpaper in its full resolution below. Be sure to click the (i) button and save the full resolution wallpaper \u2013 and then set it via the Photos app or Settings app if you\u2019re using an iPhone, iPad, or iPod touch.\nIt\u2019s worth noting that iOS 16 is currently available as beta software for developers via the Apple Developer website. A public beta will be released this month, while the official release is expected this fall.\nRead also:",
+        "url": "https://9to5mac.com/2022/07/06/ios-16-clownfish-wallpaper-original-iphone/",
+        "labels": {
+            "software": 0.589607834815979,
+            "iphone": 0.35001009702682495,
+            "airtag": 0.016016049310564995,
+            "leaks or rumours": 0.008619983680546284,
+            "ipad": 0.00828113965690136,
+            "airpods": 0.006616201717406511,
+            "employees": 0.004399879835546017,
+            "apple tv or apple music": 0.004230276215821505,
+            "mac computers": 0.003847970627248287,
+            "data privacy": 0.0033636032603681087,
+            "apple watch": 0.0026727195363491774,
+            "money or stock": 0.0023342224303632975
+        }
+    },
+    "article_2": {
+        "title": "Apple Silicon Is An Inconvenient Truth",
+        "body": "Jack Wellborn, \u201cA Burger Without Heinz\u201d at Worms and Viruses:\nWirecutter\u2019s exclusion of MacBooks from a category that is effectively \u201cbest laptop\u201d is the latest bit of evidence in a recent trend I\u2019ve noticed wherein reviewers have inexplicably stopped comparing Wintel laptops to Apple\u2019s MacBooks. Compare ArsTechnica\u2019s review of the Surface Laptop Go 2 from this month to their review of the Surface Book 2 from 2017. The current review only includes other Wintel laptops in benchmarks whereas the one from 2017 included that year\u2019s MacBook.\nIf memory serves, including Macs in PC hardware comparisons was more or less the norm just a few years ago. I can\u2019t fathom why some reviewers have recently stopped doing so. Is it that reviewers don\u2019t think they could fairly compare x86 and ARM laptops? It seems easy enough to me. Are they afraid that constantly showing MacBooks outperforming Wintel laptops will give the impression that they are in the bag for Apple? I don\u2019t see why. Facts are facts, and a lot of people need or want to buy a Windows laptop regardless.\nI can\u2019t help but wonder if, in the minds of many reviewers, MacBooks were PCs so long as they used Intel, and therefore they stopped being PCs once Apple switched to using their own silicon.",
+        "url": "https://daringfireball.net/linked/2022/07/23/apple-silicon-inconvenient-truth",
+        "labels": {
+            "mac computers": 0.3693748116493225,
+            "software": 0.3025150001049042,
+            "iphone": 0.15195250511169434,
+            "money or stock": 0.07913540303707123,
+            "airtag": 0.03416464850306511,
+            "ipad": 0.02776320092380047,
+            "employees": 0.009755359031260014,
+            "leaks or rumours": 0.005956557113677263,
+            "apple tv or apple music": 0.005881544668227434,
+            "data privacy": 0.005056662950664759,
+            "apple watch": 0.004782190080732107,
+            "airpods": 0.0036620688624680042
+        }
+    },
+    "article_3": {
+        "title": "Apple Replaces Last Remaining Intel-Made Component in M2 MacBook Air",
+        "body": "In the M2 MacBook Air, Apple has replaced an Intel-made component responsible for controlling the USB and Thunderbolt ports with a custom-made controller, meaning the last remnants of Intel are now fully out of the latest Mac.\nEarlier this month, the repair website iFixit shared a teardown of the new \u200cMacBook Air\u200c, revealing a look inside the completely redesigned machine. One subtle detail that went largely unnoticed was that unlike previous Macs, the latest \u200cMacBook Air\u200c introduces custom-made controllers for the USB and Thunderbolt ports.\niFixit mentioned it in their report, noting they located a \"seemingly Apple-made Thunderbolt 3 driver, instead of the Intel chips we're familiar with.\" The new component was shared on Twitter earlier today, where it received more attention.\nFew details are known about the controllers, including whether they're custom-made by Apple or a third party. In May 2021, Bloomberg's Mark Gurman reported that Apple planned to \"replace the last remaining Intel part with an in-house version. Apple's current M1 Macs still use an Intel component known as a USB Retimer, which helps power the USB-C and Thunderbolt ports on its computer.\"",
+        "url": "https://www.macrumors.com/2022/07/26/apple-replaces-intel-component-in-macbook-air/",
+        "labels": {
+            "mac computers": 0.7269780039787292,
+            "airtag": 0.06281978636980057,
+            "data privacy": 0.03724435716867447,
+            "employees": 0.036185599863529205,
+            "money or stock": 0.03363703563809395,
+            "leaks or rumours": 0.02520674653351307,
+            "apple tv or apple music": 0.0169056449085474,
+            "ipad": 0.015162622556090355,
+            "iphone": 0.01340450905263424,
+            "software": 0.013300908729434013,
+            "apple watch": 0.010426136665046215,
+            "airpods": 0.008728647604584694
+        }
+    },
+    "article_4": {
+        "title": "The modder who gave the iPhone USB-C shows how he did it to AirPods",
+        "body": "After teasing modified AirPods that swap Apple\u2019s Lightning port for a USB-C connection, Ken Pillonel, the robotics engineering student behind the USB-C iPhone, has finally released the full video that shows his entire process. And the best part is that Pillonel is making his schematics open source, meaning you, too, can accomplish such a feat (given that you have a 3D printer).\nPillonel starts by sawing open the AirPods case, essentially breaking it, as they\u2019re not designed to be taken apart. He then designs two replacement pieces to go on either side of the case, first by using an FDM 3D printer and then switching to SLA for a smoother result. The pieces he constructs snap perfectly into place in the most satisfying way possible, creating an outer shell that looks as if it hasn\u2019t even been touched.\nWhile Pillonel notes that you can replace the AirPods\u2019 battery from here, he takes things a step further by ripping out the proprietary Lightning connector for USB-C. Following days of research, Pillonel manages to create a custom PCB board that fits inside the AirPods\u2019 shell. The end result is a pair of AirPods you can charge with any old USB-C cable lying around your house.\nJust like his open-source USB-C iPhone project, Pillonel has also made the schematics for both the AirPods case and the USB-C PCB available to download from GitHub. He\u2019s also giving away premade kits and may even start selling them. You can find out more from his website dedicated to the project.",
+        "url": "https://www.theverge.com/2022/7/20/23271164/airpods-usb-c-iphone-modder-ken-pillonel",
+        "labels": {
+            "airpods": 0.8890410661697388,
+            "iphone": 0.058579932898283005,
+            "airtag": 0.031016388908028603,
+            "software": 0.007959838956594467,
+            "apple tv or apple music": 0.0030717754270881414,
+            "data privacy": 0.0024233651347458363,
+            "employees": 0.002318623010069132,
+            "ipad": 0.0015670610591769218,
+            "apple watch": 0.0011746697127819061,
+            "mac computers": 0.0011484973365440965,
+            "money or stock": 0.0011154069798067212,
+            "leaks or rumours": 0.0005834450130350888
+        }
+    },
+    "article_5": {
+        "title": "Apple Pay may finally work on Chrome, Edge, and Firefox in iOS 16",
+        "body": "Apple Pay could finally be compatible with Microsoft Edge, Google Chrome, and Mozilla Firefox in iOS 16. MacRumors contributor Steve Moser found that Apple Pay works with Edge and Chrome in the iOS 16 beta 4, and shared his findings on Twitter.\nMoser\u2019s screenshots show a \u201cContinue with Apple Pay\u201d option on Apple\u2019s checkout page when using Edge. Apple Pay only works in Safari on iOS 15 and older, preventing you from using any other browser if you want to pay with Apple Pay when shopping on the web.\nAlthough Moser doesn\u2019t mention Firefox, other users noticed Apple Pay compatibility with the browser before the release of iOS 16 beta 4. A post on Reddit from earlier this month shows an option to pay with Apple Pay in iOS 16 beta 2 while using Firefox. Another user on iOS 16 beta 3 says they have the option to pay with Apple Pay on Firefox as well. We\u2019re not certain of when Apple started expanding support for Apple Pay, and to which browsers. Apple didn\u2019t immediately respond to The Verge\u2019s request for comment.",
+        "url": "https://www.theverge.com/2022/7/30/23284992/apple-pay-compatible-edge-chrome-firefox-ios-16-beta-browsers-safari",
+        "labels": {
+            "software": 0.6307318210601807,
+            "leaks or rumours": 0.11020700633525848,
+            "iphone": 0.07215634733438492,
+            "airtag": 0.043463628739118576,
+            "ipad": 0.03889738768339157,
+            "money or stock": 0.02622378244996071,
+            "data privacy": 0.017044194042682648,
+            "apple watch": 0.013852603733539581,
+            "airpods": 0.013402285054326057,
+            "mac computers": 0.011797579936683178,
+            "employees": 0.011115996167063713,
+            "apple tv or apple music": 0.011107424274086952
+        }
+    },
+    "article_6": {
+        "title": "'M2 MacBook Air throttling is being vastly over-exaggerated'",
+        "body": "From the evidence I've seen, I believe firmly that people are vastly overhyping the effects of the throttling in the M2 MacBook Air.The YouTube review I've seen so far with the most thorough benchmarks is Dave2D's, and he went so far as to say that \"if you're someone that wants a very powerful system and you're hoping that something super thin and super light could handle it, unfortunately, I would say that it can't.\" He also spends a good deal of time throughout the rest of the video highlighting the effects of the throttling as he saw them.That's a rather extreme conclusion to make, from what I'm seeing. I will use his own graphs to demonstrate.This is Dave's graph of the effects of throttling on the Cinebench score, comparing the M2 MBA to the M2 MBP (which has a fan). There are some important things to note here.I calculated that a single run on the M2 would last anywhere from 1.5 to 2 minutes, based on its overall score. So 10 consecutive runs would take about 15-20 minutes. Remember, throttling is related to temperature over time, and the effects of it go up as your time under sustained load increases.Cinebench pegs the CPU at 99-100% utilization on all cores for the duration of the test. So we're talking 15-20 minutes of that. If you've spent any time doing \"Pro\" workflows, and monitored your system usage, you would know that this amount of load, for that duration, is extremely rare. Even in a video editor, you rarely have a render that would peg the CPU to that degree, for that amount of time. You do also have the GPU cores to consider in that instance, but many renders for many users also would not take 15-20 minutes to complete. At the highest end, sure, with very complex timelines with hefty codecs. But the majority of users who do video work who would buy this machine? No.On top of that, I think Dave is over-estimating the impact of the throttling. I calculated that on his x axis, each interval represents 562.5 points. So if you look carefully, you see that after 10 consecutive runs, the M2 MBA has dropped about 1125 points.A drop of 1125 points puts it at about the same performance as M1's maximum performance, and this occurs after 15-20 minutes straight of 100% CPU load. 8783 to 7658.So if you somehow have a workload that is pegging the CPU at 100%, or a combination of GPU + CPU that equals the same thermal output, for, your performance STILL only drops to about the equivalent of M1's maximum performance. 8783 vs. 7743.For the vast majority of users, their workloads will stay well within the zone where they are reaping the benefits of M2's performance increase. Even many sustained loads do not load up as much as Cinebench does. And for users who manage to push to the throttling point, their performance only goes down to about the performance of M1. Pushing past that point will be even rarer still.So, as is always the case with throttling, the debate is not \"Does the machine throttle or not?\", it's \"How much of an impact does throttling have?\"So far, I am not seeing any evidence that suggests that M2 MacBook Air users will have a poor experience. I think the effects of this throttling are far less than how it's being described. I also believe Apple would have weighed all of this themselves when testing this machine and determining how it would perform for its expected user base. For most users, it will still exceed their expectations, even while editing video and doing other \"pro\" workflows.",
+        "url": "https://forums.macrumors.com/threads/m2-macbook-air-throttling-is-being-vastly-over-exaggerated.2352165/",
+        "labels": {
+            "mac computers": 0.8121543526649475,
+            "airtag": 0.09570543467998505,
+            "software": 0.044935230165719986,
+            "leaks or rumours": 0.020909156650304794,
+            "money or stock": 0.007622611243277788,
+            "employees": 0.005956749431788921,
+            "airpods": 0.004496104549616575,
+            "data privacy": 0.002160868840292096,
+            "apple tv or apple music": 0.0017068119486793876,
+            "ipad": 0.0016074614832177758,
+            "apple watch": 0.0015721789095550776,
+            "iphone": 0.001173112541437149
+        }
+    },
+    "article_7": {
+        "title": "M2 'Extreme' Chip Headed to New Mac Pro for Blazing Fast Performance",
+        "body": "Apple is working on a new Mac Pro with an M2 \"Extreme\" chip, according to a recent report from Bloomberg's Mark Gurman.\nThe \u200cMac Pro\u200c is one of the last Intel-based Mac models still on sale, and a version with Apple silicon has been now anticipated for over two years. At its \"Peek Performance\" event earlier this year, Apple even teased the launch of the Apple silicon Mac Pro, saying \"that's for another day.\"\nAccording to Gurman, users will reportedly be able to configure the new \u200cMac Pro\u200c with \u200cM2\u200c Ultra and \u200cM2\u200c Extreme chip options. At present, the M1 Ultra is Apple's most powerful custom silicon chip available, featuring a 20-core CPU and up to a 64-core GPU, along with a 32-core Neural Engine. Sitting above the Ultra in the chip lineup, the \u200cM2\u200c Extreme would presumably surpass these specs to become the top-tier Apple silicon chip for maximum performance.\nGurman previously said that Apple was planning to use a custom silicon chip with 40 CPU cores, including 32 high-performance cores, and up to 128 GPU cores for the \u200cMac Pro\u200c. This would surpass the 28 core maximum offered by the current Intel-based \u200cMac Pro\u200c and replace powerful graphics chips made by AMD.\nThese specifications effectively double the capabilities of the \u200cM1 Ultra\u200c, but if it is based on the more advanced architecture behind the current \u200cM2\u200c chip, there could be a range of other advancements in terms of core technologies, efficiency, and clock speed.\nBeyond the upcoming \u200cMac Pro\u200c, as well as the new MacBook Air and the 13-inch MacBook Pro, Gurman expects to see \u200cM2\u200c and \u200cM2\u200c Pro Mac mini and \u200cM2\u200c Pro and \u200cM2\u200c Max 14-inch and 16-inch MacBook Pro models over the next year. For more information about the new \u200cMac Pro\u200c, see our detailed guide.",
+        "url": "https://www.macrumors.com/2022/07/18/m2-extreme-headed-to-new-mac-pro/",
+        "labels": {
+            "mac computers": 0.8206623196601868,
+            "software": 0.04863636940717697,
+            "leaks or rumours": 0.02959723398089409,
+            "airtag": 0.026437897235155106,
+            "employees": 0.018370263278484344,
+            "airpods": 0.014482379890978336,
+            "money or stock": 0.012246961705386639,
+            "apple tv or apple music": 0.009094524197280407,
+            "data privacy": 0.008954253979027271,
+            "apple watch": 0.005025659222155809,
+            "ipad": 0.003630475839599967,
+            "iphone": 0.0028616737108677626
+        }
+    },
+    "article_8": {
+        "title": "Base Model MacBook Air With M2 Chip Has Slower SSD Speeds in Benchmarks",
+        "body": "The first embargoed reviews of the new MacBook Air with the M2 chip have now been published. One notable detail confirmed by The Verge is that the $1,199 base model equipped with 256GB of storage has a single NAND chip, which will lead to slower SSD speeds in benchmark testing, but real-world performance may vary.\nLast month, it was discovered that the 256GB model of the 13-inch MacBook Pro with the M2 chip has up to 50% slower SSD read speeds and up to 30% slower SSD write speeds compared to the equivalent previous-generation model in benchmarks.\nThe dilemma arises from the fact that Apple switched to using a single 256GB flash storage chip instead of two 128GB chips in the base models of the new MacBook Air and 13-inch MacBook Pro. Configurations equipped with 512GB of storage or more are equipped with multiple NAND chips, allowing for faster speeds in parallel.\nIn a statement issued to The Verge, Apple said that while benchmarks of the new MacBook Air and 13-inch MacBook Pro with 256GB of storage \"may show a difference\" compared to previous-generation models, real-world performance is \"even faster\":\nThanks to the performance increases of M2, the new MacBook Air and the 13-inch MacBook Pro are incredibly fast, even compared to Mac laptops with the powerful M1 chip. These new systems use a new higher density NAND that delivers 256GB storage using a single chip. While benchmarks of the 256GB SSD may show a difference compared to the previous generation, the performance of these M2 based systems for real world activities are even faster.\nIt's unclear if Apple's statement refers explicitly to real-world SSD performance or overall system performance. Some tests of the base model 13-inch MacBook Pro with the M2 chip showed that SSD speeds were slower even in real-world usage, but results have been mixed. Overall, if the fastest SSD speeds are important to you, we recommend configuring the new MacBook Air with at least 512GB of storage to avoid any potential impact.",
+        "url": "https://www.macrumors.com/2022/07/14/m2-macbook-air-slower-ssd-base-model/",
+        "labels": {
+            "mac computers": 0.8075840473175049,
+            "airtag": 0.1091177836060524,
+            "airpods": 0.031525611877441406,
+            "data privacy": 0.010791240260004997,
+            "software": 0.009331614710390568,
+            "money or stock": 0.008658478036522865,
+            "employees": 0.006457225419580936,
+            "leaks or rumours": 0.005116931162774563,
+            "apple tv or apple music": 0.003502504900097847,
+            "ipad": 0.0032699457369744778,
+            "apple watch": 0.0028040120378136635,
+            "iphone": 0.0018405967857688665
+        }
+    },
+    "article_9": {
+        "title": "iPhone may still be the best value among smartphones - seriously",
+        "body": "In the face of a global economic downturn, one thing you wouldn't expect is for some of the market's most expensive smartphones to grow in marketshare. And yet that's what Apple's iPhone has done.\nGlobal smartphone shipments fell 9% in Q2 of this year, according to a new report from Canalys, but Apple's marketshare rose from 14% to 17%. Granted, that's still behind global leader Samsung, which has 21%. However, as Samsung fell, Apple rose. Plus, Canalys contends that demand for Apple's iPhone 13 is still strong.\nWhat's going on here?\nNo one has ever called Apple \"The affordable brand,\" or \"The place to get your budget phone.\" None of the iPhone 13 models, from the 5.4-inch iPhone 13 mini to the 6.7-inch iPhone 13 Pro Max, is under $699 (some are over $1,000). You could argue that Samsung's flagships are just as expensive, though Canalys contends that Samsung's first-place finish is attributable to how it \"strengthened its low-end A-Series supply.\" Those phones can start as low as $350.\nYou could argue this is Apple's undeniable cachet at work. People just want what Apple is selling because it's Apple. I disagree. I'd say there are six reasons Apple is still winning while our pocketbooks are losing.\nLongterm and consistent software support\niOS 16 Lock Screen (Image credit: Apple)\nWhen you buy a new iPhone, it ships with the latest version of iOS. An iPhone 13 bought today will have iOS 15. One bought in October later this year, after the iPhone 14 probably launches, will have iOS 16. Every single supported iPhone version will be able to upgrade to the new mobile OS as soon as Apple makes it available. In the Android world, that's always a question mark. New devices should be running Android 12, but might not be. And when Android 13 ships later this year, there's no guarantee that all Android devices will immediately support or upgrade to it. Apple simply never makes you live with that uncertainty (until they stop supporting your really old phone).\nPerformance across the entire line\nApple is one of the rare handset manufacturers that no longer mess around with different mobile CPUs. It's now offering the A15 Bionic in every iPhone 13 model (and even the iPhone SE). Android devices carry a wide range of mobile CPUs from Qualcomm and Mediatek. Older generation and slightly less performant models help keep products like the Samsung A Series in the affordable range.\nIf you really want an \"affordable\" iPhone you can opt for the $429 iPhone SE and still get Apple's best mobile CPU.\nCamera performance across the line\nThe iPhone 13 Pro's rear cameras (Image credit: Apple)\nBecause all these iPhones have the same CPU, they can do more with less. So photos taken with the iPhone SE's decent, though not spectacular camera will still look good, especially because you can still take Portrait Mode photos with a single lens. As soon as you get into the iPhone 13 range, you're looking at excellent dual and triple camera arrays. I won't argue that Samsung consistently beats Apple on zoom strength and quality, but for overall image quality and processing, the iPhone still has the lead.\nThe ecosystem\nWhile Samsung is building a quality collection of connected devices, including its Samsung Galaxy S22 line, Galaxy Watch, and Galaxy Buds, the software and its connections to other hardware like smart speakers, streaming devices, tablets, and desktops and laptops, isn't nearly as strong and cohesive as what you find with Apple.\niOS, iPadOS, tvOS, watchOS, macOS, iCloud all feel like they are part of the same universe because there is a real synergy between these platforms and products. Sometimes it can be as simple as when you start to enter a lengthy password on your Apple TV and your iPhone lights up to let you more easily type it in there instead.\nEach product is part of a larger whole because Apple is designing it that way. Samsung, Google, and other Android companies are all trying to work in the same direction, but I think consumers can see that they're playing catchup.\nCustomer support\nApple Store event (Image credit: Future / Lance Ulanoff)\nApple's physical store availability is not only a real asset for Apple, as it works to sell you billions in new products, it's a benefit for customers, too. Not only does it offer quick, physical access to more Apple gadgets but it's a destination for customer support and camaraderie. Recognizing that its stores are more than just retail destinations, Apple has built them up into something approaching tech community centers. Microsoft tried and failed to do this and Samsung and Google, while offering beautiful stores with similar amenities, do not have the same levels of vibrancy and utility.\nRetains value\niPhone on Gazelle (Image credit: Future)\nI think it's safe to say iPhones hold their value. A recent visit to Gazelle finds iPhones going back to the iPhone 6S still for sale (granted why would you buy an $84 6S when you can get an iPhone 13 mini for $589?).\nEven with all this, Apple's iPhone isn't always winning. In late, 2020, Apple was briefly Number 1 with roughly 20% market share, but then it dipped through the summer of 2021 as customers waited for the iPhone 13.\nMy point is, though, that people will always come back to Apple and its high-value iPhone and not just for the iconography or the ghost of Steve Jobs. They pay more because, in the end, they get more.",
+        "url": "https://www.techradar.com/news/iphone-may-still-be-the-best-value-among-smartphones-seriously",
+        "labels": {
+            "iphone": 0.9382728934288025,
+            "money or stock": 0.025538496673107147,
+            "airtag": 0.011302271857857704,
+            "employees": 0.0058909528888762,
+            "data privacy": 0.004655403550714254,
+            "leaks or rumours": 0.003757405560463667,
+            "software": 0.003701777197420597,
+            "airpods": 0.002187211299315095,
+            "apple tv or apple music": 0.001525796833448112,
+            "ipad": 0.0012360097607597709,
+            "mac computers": 0.0010556718334555626,
+            "apple watch": 0.0008761154022067785
+        }
+    },
+    "article_10": {
+        "title": "Apple Adding First MacBook Pro With Touch Bar to Vintage Products List",
+        "body": "Apple will be adding the first 13-inch and 15-inch MacBook Pro models with the Touch Bar to its vintage products list on July 31, the company said in an internal memo shared with Apple Stores and Apple Authorized Service Providers this week.\nThe first MacBook Pro models with the Touch Bar were released in October 2016 as part of a complete redesign of the MacBook Pro. Other new features included a thinner and lighter chassis, the much-maligned butterfly keyboard, Touch ID, a larger trackpad, and the removal of all ports except for Thunderbolt ports and a headphone jack.\nApple removed the Touch Bar from the latest 14-inch and 16-inch MacBook Pro models, but it is still available on the 13-inch MacBook Pro.\nThe memo, obtained by MacRumors, indicates that the 9.7-inch iPad Pro and several other devices will also be classified as vintage at the end of the month. The full list of devices that will become vintage as of July 31 is outlined below:\nMacBook Pro (13-inch, 2016, Two Thunderbolt Ports)\nMacBook Pro (13-inch, 2016, Four Thunderbolt Ports)\nMacBook Pro (15-inch, 2016)\nMacBook Air (13-inch, Early 2015)\nMacBook (12-inch, Early 2016)\niMac (21.5-inch, Late 2015)\niMac (27-inch, Retina 5K, Late 2015)\niPad Pro (9.7-inch, Wi-Fi)\niPad Pro (9.7-inch, Wi-Fi + Cellular)\nApple classifies a device as \"vintage\" after five years have passed since Apple last distributed the device for sale. The first MacBook Pro models with the Touch Bar were discontinued in June 2017, so the five-year mark has recently passed.\nUntil mid-2018, vintage products were ineligible for Apple-approved repairs, but Apple Stores and Apple Authorized Service Providers are now able to repair devices for up to two years after they are classified as vintage, subject to parts availability.\nApple will also be adding the original iPad mini released in 2012 to its obsolete products list on July 31, according to the memo. Apple classifies a device as \"obsolete\" after seven years have passed since Apple last distributed the device for sale, and obsolete devices are no longer eligible for repairs from Apple, except where permitted by law.",
+        "url": "https://www.macrumors.com/2022/07/10/first-macbook-pro-with-touch-bar-vintage/",
+        "labels": {
+            "mac computers": 0.8604246377944946,
+            "airtag": 0.042499467730522156,
+            "money or stock": 0.021865801885724068,
+            "software": 0.019840845838189125,
+            "data privacy": 0.017310135066509247,
+            "employees": 0.01135758962482214,
+            "leaks or rumours": 0.008037187159061432,
+            "apple tv or apple music": 0.0056109861470758915,
+            "ipad": 0.003947797697037458,
+            "airpods": 0.0032899142242968082,
+            "iphone": 0.003175996709614992,
+            "apple watch": 0.0026396464090794325
+        }
+    },
+    "article_11": {
+        "title": "Gurman: Apple Watch Series 8 to feature body temperature sensor (as long as it pasts internal tests)",
+        "body": "Apple Watch Series 8 will have at least one exciting feature for its users when it launches later this year: a body-temperature sensor. In his latest edition of the Power On newsletter, Bloomberg\u2018s Mark Gurman doubles down on the new sensor coming to the next generation of the Apple Watch, while talking about the future Apple Watch SE 2 and a rugged version of the Apple Watch, most likely for extreme sports.\nAccording to Gurman, he believes both Apple Watch Series 8 and a new rugged edition will feature body-temperature detection. The Apple Watch SE 2, on the other hand, is unlikely to receive this function.\nThe body-temperature feature won\u2019t give you a specific reading\u2014like with a forehead or wrist thermometer\u2014but it should be able to tell if it believes you have a fever. It could then recommend talking to your doctor or use a dedicated thermometer.\nHaving a new sensor coming to the Apple Watch Series 8 is exciting, although it\u2019s important to note that most of them need FDA approval. As of now, it sounds like the body temperature sensor feature coming later this year will be similar to the blood oxygen sensor, which can give you an idea about what\u2019s going on with your body, and not necessarily give you medical information.\nApart from the ECG app, which is FDA-approved (and has been approved by other agencies across the globe), Apple can\u2019t advertise that the Apple Watch can truly measure the oxygen in your blood, which sounds like the same approach it will take with the body temperature sensor, as described by Mark Gurman above.\nIn the newsletter, Bloomberg\u2018s journalist says that other hardware changes will \u201cprobably\u201d be minor. As reported last week, the Apple Watch Series 8 is rumored to feature the same S6 chip available on the Apple Watch Series 6, making this the first Apple Watch to have the same processor for the third year in a row.\nLast but not least, Gurman heard internal chatter about updated displays in the new high-end models, which he hopes they get even brighter.\nAre you excited about Apple Watch Series 8 and the other Watches that are rumored to launch a few months from now? Share your thoughts in the comment section below.",
+        "url": "https://9to5mac.com/2022/07/03/apple-watch-series-8-body-temperature-sensor/",
+        "labels": {
+            "apple watch": 0.41472381353378296,
+            "leaks or rumours": 0.3823920786380768,
+            "software": 0.06589043885469437,
+            "airtag": 0.054353028535842896,
+            "data privacy": 0.028098594397306442,
+            "employees": 0.013322005979716778,
+            "mac computers": 0.012445635162293911,
+            "money or stock": 0.007778036408126354,
+            "apple tv or apple music": 0.007528729271143675,
+            "ipad": 0.004931651055812836,
+            "iphone": 0.004433206282556057,
+            "airpods": 0.004102842416614294
+        }
+    },
+    "article_12": {
+        "title": "WhatsApp for iOS will let users hide their online status from everyone",
+        "body": "WhatsApp for iOS is working on yet another long-requested feature from its users \u2013 the ability to hide the Online status from everyone. This function will come in a future update, and it\u2019s already in development. Here\u2019s a preview of this feature and what to expect from it.\nAs spotted by WABetaInfo, WhatsApp will soon let you hide your online status from everyone. As of now, users can choose to display their \u201cLast Seen\u201d information to contacts, some people, or no one. For a future version of the app, WhatsApp will let users follow a similar approach to the online toggle.\nThe publication explains how this feature is going to work:\nIt will be possible to configure who can see when we are online right within our last seen settings thanks to two new options: \u201cEveryone\u201d and \u201cSame as Last Seen\u201d. For example, if you choose \u201cMy contacts\u201d for \u201cLast Seen\u201d and \u201cSame as Last Seen\u201d for \u201conline\u201d, it means non-contacts won\u2019t be able to see when you\u2019re online.\nThis new privacy feature is being developed at the same time WhatsApp is also readying another important function, the ability to edit a message. It\u2019s been quite a while since the app started letting users delete messages, but it never brought the ability to edit them \u2013 which is finally changing in a future update.\nThe ability to edit and delete messages is also coming to yet another beloved messaging app: iMessage with iOS 16. Although it drove some controversy, being able to edit and delete a message can be very handy when you misspell a word or send the wrong information to a person in a chat.\nLast but not least, WABetaInfo reports that WhatsApp is finally readying a new version of reacting to messages. According to the publication, WhatsApp is already rolling out to public beta testers the ability to react to a message with any emoji, just like Instagram does on its Direct Messages feature.\nAre you excited to try all of these WhatsApp functions? Share your thoughts in the comment section below.",
+        "url": "https://9to5mac.com/2022/07/02/whatsapp-hide-online-status/",
+        "labels": {
+            "software": 0.5474545359611511,
+            "data privacy": 0.19681639969348907,
+            "iphone": 0.13396432995796204,
+            "ipad": 0.04056825116276741,
+            "airtag": 0.03545273467898369,
+            "leaks or rumours": 0.01330862008035183,
+            "airpods": 0.009977823123335838,
+            "employees": 0.007277005817741156,
+            "apple watch": 0.005000476725399494,
+            "mac computers": 0.0037476730067282915,
+            "apple tv or apple music": 0.0036075084935873747,
+            "money or stock": 0.002824692754074931
+        }
+    },
+    "article_13": {
+        "title": "Teams is KILLING my Mac Every Day",
+        "body": "I have a hard time believing I'm the first person to post this after not finding anything in the forum. I wouldn't doubt if Microsoft is deleting them because they can't figure out how to fix this issue. I can Google this issue and come up with numerous results but NOTHING has been able to fix this issue except for completely removing Teams all together, which unfortunately is not an option for me.\nTeams is murdering my MacBook Pro 16\" i9 with 16GB RAM every day. This was supposed to be the most kick-a$$ laptop at the time but Microsoft is slowly killing it with Teams. It causes serious lags and randomly decides when it wants to share the screen successfully. Other times, it just shows screen but no audio or vice versa. It's infuriating and I've lost my patience!\nFor context, I just re-installed my entire OS thinking it was an OS issue. I erased the entire drive and started from scratch. I did not do any kind of restore from backup. Everything was a fresh install yesterday.\nI joined a teams meeting today in front of 100 people and Teams seemed to be running fine until I went to share screen and then everything choked. Those who were showing video on the call started flickering rapidly, which could have caused an epileptic seizure - it's that bad and I'm not joking, this isn't funny. IT'S VERY IRRITATING! My entire system. Mail, Calendar, Finder, and Preview (all Apple Apps, which should run super fast) started running like garbage with lags between 5 and 10 seconds - that's no joke. Upon reboot, it was normal again until I ran Teams for another meeting... reboot.\nI firmly believe Teams is a virus and the developers should be fired for ignoring this issue. I've been dealing with this issue for nearly a year. Teams always causes some kind of lag issue whenever I run it. I have to reboot my machine to get my computer to work somewhat normal again. This is ridiculous!\nI found an MS article mentioning how Teams uses memory because of this Chromium feature due to easier development. I don't care about the ease of development. I CARE about it working and NOT DELAYING MY PRODUCTIVITY. Forget Chromium!\nEarlier this year, MS announced they were going to have a new and improved version in April 2021. I think two version have been released since then - None of them have solved this issue.\nIs anyone at Microsoft Listening?!?!?!",
+        "url": "https://techcommunity.microsoft.com/t5/microsoft-teams/teams-is-killing-my-mac-every-day/td-p/2790094",
+        "labels": {
+            "mac computers": 0.6351577639579773,
+            "employees": 0.21282894909381866,
+            "software": 0.1066230908036232,
+            "airtag": 0.014752507209777832,
+            "airpods": 0.008160329423844814,
+            "apple tv or apple music": 0.004521743394434452,
+            "leaks or rumours": 0.004427783656865358,
+            "data privacy": 0.004356991965323687,
+            "money or stock": 0.003068904159590602,
+            "apple watch": 0.0027032680809497833,
+            "iphone": 0.001916216337122023,
+            "ipad": 0.0014824498211964965
+        }
+    },
+    "article_14": {
+        "title": "Apple Watch Series 8 Model Rumored to Feature 5% Larger Display",
+        "body": "Apple is working on an Apple Watch Series 8 model with a larger display, according to DSCC's Ross Young and Haitong International Securities's Jeff Pu.\nIn October last year, Young suggested that the \u200cApple Watch Series 8\u200c could come in three display sizes. Now, responding to a query about the rumor on Twitter, Young claims that the additional display size joining the Apple Watch lineup will be 1.99-inches in size diagonally.\nLikewise, in a note to investors seen by MacRumors, analyst Jeff Pu mentioned that Apple supplier Luxshare will be the \"sole supplier\" for a \"high-end\" 2-inch Apple Watch model this year. It seems likely that the 1.99-inch display size presented by Young has simply been rounded up by Pu.\nA 1.99-inch Apple Watch display size compares to 1.691-inches on the 41mm Apple Watch Series 7 and 1.901-inches on the 45mm Apple Watch Series 7. The new display size would offer an additional 0.089-inches of space diagonally over the 45mm Apple Watch Series 7, which is almost a five percent increase.\nIt is possible that the slightly larger display size relates to the rumored redesign for the \u200cApple Watch Series 8\u200c with flat edges. Earlier this year, the leaker known as \"ShrimpApplePro,\" who correctly said that the Apple Watch Series 7 would feature a rounded design like the Apple Watch Series 6, claimed that Apple was working on a \"flat front glass display\" for the \u200cApple Watch Series 8\u200c. It seems plausible that an Apple Watch design with flat edges, first raised by leaker Jon Prosser in 2021, would feature a slightly larger flat top surface area, which could explain a five percent display size increase, although this remains speculation.\nIt is also of note that Young and Pu's claims could also line up with rumors about this year's \"rugged\" Apple Watch model, which is expected to join the Apple Watch lineup alongside the other Series 8 models. Flagship Apple Watches have historically only ever been offered in two size options, so a third, larger display size could correlate with a new, additional Apple Watch \"Explorer Edition\" variant, especially if this is also the model to offer a new design with flat edges.",
+        "url": "https://www.macrumors.com/2022/07/04/apple-watch-series-8-to-feature-larger-display/",
+        "labels": {
+            "leaks or rumours": 0.7839456796646118,
+            "apple watch": 0.1473764330148697,
+            "airtag": 0.021315066143870354,
+            "data privacy": 0.00853904988616705,
+            "software": 0.008042669855058193,
+            "money or stock": 0.007740367203950882,
+            "apple tv or apple music": 0.006576994899660349,
+            "employees": 0.0065361252054572105,
+            "mac computers": 0.0036087678745388985,
+            "airpods": 0.00223887013271451,
+            "ipad": 0.0020676839631050825,
+            "iphone": 0.002012327080592513
+        }
+    },
+    "article_15": {
+        "title": "Apple Has Applied for 248 Car-Related Patents Since 2000",
+        "body": "Apple has filed for and published a total 248 automobile-related patents since 2000, according to research conducted by Japanese news site Nikkei and Tokyo analytics firm Intellectual Property Landscape.\nPatents cover self-driving technology, riding comfort, seats, suspensions, navigation, battery management, vehicle-to-everything (V2X) connectivity for car-to-car communication, and more. Apple has filed the most patents related to communication and navigation, followed by autonomous driving.\nAfter Apple submits a patent application, it takes around 18 months for it to be published. Apple has so far had eight car-related patents published from 2021, but additional patents should be granted later this year, and the number of 2021 patents published is expected to exceed the number of patents Apple had published in 2020.\nCar-related patent filings began picking up in 2016 after fewer than 10 per year in the 2010s, with Apple filing for 44. Patent filings ticked up even further in 2017, when Apple filed for a record 66 applications.\nNews of Apple's work on some kind of self-driving vehicle first surfaced in 2014, and since then, we've heard regular rumors about Apple's progress. The work on the car has shifted several times and there were moments when it looked like a full car was not going to happen, but in recent years, changes to the project indicate Apple is indeed pushing for some kind of electric autonomous vehicle to be released by the end of the decade.\nApple has been speaking with various vehicle manufacturers and part suppliers for the last couple years, but it is still not clear who exactly Apple plans to partner with (if any company) for its electric vehicle. Apple's many patents related to windows, seats, suspension, and other physical car components reinforce speculation that Apple is going to release a car rather than simply focus on autonomous driving software.\nRecent rumors indicate that Apple has ambitious plans for its self-driving vehicle, with the aim of changing the car market the way the iPhone changed the smartphone market. Apple is exploring a design with four seats that face inward, with no steering wheel or brake pedal.\nThere is no word on when the Apple Car will be launching, but reliable sources like Bloomberg's Mark Gurman and Apple analyst Ming-Chi Kuo have suggested that Apple is aiming for a 2025 release.",
+        "url": "https://www.macrumors.com/2022/07/25/apple-car-patent-applications/",
+        "labels": {
+            "airtag": 0.23202258348464966,
+            "money or stock": 0.16104541718959808,
+            "iphone": 0.1259905993938446,
+            "employees": 0.08835360407829285,
+            "mac computers": 0.08184225857257843,
+            "ipad": 0.07834634184837341,
+            "apple tv or apple music": 0.04884817823767662,
+            "leaks or rumours": 0.0479394756257534,
+            "data privacy": 0.046182867139577866,
+            "airpods": 0.03488299250602722,
+            "apple watch": 0.030222712084650993,
+            "software": 0.024323029443621635
+        }
+    },
+    "article_16": {
+        "title": "Apple is preparing three new Mac Studio models",
+        "body": "If you buy through our links, we may get a commission. Read our ethics policy\nArticle Hero Image\nReferences to three new M2-based Macs, along with model identifiers and even code names have reportedly been found within unspecified Apple code.\nWith the M1 having made its way into multiple critically-acclaimed Macs, it's not a surprise that the M2 is going to appear in more too. Now, though, a developer has spotted specific references to as-yet unreleased M2 models - and many more Apple devices.\nMac14,5\nMac14,6\nMac14,8 \u2014 Pierre Blazquez (@pierre_blzqz) June 30, 2022\nDeveloper Pierre Blazquez will not identify which Apple code the references were found in, nor confirm how it's certain they are M2. However, Apple has said that the M1 is finished, so the three \u2014 Mac14,5; Mac14,6; and Mac14,8 \u2014 are almost certainly new M2 models.\n\"Identifiers have been extracted from a file archived in a publicly available software bundle,\" says Blazquez. \"No UI resources or anything actually juicy (wouldn't have tweeted otherwise).\"\nBlazquez stresses that this is information from publicly-downloadable software and is not in any way claimed to be an insider leak.\n\"Fun fact: the software bundle has been online for months,\" continues Blazquez, \"others have downloaded it way before me.\"\nNew iPhone, iPad and more devices\nBlazquez has also now reported finding codenames and identifiers for more than 20 further new variants of devices. For the iPhone 14, he says the identifiers are:\niPhone15,2\niPhone15,3\niPhone15,4\niPhone15,5\nThis fits with https://appleinsider.com/articles/22/04/18/four-new-iphone-14-models-show-what-to-expect-in-the-fall that the iPhone 14 will feature four models.\nDeveloper Blazquez says the identifiers for as-yet unknown iPads are:\niPad14,3\niPad14,4\niPad14,5\niPad14,6\niPad15,1\niPad15,2\nThere is no more information about forthcoming iPads, but amongst recent rumors there have been multiple sources reporting that Apple is working on a 14.1-inch iPad.\nSimilarly, persistent rumors say Apple will introduce a toughened, ruggedized Apple Watch \u2014 although the company claims its current one is tough enough. Developer Blazquez says he's discovered nine variants coming:\nWatch6,10\nWatch6,11\nWatch6,12\nWatch6,13\nWatch6,14\nWatch6,15\nWatch6,16\nWatch6,17\nWatch6,18\nBlazquez has also uncovered a series of codenames that include T8120 and T8122. He says these are Apple System on a Chip numbers for new processors.\nPreviously, the T8110 was the codename for the iPhone's A15 Bionic, which suggests the T8210 could the next iPhone's processor. Similarly, T8220 could be the codename for a future Apple Silicon processor for the Mac.\nPerhaps most interestingly, Blazquez has also found one identifier named\nAudioAccessory6,1, with a codename of B620AP. He presumes this is a new HomePod, since the HomePod mini's internal name is AudioAccessory5,1.\nApple has not commented on this or any forthcoming releases. Nonetheless, Blazquez's findings back up recent rumors of Apple bringing out a new HomePod.\nUpdated July 5 at 9:25 AM ET Updated removing Mac Studio-specific references.",
+        "url": "https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models",
+        "labels": {
+            "mac computers": 0.4579307734966278,
+            "leaks or rumours": 0.21214289963245392,
+            "software": 0.1884814202785492,
+            "airtag": 0.03656085953116417,
+            "employees": 0.028951790183782578,
+            "money or stock": 0.022539226338267326,
+            "data privacy": 0.018451450392603874,
+            "apple tv or apple music": 0.012514582835137844,
+            "airpods": 0.007825572043657303,
+            "apple watch": 0.005832491908222437,
+            "ipad": 0.0052530281245708466,
+            "iphone": 0.003515901044011116
+        }
+    },
+    "article_17": {
+        "title": "Shazam App Updated to Sync With iPhone's Built-In Music Recognition Feature",
+        "body": "Shazam, the popular music recognition service, has updated its iPhone and iPad app so that songs identified with the Music Recognition feature in iOS now sync with the Shazam app.\nFor those unfamiliar with Shazam, the app is designed to listen for music that's playing, providing a song title and artist for identification purposes. Apple's iPhones and iPads feature built-in Shazam integration with or without the app installed, available through the Music Recognition button in Control Center, and by asking Siri to identify a song that's playing.\nPreviously it was believed that the sync feature between Music Recognition in Control Center and the Shazam app was limited to devices running the iOS 16 developer beta, but Shazam has now rolled out the feature to the current app for devices running iOS 15.\nAlso new in this update, Shazam history is now synced across devices. Previously, long pressing the Music Recognition button in Control Center only displayed song identification history for the current device. Going forward however it will show all songs identified from any device signed into the same Apple ID, regardless of whether it was done via the app or Control Center.\nAfter years of \u200c\u200cSiri\u200c\u200c integration, Apple acquired Shazam in 2018, and since iOS 14.2, Apple's mobile devices have had the system-level song recognition function.\nIn September 2021, Apple announced that the Music Recognition feature in Control Center had surpassed one billion cumulative recognitions across the iPhone and iPad since launching.",
+        "url": "https://www.macrumors.com/2022/07/08/shazam-app-update-sync-ios-feature/",
+        "labels": {
+            "software": 0.674098551273346,
+            "iphone": 0.212646946310997,
+            "airtag": 0.03474481776356697,
+            "employees": 0.013314756564795971,
+            "data privacy": 0.013017366640269756,
+            "apple tv or apple music": 0.012917211279273033,
+            "ipad": 0.010898581705987453,
+            "airpods": 0.010416809469461441,
+            "mac computers": 0.006316779647022486,
+            "leaks or rumours": 0.004591808654367924,
+            "apple watch": 0.0043069785460829735,
+            "money or stock": 0.0027294137980788946
+        }
+    },
+    "article_18": {
+        "title": "iPhone 14 Pro always-on screen behavior previewed in new iOS 16 wallpaper details",
+        "body": "At this point, iPhone 14 Pro rumors are pretty solid when it comes to the new display, which is not only expected to have a new design but also to support an always-on mode. And while previous versions of iOS 16 already had multiple references to a new always-on mode, even the system\u2019s wallpapers have now been updated to take advantage of this new technology.\nIf you\u2019re unfamiliar with an always-on display, this technology allows the system to keep showing some information on the screen like the clock while consuming very little battery power. Some Android smartphones already feature always-on displays, while Apple Watch Series 5 and later also have the same technology.\nEven before WWDC 2022, Bloomberg\u2019s Mark Gurman had already reported that iOS 16 would be ready for a new always-on mode, which is expected to be exclusive to iPhone 14 Pro models. That\u2019s because this year\u2019s models will reportedly get a new variable refresh rate display that goes down to 1Hz per second. As a result, it should consume less power than current displays.\n9to5Mac found multiple references to always-on display support in iOS 16, which corroborates all the iPhone 14 Pro rumors. There\u2019s even an internal mode that Apple uses to test always-on mode in iPhone 13.\niOS 16 wallpapers ready for always-on display\nWhen it comes to Android smartphones with always-on display, the feature works pretty much the same among all of them. You get a black screen with the clock and sometimes widgets. With the new lock screen in iOS 16, it has become pretty clear that the iPhone is likely to follow a similar approach. However, Apple might be working on something beyond that for iPhone 14 Pro.\nBased on the internal files of iOS 16 beta 4, 9to5Mac has found that the system wallpapers are now ready for this new always-on display mode. As we previously explained, iOS 16 no longer uses static images as wallpapers. Instead, the new wallpapers are multi-layered vectors rendered in real time.\nNow, in addition to the regular vectors, the native wallpapers (such as the default one and the recently added clown fish wallpaper) also have a new state labeled \u201cSleep,\u201d which has very dark and faded elements. Wallpapers in this state are quite similar to the Apple Watch faces with always-on enabled.\nOnce the user turns off the screen of the iPhone 14 Pro, the wallpaper will switch to the \u201cSleep\u201d version. We were able to reproduce the new behavior, which you can see below:\nBasically, it seems that Apple will replicate the same effect from the Apple Watch on the iPhone 14 Pro. This means that users will still see their wallpapers in some way even when the screen is turned off. The wallpaper will be displayed at full brightness once the user taps the screen or presses the Power button.\nOf course, on a real device, the clock and widgets chosen by the user will also be visible when the screen is \u201coff.\u201d\nMore about iPhone 14\nApple is expected to introduce four new iPhone models this year. However, iPhone 14 Pro and iPhone 14 Pro Max will be the only ones to have a faster chip and a new screen design with a pill-shaped cutout instead of a notch. This year\u2019s Pro models are also rumored to get a new 48-megapixel wide camera capable of shooting 8K video.\niPhone 14 Pro and iPhone 14 Pro Max will also get the biggest front-facing camera upgrade in years with a new larger aperture f/1.9 lens and autofocus for better low light performance.\nAs for the regular iPhone 14 models, they should be heavily based on the current iPhone 13 hardware with minor camera upgrades, larger batteries, and 6GB of RAM instead of 4GB. The most notable upgrade for the mid-range lineup this year will be the replacement of the \u201cmini\u201d model with a new 6.7-inch screen \u201ciPhone 14 Max.\u201d\nThe new iPhones are likely to be announced this fall.",
+        "url": "https://9to5mac.com/2022/07/28/iphone-14-pro-always-on-ios-16-wallpaper/",
+        "labels": {
+            "iphone": 0.6808760762214661,
+            "software": 0.11743221431970596,
+            "leaks or rumours": 0.061034850776195526,
+            "airtag": 0.053552139550447464,
+            "ipad": 0.017199404537677765,
+            "airpods": 0.014731663279235363,
+            "apple tv or apple music": 0.011543802917003632,
+            "employees": 0.011303401552140713,
+            "money or stock": 0.010893023572862148,
+            "mac computers": 0.00741287786513567,
+            "apple watch": 0.007385762874037027,
+            "data privacy": 0.006634795572608709
+        }
+    },
+    "article_19": {
+        "title": "iOS 16 beta 4 reduces time limit for unsending iMessages, adds new edit log",
+        "body": "iOS 16 beta 4 is here, and it includes a few notable updates to new features in the Messages app. iOS 16 introduces the ability to edit and unsend iMessages for the first time \u2013 but with certain limitations. iOS 16 beta 4 tightens those limitations even further.\nThese changes likely come in response to concerns over the ability to edit and unsend messages. Apple has not directly addressed that topic, but these changes are clearly targeted at those concerns.\nIn iOS 16 beta 4, you can now only edit a message five different times. Furthermore, each of the edits is logged and visible to both the sender and the receiver of the iMessage. This means the person you are messaging will be able to see any edits you\u2019ve made. Once you\u2019ve hit the limit of five edits, the \u201cedit\u201d option will disappear from the long-press menu.\nFurthermore, iOS 16 beta 4 also reduces the amount of time you have to unsend an iMessage. In previous releases of iOS 16, you had 15 minutes to unsend a message. With today\u2019s update, that time frame has been significantly reduced to two minutes. You do still have 15 minutes to edit a message, though.\nIf you spot any changes in today\u2019s new iOS 16 beta or the other new betas from Apple today, let us know in the comments below or on Twitter @9to5Mac. Stay tuned for our full hands-on coverage of today\u2019s releases right here at 9to5Mac today and through the rest of the week.",
+        "url": "https://9to5mac.com/2022/07/27/ios-16-beta-4-unsend-edit-messages/",
+        "labels": {
+            "software": 0.5843257904052734,
+            "iphone": 0.15074372291564941,
+            "ipad": 0.07129509001970291,
+            "airtag": 0.04348950833082199,
+            "data privacy": 0.03762168437242508,
+            "apple watch": 0.025887535884976387,
+            "apple tv or apple music": 0.020808720961213112,
+            "employees": 0.019717121496796608,
+            "airpods": 0.016531268134713173,
+            "mac computers": 0.014352601952850819,
+            "money or stock": 0.007685875054448843,
+            "leaks or rumours": 0.007541111204773188
+        }
+    },
+    "article_20": {
+        "title": "Tesla Removes Apple Music References in Software Code",
+        "body": "Back in December 2020, Tesla\u2019s software code referenced Apple Music in its 2020.48.26 update, as discovered by developer @greentheonly.\nAt the time, @greentheonly force-enabled the Apple Music reference found in Tesla\u2019s software to show a toggle for the streaming service, alongside Tidal. Eventually, Tesla added support for Tidal in November 2021.\nWhat about that reference to Apple Music in Tesla\u2019s software code? According to @greentheonly, it has since been removed, as clarified today to @Teslascope.\nWhen reached for clarification, @greentheonly told Tesla North the electric automaker removed reference to Apple Music in the next software update, after he posted his screenshots in December 2020.\nWe asked @greentheonly if all references to Apple Music were gone in Tesla\u2019s current software code and the user responded, \u201cyup\u201d.\nCurrently, Tesla supports Spotify, TuneIn, TIDAL and Slacker Radio (part of its in-house music app). Apple Music removed from Tesla\u2019s software code means either it\u2019s not going to be supported, or it\u2019s being worked on possibly behind the scenes. It\u2019s unlikely Tesla will support Apple CarPlay either (unless you want to use this hack).\nIn an interview last month, Tesla CEO Elon Musk admitted he streams Apple Music in his Tesla using Bluetooth from his iPhone. When asked if Tesla would support a native Apple Music app, Musk sidestepped the question, leaving the door open for possible integration in the future.",
+        "url": "https://teslanorth.com/2022/07/18/tesla-removes-apple-music-references-in-software-code/",
+        "labels": {
+            "software": 0.7785968780517578,
+            "apple tv or apple music": 0.07877327501773834,
+            "airtag": 0.04228231683373451,
+            "iphone": 0.022699551656842232,
+            "ipad": 0.014378638006746769,
+            "mac computers": 0.01181008294224739,
+            "money or stock": 0.010865377262234688,
+            "airpods": 0.010339448228478432,
+            "data privacy": 0.008871989324688911,
+            "employees": 0.008487716317176819,
+            "apple watch": 0.008415188640356064,
+            "leaks or rumours": 0.004479548428207636
+        }
+    },
+    "article_21": {
+        "title": "WhatsApp launches chat migration from Android to iOS and vice versa for all users",
+        "body": "It\u2019s official. WhatsApp finally lets users transfer their entire chat history from Android to iOS and vice versa. After years of requests, beta testing, and limited smartphone model compatibility, the company is rolling out this feature to all users.\nThe last time 9to5Mac reported on this, WhatsApp was integrating this feature through the Move to iOS app, but in beta. A month after the company rolled out this feature, it\u2019s now making it available to all users as a stable version.\nHere\u2019s what you need to know to migrate your chat from Android to iOS and vice versa:\nAndroid OS Lollipop, SDK 21 or above, or Android 5 or above installed on your Android device\niOS 15.5 or above installed on your iPhone\nMove to iOS app installed on your Android phone\nWhatsApp iOS version 2.22.10.70 or above on your new device\nWhatsApp Android version 2.22.7.74 or above on your old device\nUse the same phone number as your old phone on your new device\nYour iPhone must be factory new or reset to factory settings to pair with the Move to iOS app and move data from your Android phone\nBoth of your devices must be connected to a power source\nBoth of your devices need to be connected to the same Wi-Fi network or you\u2019ll need to connect your Android device to your iPhone\u2019s hotspot\nHow to migrate your WhatsApp chat history from Android to iPhone\nOpen the Move to iOS app on your Android phone and follow the on-screen prompts. A code will be displayed on your iPhone. When prompted, enter the code on your Android phone. Tap Continue and follow the on-screen prompts. Select WhatsApp on the Transfer Data screen. Tap START on your Android phone, and wait for WhatsApp to prepare the data for export. You\u2019ll be signed out from your Android phone once the data is prepared. Tap NEXT to return to the Move to iOS app. Tap CONTINUE to transfer the data from your Android phone to your iPhone and wait for Move to iOS to confirm the transfer is complete. Install the latest version of WhatsApp from the App Store. Open WhatsApp and log in using the same phone number used on your old device. Tap Start when prompted, and allow the process to complete. Finish activating your new device and you\u2019ll see your chats waiting for you.\nWhen transferring your WhatsApp data, you\u2019ll have to create an iCloud backup to use cloud storage. The company notes that it can\u2019t see the data the user transferred, and the Android phone will still have the data unless people delete WhatsApp or wipe the phone.\nHow do you like this update? Share your thoughts in the comment section below.\nA new way to keep the chats that mean the most \ud83d\udcf1\ud83d\udcf2 Today, you\u2019ll have the ability to transfer your entire chat history from Android to iOS and vice versa. Now you have the freedom to switch to and from your preferred devices. \u2014 WhatsApp (@WhatsApp) July 20, 2022",
+        "url": "https://9to5mac.com/2022/07/20/whatsapp-chat-migration-android-ios/",
+        "labels": {
+            "software": 0.6740930676460266,
+            "iphone": 0.1555732637643814,
+            "ipad": 0.06387979537248611,
+            "airtag": 0.042863160371780396,
+            "airpods": 0.013294108211994171,
+            "leaks or rumours": 0.012431750074028969,
+            "data privacy": 0.009061678312718868,
+            "employees": 0.008199340663850307,
+            "apple watch": 0.007480180356651545,
+            "apple tv or apple music": 0.005485045723617077,
+            "money or stock": 0.004275614395737648,
+            "mac computers": 0.0033629985991865396
+        }
+    },
+    "article_22": {
+        "title": "VMware Fusion beta joins Parallels in supporting Windows VMs on Apple Silicon",
+        "body": "The transition from Intel to Apple Silicon Macs has gone smoothly for most software, thanks to the Rosetta 2 compatibility software and app developers who have quickly added Apple Silicon support to their software. But the ability to run Windows and Windows apps, either directly on the hardware via Boot Camp or via a virtual machine, still isn't officially supported.\nBut makers of paid virtualization software have been working to close that gap. Parallels Desktop 17 will run the Arm version of Windows 11 inside a virtual machine, and yesterday VMware released a beta version of VMware Fusion 12 that can do the same thing.\nVMware's blog post details some of the changes they've made to support Windows 11, many of which parallel the work that Parallels has done. To meet Windows 11's TPM requirement, the software creates an encrypted file that is used to store the same kinds of data that an actual TPM would store on a real PC. VMware also includes a basic 2D graphics driver so that the Windows desktop can be rendered properly on high-resolution displays, plus a basic networking driver.\nVirtualizing the Arm version of Windows still isn't officially supported by Microsoft. The company only licenses the Arm version of Windows to PC makers who are building PCs with Arm processors. This means jumping through lots of extra hoops to get Windows installed in VMware Fusion in the first place, since you can't simply download an ISO file as you can for the x86 version of Windows. You need to download a Hyper-V disk image of a Windows 11 beta build from Microsoft's Windows Insider site, convert the .VHDX file to a VMware-compatible VMDK file using separately downloaded Qemu software, create a virtual machine using that disk file, and then continue to install new beta builds as they're available so that the build you're using doesn't expire.\nAdvertisement\nVMware provides some basic documentation for testers hoping to kick the tires of this new build, but it's worth noting that Parallels can at least offer to download Windows for you automatically.\nRunning the Arm version of Windows will let you run most non-3D Windows apps, regardless of whether they were written to run on Arm or x86 processors. Windows includes its own Rosetta-like x86-to-Arm translation, and Windows 11 improved it by allowing it to run 64-bit x86 apps and by letting developers ship apps that use a mix of Arm and x86 code. This is a bit more flexibility than Mac developers have\u2014if a Mac app has any x86-only dependencies or plugins that needs to be run within the host process, the whole app needs to be started in x86 mode, even if the rest of the app is Apple Silicon-native.\nIn recent macOS versions, Apple has been building its own virtualization framework, and independent developers have used it to create lightweight, free virtualization software without the cost or complexity of Parallels or VMware. But it doesn't officially support Windows in any capacity\u2014on Apple Silicon Macs, it supports macOS and Linux VMs.",
+        "url": "https://arstechnica.com/gadgets/2022/07/newest-vmware-fusion-beta-supports-windows-11-on-apple-silicon-macs/",
+        "labels": {
+            "software": 0.5726576447486877,
+            "mac computers": 0.19348198175430298,
+            "airtag": 0.04229733720421791,
+            "iphone": 0.038223426789045334,
+            "ipad": 0.03519042953848839,
+            "airpods": 0.028126442804932594,
+            "apple watch": 0.02244432270526886,
+            "employees": 0.021177276968955994,
+            "data privacy": 0.014637027867138386,
+            "apple tv or apple music": 0.014018143527209759,
+            "money or stock": 0.009635120630264282,
+            "leaks or rumours": 0.008110917173326015
+        }
+    },
+    "article_23": {
+        "title": "M2 MacBook Air Now Available for Same-Day Pickup at Apple Stores",
+        "body": "Friday is the official launch day of Apple's new M2-powered MacBook Air, and as customers who pre-ordered begin to receive their purchases, Apple has also started in-store sales for the new notebook.\nCustomers across the United States, Canada, Europe, Asia, and other regions can now place an order on Apple's website or in the Apple Store app and arrange for in-store pickup at a local retail location.\nA quick spot check on the U.K. Apple online store suggests that most stores in England, Wales, Scotland, and Northern Ireland have available stock for customers today, although there are exceptions.\nFor example, the 8-Core GPU model in Midnight color with 256GB of storage isn't available for in-store pickup in Scotland's Apple stores until Tuesday, August 16, reflecting a similar wait time for online orders.\nSimilar delays for base configurations are reflected in certain stores in other European countries, while Australian stores won't receive stock for any configurations until Monday or Tuesday.\nKey features of the new \u200cMacBook Air\u200c include Apple's latest M2 chip, a new design with flatter edges, a slightly larger 13.6-inch display with a notch, MagSafe charging, an upgraded 1080p camera, and new Starlight and Midnight color options alongside Silver and Space Gray.\nThe notebook is also equipped with two Thunderbolt 3 ports and a 3.5mm headphone jack with support for high-impedance headphones.\nPricing for the new \u200cMacBook Air\u200c starts at $1,199. The notebook is available with up to 24GB of unified memory and up to a 2TB SSD. The previous \u200cMacBook Air\u200c with the M1 chip remains available for $999.",
+        "url": "https://www.macrumors.com/2022/07/15/m2-macbook-air-now-available-in-store/",
+        "labels": {
+            "mac computers": 0.8459660410881042,
+            "airtag": 0.06474503874778748,
+            "software": 0.023349279537796974,
+            "money or stock": 0.018859144300222397,
+            "data privacy": 0.01365121454000473,
+            "airpods": 0.008978369645774364,
+            "employees": 0.0077588423155248165,
+            "apple tv or apple music": 0.005210443865507841,
+            "leaks or rumours": 0.004024016670882702,
+            "apple watch": 0.0029474960174411535,
+            "ipad": 0.002521250629797578,
+            "iphone": 0.0019888770766556263
+        }
+    },
+    "article_24": {
+        "title": "New Bluetooth codec finalized ahead of AirPods Pro 2, enabling these changes to wireless audio",
+        "body": "The next generation of Bluetooth devices is coming as the group responsible for the technology announced today that the LE Audio Spec has now been completed, which means it could now be available in current and new earbuds and headphones, such as AirPods Pro 2.\nAs reported by The Verge, Bluetooth LE Audio was announced a couple of years ago. Now, after some delays due to the pandemic, the Bluetooth SIG CEO said the new codec has been finalized, which means, it can be used by manufacturers.\n\u201cToday is a proud day for the Bluetooth SIG member community,\u201d says CEO of the Bluetooth SIG Mark Powell. \u201cOur members overcame the many challenges placed on them these past few years to complete the largest specification development project in the history of the Bluetooth SIG. LE Audio extends the boundaries of what\u2019s possible for the wireless audio market.\u201d\nThe Low Complexity Communication Codec \u2013 LC3 for short \u2013 will be able to transmit at much lower bitrates without dropping the audio quality we currently see with Bluetooth\u2019s standard.\nAs previously reported by 9to5Mac, the LC3 codec is already being tested by Apple on AirPods Max. A developer was able to activate this codec with the latest AirPods beta firmware saying it\u2019s improving the audio quality on calls. As of now, it\u2019s unclear whether Apple will also make the improvements available while listening to music or watching videos or whether it will require next-generation hardware since the true potential of this technology requires Bluetooth 5.2.\nHere\u2019s how the new Bluetooth codec will impact AirPods Pro 2\nWhile the LC3 codec will improve audio calls, efficiency, and stability of Bluetooth devices, the requirements to take full advantage of this standard will require Bluetooth 5.2, which no AirPods have.\n9to5Mac sources confirm that the next-generation AirPods Pro \u2013 codenamed B698 \u2013 will feature the next version of the H1 chip, Apple\u2019s own audio processor, which could be able to handle this technology.\nIn addition, 9to5Mac already found references on iOS 16 that it will support LC3 codec and low-energy Audio support. While we can\u2019t confirm support for Lossless audio over Bluetooth, as analyst Ming-Chi Kuo reported early this year, we can say that the audio experience on the AirPods Pro 2 will improve a lot.\nWith Bluetooth 5.2 and LC3 support, Apple will be able to get rid of AirPods desynchronizing when on the user\u2019s ears, and improve battery life thanks to the low-energy standard, while focusing on efficiency and stability.\nFor example, with Auracast, you can listen to songs, watch movies, and more, with several wireless earbuds connected at the same time. Currently, you can only connect up to two AirPods from the same source.\nWhile we have to wait for Apple to announce new AirPods hardware, you\u2019ll still be able to take advantage of a great combo while using Apple Music with AirPods 3, AirPods Pro, and AirPods Max.\nAre you excited about these changes? Share your thoughts in the comments section below.",
+        "url": "https://9to5mac.com/2022/07/12/new-bluetooth-codec-airpods-pro-2/",
+        "labels": {
+            "airpods": 0.8207548260688782,
+            "software": 0.05461631342768669,
+            "airtag": 0.042110640555620193,
+            "apple tv or apple music": 0.015461799688637257,
+            "employees": 0.012708165682852268,
+            "ipad": 0.012104742228984833,
+            "data privacy": 0.011153004132211208,
+            "iphone": 0.009042947553098202,
+            "money or stock": 0.006290371064096689,
+            "leaks or rumours": 0.005563244689255953,
+            "mac computers": 0.005270096007734537,
+            "apple watch": 0.0049239154905080795
+        }
+    }
+}

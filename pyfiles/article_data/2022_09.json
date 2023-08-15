@@ -1,0 +1,477 @@
+{
+    "article_0": {
+        "title": "Garmin Reacts to Apple Watch Ultra: 'We Measure Battery Life in Months. Not Hours.'",
+        "body": "Garmin has reacted to Apple's new rugged Apple Watch Ultra, saying in a tweet following the iPhone 14 and Apple Watch event that it measures battery life in \"months\" and \"not hours,\" promoting its latest Enduro 2 watch for athletes.\nWhile the \u200cApple Watch Ultra\u200c has the longest battery life of any Apple Watch to date, with Apple promising up to 36 hours of normal use and up to 60 hours with watchOS 9's new Low Power Mode setting and other optimizations, the Enduro 2 can last significantly longer depending on usage scenarios.\nDespite Garmin's claim that it measures battery life in months, the company actually advertises the Enduro 2 as having \"up to 150 hours of battery life in GPS mode with solar charging\" and \"up to 34 days of battery life in smartwatch mode.\" The Enduro 2 has a 1.4-inch solar-powered display, compared to the nearly 2-inch display on the \u200cApple Watch Ultra\u200c that can reach a peak brightness of 2,000 nits, the brightest ever in an Apple Watch.\nThe \u200cApple Watch Ultra\u200c also has a wide range of advanced sensors, including the ability to take an ECG, measure blood oxygen level, alerts for high and low heart rates, and a new body temperature sensor focusing on women's health.\nThe \u200cApple Watch Ultra\u200c is offered in a 49mm case and costs $799, while the Enduro 2 costs $1,099. The \u200cApple Watch Ultra\u200c was made available for pre-order earlier this week and will begin shipping on Friday, September 23.",
+        "url": "https://www.macrumors.com/2022/09/09/garmin-reacts-to-apple-watch-ultra/",
+        "labels": {
+            "apple watch": 0.6951900124549866,
+            "airtag": 0.1136326864361763,
+            "data privacy": 0.03784673288464546,
+            "software": 0.03694891184568405,
+            "employees": 0.019915912300348282,
+            "mac computers": 0.018858052790164948,
+            "apple tv or apple music": 0.016958346590399742,
+            "leaks or rumours": 0.01620187610387802,
+            "money or stock": 0.012619431130588055,
+            "ipad": 0.011737211607396603,
+            "iphone": 0.011548412963747978,
+            "airpods": 0.008542507886886597
+        }
+    },
+    "article_1": {
+        "title": "Meta Sued Over Tracking iPhone Users Despite Apple's Privacy Features",
+        "body": "Meta is facing a new proposed class action lawsuit that accuses it of tracking and collecting the personal data of iPhone users, despite features and policies made by Apple which are meant to stop that same type of tracking.\nIn August, it was revealed that with the Facebook and Instagram apps, Meta can track all of a user's key taps, keyboard inputs, and more, when using the in-app browser. When a user clicks on a link on Instagram, for example, Meta can monitor their interactions, text selections, and even text input, such as passwords and private credit card details within that website.\nThis practice of tracking users is a direct violation of Apple's App Tracking Transparency (ATT) policy, which requires apps to ask for user consent before tracking them across apps and websites owned by other companies.\nFiled on Wednesday in San Francisco federal court, a new lawsuit accuses Meta of this violation, as reported by Bloomberg Law. The proposed class action lawsuit accuses Meta of violating Apple's ATT framework and state and federal laws by collecting user data without user consent within its Facebook and Instagram apps.\nIn most apps on the \u200ciPhone\u200c, developers use Apple's Safari to open links within their apps. Meta, however, has developed a custom-made in-app browser based on Apple's WebKit framework for Instagram and Facebook. Meta's browser allows it to inject a tracking JavaScript code named \"Meta Pixel\" into all links and websites shown.\nThe lawsuit accuses Meta of using the in-app browser on Facebook and Instagram as a way to circumvent rules enforced by Apple to prevent unwanted tracking of users. \"This allows Meta to intercept, monitor, and record its users' interactions and communications with third parties, providing data to Meta that it aggregates, analyzes, and uses to boost its advertising revenue,\" the lawsuit says, according to Bloomberg Law.\nSince its introduction in June 2021, Meta has been a vocal opposer of Apple's ATT policy, claiming it would hurt small businesses that rely on personalized ads.\nMeta claimed in a full-page newspaper ad that Apple was hurting the ability of small businesses to grow, since if users opt-out of tracking, they're less likely to see ads personalized and recommended for them. Apple's ATT framework has had an impact on Meta's business as it's expected to lose $10 billion in revenue this year alone.\nUpdate: A Meta spokesperson has provided MacRumors with the following statement:",
+        "url": "https://www.macrumors.com/2022/09/22/meta-sued-tracking-iphone-users/",
+        "labels": {
+            "data privacy": 0.5695836544036865,
+            "iphone": 0.26252734661102295,
+            "software": 0.0600503534078598,
+            "airtag": 0.05020870268344879,
+            "ipad": 0.011968850158154964,
+            "money or stock": 0.011188835836946964,
+            "leaks or rumours": 0.007890165783464909,
+            "employees": 0.0061256964690983295,
+            "airpods": 0.0058312187902629375,
+            "mac computers": 0.005729231052100658,
+            "apple tv or apple music": 0.005489032249897718,
+            "apple watch": 0.0034069870598614216
+        }
+    },
+    "article_2": {
+        "title": "Apple Unveils iPhone 14 Pro With Dynamic Island and Purple Color Option",
+        "body": "Apple today announced the iPhone 14 Pro and \u200ciPhone 14 Pro\u200c Max, featuring the \"Dynamic Island\" to surface alerts and activity in a new way, a brighter display with always-on functionality, the A16 Bionic chip, a more advanced camera system, new color options, and more.\nThe \u200ciPhone 14 Pro\u200c and \u200ciPhone 14 Pro\u200c Max offer the \"\u200cDynamic Island\u200c\" thanks to a redesigned TrueDepth camera array that takes up less space and software integrations across the system. The \u200cDynamic Island\u200c adapts and expands into different shapes in real time to show important alerts, notifications and activities across Maps, Music, timers, Live Activities, battery levels, Face ID, and more. It also maintains an active state to give users easier access to controls with a simple tap-and-hold gesture.\nAn improved Super Retina XDR display is up to two times brighter than that of the iPhone 13 Pro with 2,000 nits of brightness. It features always-on functionality for the first time. The display can drop to a 1Hz refresh rate, showing iOS 16's redesigned Lock Screen at all times to show the time, widgets, and Live Activities at a glance.\nThe A16 chip is the first Apple chip built on a 4nm process, featuring 16 billion transistors. With two high-performance cores and four high-efficiency cores, Apple says that the new 6-core CPU easily handles demanding workloads. The chip features an accelerated 5-core GPU with 50 percent more memory bandwidth and a new 16-core Neural Engine.\nA16 Bionic powers computational photography features on the \u200ciPhone 14 Pro\u200c and supports the pro camera system. According to Apple, the CPU, GPU, Neural Engine, and image signal processor work together to support the new camera hardware and perform up to four trillion operations per photo. The A16 supports the Photonic Engine to apply Deep Fusion earlier in the imaging process and improve low-light performance across all of the device's cameras, as well as Action Mode to stabilize video more smoothly. Action mode is also now available in 4K at 24 fps and 30 fps.\nThe rear camera system features a 48-megapixel Wide camera with a 65 percent larger, quad-pixel sensor and second-generation sensor-shift optical image stabilization. For most photos, the quad-pixel sensor combines every four pixels into one large quad pixel equivalent to 2.44 \u00b5m, resulting in enhanced low-light capture and 12MP photo sizes. The sensor is optimized for ProRAW.\nThe 48-megapixel Wide camera also delivers a new 2x telephoto view, in addition to the 3x from the true Telephoto camera, that can also record 4K video with no digital zoom. The Ultra Wide camera is also improved. A new adaptive rear flash features nine LEDs and is up to twice as bright with up to three times better uniformity.\nThe \u200ciPhone 14 Pro\u200c also features an improved front-facing camera with an \u0192/1.9 aperture and autofocus, a new dual-core accelerometer with Crash Detection, and Emergency SOS using satellite connectivity. Emergency SOS via satellite allows users to connect directly to a satellite when they cannot get cellular signal, enabling messaging with emergency services. Users can manually share their location over satellite with Find My when there is no cellular or Wi-Fi connection.\nThe \u200ciPhone 14 Pro\u200c continues to deliver \"all-day battery life.\" The new devices are available in new color options, including Space Black and Deep Purple, alongside Silver and Gold. The \u200ciPhone 14 Pro\u200c and \u200ciPhone 14 Pro\u200c Max remove the SIM tray for U.S. models, with eSIM being the only option.\nThe \u200ciPhone 14 Pro\u200c and \u200ciPhone 14 Pro\u200c Max continue to be priced at $999 and $1,099, respectively. Pre-orders begin on Friday, September 9, with availability beginning Friday, September 16.",
+        "url": "https://www.macrumors.com/2022/09/07/apple-unveils-iphone-14-pro/",
+        "labels": {
+            "iphone": 0.5391209125518799,
+            "software": 0.20474714040756226,
+            "airtag": 0.062711201608181,
+            "data privacy": 0.04028244689106941,
+            "leaks or rumours": 0.03394772484898567,
+            "money or stock": 0.029898442327976227,
+            "employees": 0.027851857244968414,
+            "apple tv or apple music": 0.022909708321094513,
+            "airpods": 0.011829574592411518,
+            "mac computers": 0.011701014824211597,
+            "ipad": 0.007860333658754826,
+            "apple watch": 0.0071395826525986195
+        }
+    },
+    "article_3": {
+        "title": "iPhone 14 Pro's Lightning Connector Still Limited to USB 2.0 Speeds Despite Large 48MP ProRAW Photos",
+        "body": "iPhone 14 Pro and iPhone 14 Pro Max models feature an upgraded rear camera system that can shoot 48-megapixel ProRAW photos, which retain more detail in the image file for more editing flexibility. 48-megapixel ProRAW photos are very large files that clock in at around 75MB each, according to Apple, and sometimes even larger.\nDespite these very large image sizes, we have confirmed that the Lightning connector on the iPhone 14 Pro models remains limited to USB 2.0 speeds of up to 480 Mbps like previous models, meaning that transferring full-resolution 48-megapixel ProRAW photos to a Mac or other device with a Lightning cable will take a long time.\nApple recommends using iCloud Photos to access ProRAW files in full resolution on a Mac or other Apple devices, or to transfer the photos off an iPhone wirelessly by using AirDrop, but the Lightning connector certainly remains a bottleneck.\nBack in 2015, the original iPad Pro's Lightning connector supported USB 3.0, which was capable of up to 5 Gbps speeds based on the spec at the time, but Apple has evidently chosen not to move in this direction for the iPhone. Fortunately, rumors suggest that all iPhone 15 models will be equipped with a USB-C port instead of Lightning, which should result in speeds up to 10 Gbps or even up to 40 Gbps with Thunderbolt 3 support.",
+        "url": "https://www.macrumors.com/2022/09/16/iphone-14-pro-lightning-usb-2-speeds/",
+        "labels": {
+            "iphone": 0.5989515781402588,
+            "airtag": 0.1118626818060875,
+            "data privacy": 0.07932090759277344,
+            "software": 0.045436132699251175,
+            "money or stock": 0.031524255871772766,
+            "ipad": 0.026214726269245148,
+            "leaks or rumours": 0.02416129782795906,
+            "airpods": 0.023639284074306488,
+            "employees": 0.019505968317389488,
+            "apple tv or apple music": 0.018635252490639687,
+            "apple watch": 0.011159180663526058,
+            "mac computers": 0.009588876739144325
+        }
+    },
+    "article_4": {
+        "title": "Apple VP leaves company after vulgar comment goes viral on TikTok",
+        "body": "An aerial view of Apple Park is seen in Cupertino, California, United States on October 28, 2021.\nApple's vice president of procurement, Tony Blevins, has left the company after a TikTok video showed him making a vulgar comment about women at a car show.\nAn Apple representative confirmed the departure to CNBC, saying, \"Tony is leaving Apple.\"\nThe departure was spurred by a TikTok video posted Sept. 5, according to Bloomberg, which first reported the news.\nIn the video, reviewed by CNBC, Blevins is getting out of an expensive Mercedes-Benz sports car and is asked what he does for a living by Daniel Mac, who has a channel centered around asking people in expensive cars questions.\nIn the video, Blevins responds, \"I race cars, play golf and fondle big-breasted women. But I take weekends and major holidays off.\" The remark appears to be a reference to a similar quote in the movie \"Arthur.\"",
+        "url": "https://www.cnbc.com/2022/09/29/apple-vp-leaves-company-after-making-jokes-in-viral-tiktok-video.html",
+        "labels": {
+            "airtag": 0.2778571546077728,
+            "iphone": 0.2100275456905365,
+            "apple tv or apple music": 0.07794155180454254,
+            "apple watch": 0.07131904363632202,
+            "ipad": 0.0706547424197197,
+            "employees": 0.06225939095020294,
+            "software": 0.054052140563726425,
+            "money or stock": 0.04791354760527611,
+            "airpods": 0.04684118926525116,
+            "mac computers": 0.0335792601108551,
+            "leaks or rumours": 0.025471404194831848,
+            "data privacy": 0.022083014249801636
+        }
+    },
+    "article_5": {
+        "title": "Apple Music Replaces Pepsi as Sponsor of Super Bowl Halftime Show",
+        "body": "Apple Music will take over as the sponsor of the NFL\u2019s Super Bowl halftime show, replacing Pepsi as the key backer of the annual spectacle that typically draws one of the biggest single TV audiences of the year.\n\u201cMusic and sports hold a special place in our hearts, so we\u2019re very excited Apple Music will be part of music and football\u2019s biggest stage,\u201d said Oliver Schusser, Apple\u2019s vice president of Apple Music and Beats, in a prepared statement. \u201cWe\u2019re looking forward to even more epic performances next year and beyond with the Apple Music Super Bowl Halftime Show.\u201d\nApple has in recent months shown a greater interest in sports. Its streaming platform has struck deals with Major League Baseball and Major League Soccer to show games to subscribers. Sports rights have long been the province of traditional media companies like Fox, Disney, Paramount Global and NBCUniversal, but technology companies like Apple and Amazon have made a bigger play for those rights as they seek to lure consumers to their new broadband subscription-video services. Amazon, for its part, is now a major NFL partner thanks to its control of rights to \u201cThursday Night Football.\u201d\nThe first Super Bowl with Apple as the halftime sponsor will take place on Sunday, February 12, 2023 in Glendale, Arizona. Apple Music expects in coming months to offer sneak peeks of its ideas via its social handle, @AppleMusic, on TikTok, Instagram and Twitter.\n\u201cWe couldn\u2019t think of a more appropriate partner for the world\u2019s most-watched musical performance than Apple Music, a service that entertains, inspires, and motivates millions of people around the world through the intersection of music and technology,\u201d said Nana-Yaw Asamoah, senior vice president of partner strategy for the NFL, in a statement.\nThe league said more than 120 million viewers watched the halftime show that accompanied Super Bowl LVI. The extravaganza featured Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige and Kendrick Lamar, marking the first time these five artists performed together on stage. Under Pepsi, other halftime performances have included The Weeknd, Jennifer Lopez, Shakira, Beyonc\u00e9, Justin Timberlake, Lady Gaga, Katy Perry, and Bruno Mars.\nBut Pepsi said in May that it would not return as the halftime show\u2019s sponsor in 2022, choosing to walk away from a decade-long association that moved the event away from a roster of primarily rock musicians like Bruce Springsteen and Tom Petty and the Heartbreakers in favor of a new group of artists who are favored by the younger generations that advertisers and the NFL seek to court. The NFL was said to be seeking significantly higher annual payments for the sponsorship rights.\nFor years, each halftime show was treated largely one-off event, with a new sponsor coming in each year. Coca-Cola and Oscar Mayer were among the program\u2019s earliest backers. In 2000, online broker E-Trade kicked off a three-year stint as the sponsor of the event. Tire manufacturer Bridgestone in 2008 aligned itself with the halftime program for five years, supporting The Who, The Black-Eyed Peas and Madonna, among others. Pepsi, which initially sponsored the halftime show for Super Bowl XLI in 2007, which featured Prince, launched its ten-year sponsorship of the mid-game performance in 2013.",
+        "url": "https://variety.com/2022/tv/news/apple-music-super-bowl-halftime-show-pepsi-1235381368/",
+        "labels": {
+            "apple tv or apple music": 0.28806090354919434,
+            "software": 0.1999853104352951,
+            "iphone": 0.14964628219604492,
+            "airtag": 0.07718753814697266,
+            "money or stock": 0.07020293921232224,
+            "ipad": 0.05934164673089981,
+            "airpods": 0.03302466869354248,
+            "mac computers": 0.03179069235920906,
+            "apple watch": 0.028761927038431168,
+            "employees": 0.02586384117603302,
+            "data privacy": 0.020821092650294304,
+            "leaks or rumours": 0.015313220210373402
+        }
+    },
+    "article_6": {
+        "title": "iPhone 14 Pro camera shaking and rattling in TikTok, Snapchat, and other apps",
+        "body": "It appears that many popular third-party apps weren\u2019t quite prepared for the iPhone 14 Pro\u2019s new camera technology. A number of iPhone 14 Pro users are unable to take pictures and images using third-party apps like Snapchat, TikTok, and Instagram. These problems include the camera shaking, rattling, and even making physical noises.\nSeptember 19, 2022 Update: Apple has acknowledged this problem in a statement to Bloomberg. The company says a fix will roll out sometime next week. If you are affected by this issue, do not allow your iPhone 14 Pro\u2019s camera to rattle/shake because it could cause hardware damage.\niPhone 14 Pro camera problems in third-party apps\nConcerned iPhone 14 Pro users have taken to Reddit and Twitter to share their experiences with these issues. On Reddit, one user explains:\nSo I\u2019ve been experiencing my camera shaking uncontrollably whenever I open Snapchat or use the camera for Instagram. However, I don\u2019t run into any issues when I use the regular camera app.\nAnother iPhone 14 Pro user says:\nPicked up my new iPhone 14 pro yesterday and intermittently get ois camera shake (by shake I mean can see and hear it shaking) in Snapchat.\nAnd another:\nMy iPhone 14 Pro just arrived and when I opened Snapchat, the camera was shaking a lot and made a pretty strange mechanical noise\nOther users chimed in to say that they have seen similar problems with Snapchat, Instagram, and TikTok. A handful of videos showing this problem have also been shared to social media. In the videos, you can see the iPhone 14 Pro\u2019s camera shaking in the third-party apps while the physical camera module itself is also making a grinding/rattling noise of some sort.\nThis video below from TikTok does a great job of showing the software problem alongside the iPhone 14 Pro\u2019s camera module rattling. It was posted by TikTok user Damian Munoz on Saturday:\nAs of right now, it appears that this problem is only affecting the iPhone 14 Pro camera when it\u2019s used in a third-party app. Most of the complaints on social media say the problem is happening in social media apps like Snapchat, TikTok, and Instagram.\nBecause this iPhone 14 Pro camera shaking/rattling problem is only affecting the camera in third-party apps, it\u2019s almost certainly a software bug of some sort. It is likely that these third-party apps weren\u2019t prepared for the iPhone 14 Pro camera changes. In particular, it could be something related to optical image stabilization, hence the rattling sounds the camera module itself makes.\nAs of right now, there\u2019s no fix for this problem. The affected apps, like Instagram, Snapchat, and TikTok, will likely need to roll out updates to their respective apps to solve the problem.\nSo uh, we\u2019re having some issues with the 14 Pro Max camera pic.twitter.com/7HH1wLFjdF \u2014 Luke Miani (@LukeMiani) September 16, 2022",
+        "url": "https://9to5mac.com/2022/09/18/iphone-14-pro-camera-module-shaking-and-rattling/",
+        "labels": {
+            "iphone": 0.7890225648880005,
+            "software": 0.14206203818321228,
+            "airtag": 0.024982072412967682,
+            "leaks or rumours": 0.009424546733498573,
+            "airpods": 0.006436873227357864,
+            "data privacy": 0.0063898260705173016,
+            "employees": 0.004774550441652536,
+            "ipad": 0.0047537460923194885,
+            "money or stock": 0.003680749796330929,
+            "apple watch": 0.0033458913676440716,
+            "mac computers": 0.0027932056691497564,
+            "apple tv or apple music": 0.0023338731843978167
+        }
+    },
+    "article_7": {
+        "title": "iOS 16.1 Adds Battery Percentage to iPhone 13 Mini, iPhone 12 mini, iPhone XR, and iPhone 11 Status Bar",
+        "body": "Apple in iOS 16 updated the battery icon on iPhones with Face ID to display the specific battery percentage rather than just a visual representation of battery level. At launch, this feature did not include the iPhone 13 mini, iPhone 12 mini, iPhone XR, or \u200ciPhone\u200c 11, but according to multiple reports from the MacRumors forums and Twitter, all of these iPhones now support the feature.\nBattery percent was not present on iPhones that have \u200c\u200cFace ID\u200c\u200c in iOS 15 because of the lack of space on either side of the notch that houses the TrueDepth camera hardware, but Apple's updated \u200ciOS 16\u200c design adds the specific battery level to the battery icon, providing a better idea of battery status at a glance.\nWith this update, \u200ciPhone 13\u200c mini, \u200ciPhone 12 mini\u200c, \u200ciPhone\u200c XR, and \u200ciPhone\u200c 11 users can see their battery percentage in the status bar, and battery percentage is officially available on the \u200ciPhone\u200c XR and later. Devices without a \u200cFace ID\u200c notch always display the battery percentage as well.",
+        "url": "https://www.macrumors.com/2022/09/14/ios-16-1-battery-percentage-iphone-13-mini/",
+        "labels": {
+            "software": 0.7893701195716858,
+            "iphone": 0.1250004917383194,
+            "airtag": 0.03152419999241829,
+            "employees": 0.010410971008241177,
+            "ipad": 0.010016228072345257,
+            "data privacy": 0.00719860615208745,
+            "apple tv or apple music": 0.005310646258294582,
+            "money or stock": 0.00491498876363039,
+            "airpods": 0.004843580070883036,
+            "mac computers": 0.004166611935943365,
+            "leaks or rumours": 0.003734175581485033,
+            "apple watch": 0.003509304951876402
+        }
+    },
+    "article_8": {
+        "title": "I\u2019m convinced the AirPods Max active noise cancellation has gotten worse - The Verge",
+        "body": "The active noise cancellation (ANC) in my one-week-old AirPods Max has gone soft. After updating to the latest firmware, version 4E71, I am convinced the ANC is no longer as strong or effective as it originally was out of the box. If you\u2019re one of the folks who has experienced this frustrating issue (it\u2019s been discussed on Reddit for months), I now understand the problem firsthand.\nBoth my wife and I often work from home, and for a few days, my AirPods Max excellently rendered her business calls inaudible to me, banished the corgi barks emanating from under my desk to the nether realms, and audibly shut out the high-rise construction site outside my apartment window. But now, the ANC sounds like what I\u2019d describe as a librarian\u2019s transparency mode: it lets me hear my surroundings clearly but reduces the volume for everything. I\u2019m hearing everything I don\u2019t want to now, and I\u2019m convinced it\u2019s because of that firmware update.\nNow the ANC sounds like what I\u2019d describe as a librarian\u2019s transparency mode\nI didn\u2019t rush to this conclusion. I discovered a reduction of the ANC strength after a mid-week overnight charge. That\u2019s likely the point the AirPods automatically ran the update, which they still do stealthily for some reason. Resetting the AirPods Max by holding both buttons and repairing did not bring back what I freshly remembered as the best ANC peace and quiet during work that I\u2019ve had.\nNot all AirPods Max owners are convinced there have been changes, though, with some pinning it on false perceptions drawn from just knowing there was an update \u2014 the placebo effect. For some, that could be a plausible explanation because ANC as a feature can be hard to decipher and may be perceived differently by different ears.\nIn 2019, Bose QC35 II owners similarly complained about degraded noise cancellation performance after a firmware update. The feedback was significant enough for Bose to look closely into the issue. But the company insisted there was no regression. For some users that purchased AirPods Max for accessibility reasons, a perceivable change could be much more apparent.\nPlease do what you used to do best. Thanks. Image: Chris Welch / The Verge\nIn my case, I\u2019m confident this isn\u2019t placebo. I wasn\u2019t thinking or paying attention to anything related to firmware. And you might be thinking: well, firmware 4E71 came out in May, so my AirPods Max most likely shipped with the latest firmware! Not so fast, because when trying to purchase Apple Care, I found out my brand-new AirPods Max were older stock and had first shipped to the retailer (Verizon) in April based on warranty information.\nApple software changelogs are fairly informative, usually. For instance, iOS 16.0.2 was just released this week, and it lists all the fixes within, including a remedy for the iPhone 14 Pro camera shake. But when it comes to firmware updates for all AirPods models, Apple isn\u2019t as thorough. For the last update, the only information Apple shared was \u201cBug fixes and other improvements.\u201d I reached out to the company about what changes came in the latest firmware and if ANC really was affected but haven\u2019t heard back. I just wish Apple added different ANC levels so people can find one that best works for them.\nThis isn\u2019t the first time people have noticed a post-update downgrade in performance from Apple\u2019s AirPods products. Many users complained that their AirPods Pro ANC was less effective following a November 2019 update, and then more people experienced a similar effect with update 2C54 in 2020. Apple would later pull the 2020 update without explanation.\nThis situation leaves me in a tough spot: I really like my AirPods Max. It feels really comfortable to wear all day, fits me perfectly, and my head doesn\u2019t get hot. But since it doesn\u2019t sound as good as it did out of the box, I\u2019m not sure if I want to keep them. I don\u2019t listen to music while I\u2019m working, so I was relying on just the ANC alone to help me concentrate. What I\u2019m doing now is playing different rain and thunder sounds on Apple Music, and that, combined with the current ANC, works well enough for me.",
+        "url": "https://www.theverge.com/2022/9/24/23368439/airpods-max-anc-active-noise-canceling-weakened-firmware-experience-appke",
+        "labels": {
+            "airpods": 0.9150054454803467,
+            "airtag": 0.030526379123330116,
+            "software": 0.01621970720589161,
+            "leaks or rumours": 0.010277914814651012,
+            "apple tv or apple music": 0.005168738774955273,
+            "data privacy": 0.005097617860883474,
+            "money or stock": 0.004961916711181402,
+            "employees": 0.003462723921984434,
+            "apple watch": 0.002463843673467636,
+            "iphone": 0.002459628274664283,
+            "ipad": 0.0024197259917855263,
+            "mac computers": 0.0019362217281013727
+        }
+    },
+    "article_9": {
+        "title": "iOS 16.1 beta 2 features redesigned battery percentage icon that dynamically updates",
+        "body": "With today\u2019s release of iOS 16.1 beta 2 for developers, Apple has changed the design for the coveted battery percentage in the status bar. The battery icon itself will no longer show as full, even when the percentage is less than 100%. Instead, the icon will dynamically change based on your battery charge.\nThe battery icon has been controversial since it was added late in the iOS 16 beta testing process. Many users criticized the design because it would show a full battery icon with the percentage inside. What I\u2019m saying is this: Jos\u00e9 was right yet again, and I apologize for ever doubting him.\nWith iOS 16.1 beta 2, the battery icon no longer appears as full if it\u2019s not actually at 100%. Instead, the design dynamically adjusts based on your current charge level. The percentage number appears inside that battery icon just as it did before.\nThis new design also comes with a bolder font than before. When your iPhone is charging, the lightning bolt icon no longer appears once you hit 100% charge.\nAnother look at the new design via Federico Viticci\niOS 16.1 beta 2 is currently available to developers, and we expect a release to public beta testers as soon as later today.\nSpot any other changes in today\u2019s release of iOS 16.1 beta 2? Let us know in the comments below or on Twitter @9to5Mac. Stay tuned for our full hands-on coverage with the new releases right here at 9to5Mac today and throughout the rest of the week.\nWhat do you think of this new design for the battery percentage icon in iOS 16.1? Is it better than what Apple shipped with iOS 16?",
+        "url": "https://9to5mac.com/2022/09/20/ios-16-dynamic-battery-icon/",
+        "labels": {
+            "software": 0.6301285028457642,
+            "iphone": 0.12224854528903961,
+            "ipad": 0.07080639898777008,
+            "airtag": 0.04350758343935013,
+            "apple tv or apple music": 0.023930616676807404,
+            "airpods": 0.0222112275660038,
+            "employees": 0.019331052899360657,
+            "apple watch": 0.019151372835040092,
+            "leaks or rumours": 0.015754714608192444,
+            "mac computers": 0.013613107614219189,
+            "data privacy": 0.009801928885281086,
+            "money or stock": 0.009514973498880863
+        }
+    },
+    "article_10": {
+        "title": "Microsoft kills SwiftKey for iOS, will remove from App Store on October 5",
+        "body": "Microsoft's SwiftKey keyboard for iOS has been sitting without updates for more than a year, stirring conspiracy theories about the app turning into abandonware. These theories are now official: Microsoft will remove SwiftKey for iOS from the App Store as soon as October 5.\nZDNet has reached out to Microsoft and asked about the keyboard Microsoft acquired in 2016 for a quarter of a billion dollars. A Microsoft spokesperson has confirmed that the company would delist SwiftKey from the App Store early next month, although the keyboard will continue working for those currently using it:\nAs of October 5, support for SwiftKey iOS will end and it will be delisted from the Apple App Store. Microsoft will continue support for SwiftKey Android as well as the underlying technology that powers the Windows touch keyboard. For those customers who have SwiftKey installed on iOS, it will continue to work until it is manually uninstalled or a user gets a new device. Please visit Support.SwiftKey.com for more information.\nThe official SwiftKey support website also confirms the statement, saying that Microsoft is about to end support for SwiftKey on iOS and remove it from the App Store on October 5, 2022. Microsoft has not provided any comments on why it decided to ditch its AI-based keyboard on iOS.\nZDNet speculates that the decision might be related to Apple's unwillingness to give developers access to specific parts of iOS, similar to how Apple refuses to help Microsoft befriend the Phone Link app with iPhones. Many users agree that third-party keyboards on iOS have been a so-so experience since the very beginning in 2014, so it is not surprising that Microsoft does not want to continue investing in SwiftKey for iOS.\nSource: ZDNet",
+        "url": "https://www.neowin.net/news/microsoft-kills-swiftkey-for-ios-will-remove-from-app-store-on-october-5/",
+        "labels": {
+            "software": 0.8347612023353577,
+            "iphone": 0.03750191628932953,
+            "data privacy": 0.022487908601760864,
+            "airtag": 0.01956462860107422,
+            "ipad": 0.01920592039823532,
+            "employees": 0.01768454909324646,
+            "money or stock": 0.016705423593521118,
+            "leaks or rumours": 0.011391660198569298,
+            "airpods": 0.0074621159583330154,
+            "mac computers": 0.0060191405937075615,
+            "apple tv or apple music": 0.0051932865753769875,
+            "apple watch": 0.002022276632487774
+        }
+    },
+    "article_11": {
+        "title": "The latest iPadOS 16 beta brings Stage Manager to older iPad Pro models",
+        "body": "The latest iPadOS 16 beta brings Stage Manager to older iPad Pro models An M1 chip is no longer required, but you won't be able to use Stage Manager with an external display.\nProbably the biggest change Apple announced with iPadOS 16 earlier this year is Stage Manager, a totally new multitasking system that adds overlapping, resizable windows to the iPad. That feature also works on an external display, the first time that iPads could do anything besides mirror their screen on a monitor. Unfortunately, the feature was limited to iPads with the M1 chip \u2014 that includes the 11- and 12.9-inch iPad Pro released in May of 2021 as well as the M1-powered iPad Air which Apple released earlier this year. All other older iPads were left out.\nThat changes with the latest iPadOS 16 developer beta, which was just released. Now, Apple is making Stage Manager work with a number of older devices: it'll work on the 11-inch iPad Pro (first generation and later) and the 12.9-inch iPad Pro (third generation and later). Specifically, it'll be available on the 2018 and 2020 models that use the A12X and A12Z chips rather than just the M1. However, there is one notable missing feature for the older iPad Pro models \u2014 Stage Manager will only work on the iPad's build-in display. You won't be able to extend your display to an external monitor.\nApple also says that developer beta 5 of iPadOS 16. is removing external display support for Stage Manager on M1 iPads, something that has been present since the first iPadOS 16 beta was released a few months ago. It'll be re-introduced in a software update coming later this year. Given that some of the iPad community has been pretty vocal about issues with Stage Manager, particularly when using it with an external display, it makes sense that Apple is taking some extra time to keep working on it.\nI finally went ahead and *disabled* Stage Manager on my iPad Pro. For now.\nAs much as I love using 3-4 apps at once, the implementation just isn't there yet. Crashes every few minutes; hard to use multi-window for the same app; UI glitches everywhere.\nI hope Apple delays this. \u2014 Federico Viticci (@viticci) August 18, 2022\nObviously, we'll need to try Stage Manager on an older iPad Pro before we can say how well it works, but the A12X and A12Z chips are still plenty powerful, so the experience should hopefully not be any different than on an M1 iPad. It's a bummer that external monitor support isn't included, but this should still be welcome news to people who bought Apple's most expensive iPads in the last few years.\nSubscribe to the Engadget Deals Newsletter Great deals on consumer electronics delivered straight to your inbox, curated by Engadget\u2019s editorial team. See latest Subscribe Please enter a valid email address Please select a newsletter By subscribing, you are agreeing to Engadget's Terms and Privacy Policy.\nApple provided Engadget with the following statement about this update:\nWe introduced Stage Manager as a whole new way to multitask with overlapping, resizable windows on both the iPad display and a separate external display, with the ability to run up to eight live apps on screen at once. Delivering this multi-display support is only possible with the full power of M1-based iPads. Customers with iPad Pro 3rd and 4th generation have expressed strong interest in being able to experience Stage Manager on their iPads. In response, our teams have worked hard to find a way to deliver a single-screen version for these systems, with support for up to four live apps on the iPad screen at once.\nExternal display support for Stage Manager on M1 iPads will be available in a software update later this year.",
+        "url": "https://www.engadget.com/apple-ipad-os-16-stage-manager-for-older-i-pads-171218520.html",
+        "labels": {
+            "software": 0.798719048500061,
+            "ipad": 0.10857900232076645,
+            "airtag": 0.02090480551123619,
+            "employees": 0.014628720469772816,
+            "leaks or rumours": 0.0120899872854352,
+            "data privacy": 0.012007101438939571,
+            "airpods": 0.010901739820837975,
+            "money or stock": 0.006851870566606522,
+            "apple tv or apple music": 0.005517601501196623,
+            "apple watch": 0.003946931567043066,
+            "mac computers": 0.0029599734116345644,
+            "iphone": 0.002893332624807954
+        }
+    },
+    "article_12": {
+        "title": "YouTuber Tests Apple Watch Ultra Durability With a Hammer: Table Breaks Before the Watch",
+        "body": "A YouTuber has put Apple's claims for the durability of the Apple Watch Ultra to the test by putting it up against a drop test, a jar of nails, and repeated hits with a hammer to test the sapphire crystal protecting the display.\nTechRax , a channel popular for testing the durability of products, first tested the \u200cApple Watch Ultra\u200c by dropping it from around four feet high. The \u200cApple Watch Ultra\u200c was left mostly unscuffed, aside from some minor dents along the titanium casing. Next, the \u200cApple Watch Ultra\u200c was mixed around in a jar of nails and was once again left with no visible marks.\nTechRax also tested the durability of the \u200cApple Watch Ultra\u200c's sapphire crystal display cover by repeatedly hitting it with a hammer. In the test, the watch withstood repeated hits with the hammer until it finally cracked, and only after the table took some damage first.\nWhile the \u200cApple Watch Ultra\u200c's display did not initially take damage, the watch did fail to turn on after repeated hits. The failure to power on could indicate that while the sapphire may not have broken at first, some internal components may have suffered damage. Of course, the test is unrealistic in portraying a typical use case of the \u200cApple Watch Ultra\u200c, but it may provide some customers reassurance about the strength of the sapphire crystal display cover.\nApple claims the \u200cApple Watch Ultra\u200c is its most rugged, durable, and extreme Apple Watch yet, appearing to be aimed to compete directly with Garmin. In response to the \u200cApple Watch Ultra\u200c, Garmin said it measures battery life in \"months\" and not \"hours.\" The \u200cApple Watch Ultra\u200c is priced at $799 and began arriving to customers on Friday.",
+        "url": "https://www.macrumors.com/2022/09/25/youtube-tests-apple-watch-ultra-hammer/",
+        "labels": {
+            "apple watch": 0.8617983460426331,
+            "airtag": 0.0509851798415184,
+            "software": 0.01465608924627304,
+            "apple tv or apple music": 0.014034801162779331,
+            "mac computers": 0.011458518914878368,
+            "data privacy": 0.011179422959685326,
+            "ipad": 0.007059470284730196,
+            "money or stock": 0.006407716311514378,
+            "iphone": 0.006283201277256012,
+            "employees": 0.006217739544808865,
+            "leaks or rumours": 0.005053659901022911,
+            "airpods": 0.004865904338657856
+        }
+    },
+    "article_13": {
+        "title": "Apple Removes SIM Card Tray on All iPhone 14 Models in U.S.",
+        "body": "Apple today announced that all iPhone 14 models sold in the U.S. do not have a built-in SIM card tray and instead rely entirely on eSIM technology.\nTech specs on Apple's website confirm the iPhone 14, iPhone 14 Plus, iPhone 14 Pro, and iPhone 14 Pro Max are not compatible with physical SIM cards and instead have dual eSIM support, allowing for multiple cellular plans to be activated on a single device.\nAn eSIM is a digital SIM that allows users to activate a cellular plan without having to use a physical nano-SIM card. eSIM availability is rapidly expanding, but the technology is still not available in all countries, which explains why iPhone 14 models will remain available with a SIM card tray outside of the U.S. for now.\nApple's website has a list of carriers that support eSIM technology around the world. In the U.S., this includes AT&T, T-Mobile, US Cellular, Verizon, Xfinity Mobile, Boost Mobile, H2O Wireless, Straight Talk, C Spire, and some others.\nThe new iPhone 14 lineup consists of the 6.1-inch iPhone 14, 6.7-inch iPhone 14 Plus, 6.1-inch iPhone 14 Pro, and 6.7-inch iPhone 14 Pro Max, with all four devices available to pre-order this Friday, September 9 ahead of a September 16 launch. For more details about the devices, be sure to check out our announcement coverage.",
+        "url": "https://www.macrumors.com/2022/09/07/iphone-14-models-no-sim-card-tray-us/",
+        "labels": {
+            "iphone": 0.5152384042739868,
+            "software": 0.10382891446352005,
+            "airtag": 0.0895066112279892,
+            "data privacy": 0.07444518804550171,
+            "ipad": 0.03691456839442253,
+            "mac computers": 0.03404969349503517,
+            "employees": 0.03340421989560127,
+            "money or stock": 0.02976091578602791,
+            "apple tv or apple music": 0.029276704415678978,
+            "leaks or rumours": 0.022194374352693558,
+            "airpods": 0.01836773194372654,
+            "apple watch": 0.013012637384235859
+        }
+    },
+    "article_14": {
+        "title": "Samsung can\u2019t stop talking about the iPhone 14, and it\u2019s getting a little creepy",
+        "body": "Even before the iPhone 14 was announced on Wednesday, Samsung was already mocking Apple for the lack of \u201cinnovation\u201d in the new iPhone models. Now that the iPhone 14 has finally been revealed to the world, the South Korean company is back with a new marketing campaign making fun of Apple for not offering features that Samsung smartphones already have.\nSamsung makes jokes with iPhone 14\nIn a series of tweets, Samsung shared its \u201creactions\u201d to \u201cnew devices announced on Wednesday.\u201d While the company makes no mention of Apple, it\u2019s pretty clear that the new campaign is aimed at iPhone 14 and iPhone users.\nTwo of the tweets are related to foldable phones, which Samsung has been offering for a while now. With messages like \u201cWhat the flip, Apple?\u201d and \u201cWhat\u2019s the hold on the Fold, Apple?\u201d Samsung makes fun of having introduced its first foldable phone more than two years ago, while Apple still doesn\u2019t have one.\nAnother joke made by Samsung is related to the camera. iPhone 14 Pro and iPhone 14 Pro Max feature a new 48MP wide lens, which marks the first megapixel upgrade in iPhone since the iPhone 6s camera in 2015. However, Samsung says \u201c48 megapixels? You\u2019re almost there, Apple\u201d as the company introduced a 108-megapixel sensor with the Galaxy S20 Ultra in 2020.\nBut the campaign doesn\u2019t stop there. As noted by some people, Samsung has even put up billboards with similar jokes. One of them says that Galaxy devices have been able to record video in 8K for over two years, while even iPhone 14 Pro is still limited to 4K video.\nWhile some people seem to enjoy the jokes, others don\u2019t see how they can convince someone to switch from iPhone to a Samsung smartphone.\nIt\u2019s not the first time\nIt\u2019s worth noting that Samsung has always made fun of new iPhones. In 2016, the company created a series of ads mocking Apple for removing the iPhone\u2019s headphone jack, even though the company did the same with Galaxy smartphones shortly after.\nWhat do you think of Samsung\u2019s latest marketing campaign? Is it convincing enough to make someone switch from one to the other? Let us know in the comments below.",
+        "url": "https://9to5mac.com/2022/09/09/samsung-apples-new-iphone-14-joke/",
+        "labels": {
+            "iphone": 0.7598840594291687,
+            "leaks or rumours": 0.10310238599777222,
+            "airtag": 0.05239355191588402,
+            "money or stock": 0.025290315970778465,
+            "data privacy": 0.01938573271036148,
+            "employees": 0.013608630746603012,
+            "airpods": 0.007652221713215113,
+            "software": 0.0069328718818724155,
+            "apple tv or apple music": 0.0032957952935248613,
+            "ipad": 0.0032160624396055937,
+            "mac computers": 0.003017470007762313,
+            "apple watch": 0.002220827154815197
+        }
+    },
+    "article_15": {
+        "title": "Apollo App Adds 'Pixel Pals' to the iPhone 14 Pro Dynamic Island",
+        "body": "Popular Reddit app Apollo was today updated with support for the iPhone 14 Pro and Pro Max, and Apollo developer Christian Selig decided to implement a fun little feature -- a \"tamagotchi\" for the Dynamic Island.\nThe app update adds a small little creature into the area above the \u200cDynamic Island\u200c on the new iPhone models. It can be customized into a cat, dog, hedgehog, fox, or axolotl, and the little creature simply paces around the \u200cDynamic Island\u200c while you browse Reddit.\nThe new \"\u200cDynamic Island\u200c Zoo\" option for Apollo is opt-in, and it is available with the latest version of the app. Selig has also added the little creatures as Lock Screen widgets, so those who do not have an \u200ciPhone\u200c with a \u200cDynamic Island\u200c can also add a critter to their device.\nOkay y'all, I think I found the best idea for the Dynamic Island on the iPhone 14 Pro. I added a cat that lives up there like a tamagotchi and just hangs out and does cute stuff as you browse Reddit in my app (Apollo). pic.twitter.com/xJJlazHH4E \u2014 Christian Selig (@ChristianSelig) September 16, 2022\nEarlier this week, Apollo was updated with iOS 16 support, so there are also a number of other Reddit-related widgets that are available for those running the \u200ciOS 16\u200c operating system.\nApollo can be downloaded from the App Store for free. [Direct Link]",
+        "url": "https://www.macrumors.com/2022/09/16/apollo-pixel-pal-dynamic-island/",
+        "labels": {
+            "software": 0.6510859727859497,
+            "iphone": 0.2682172656059265,
+            "airtag": 0.023336442187428474,
+            "ipad": 0.021658048033714294,
+            "airpods": 0.008627891540527344,
+            "data privacy": 0.007481659762561321,
+            "employees": 0.004803251940757036,
+            "apple tv or apple music": 0.003583206795156002,
+            "leaks or rumours": 0.003395754611119628,
+            "apple watch": 0.003225320251658559,
+            "mac computers": 0.003051141044124961,
+            "money or stock": 0.0015340278623625636
+        }
+    },
+    "article_16": {
+        "title": "Apple Unveils Apple Watch Ultra With Large-Screen Design for Athletes and Explorers",
+        "body": "Apple at its \"Far Out\" media event today announced the Apple Watch Ultra, a new feature-rich smartwatch for athletes and explorers, coming with an all-new design, a large flat sapphire crystal display, an additional programmable Action button, and cellular as standard.\nThe 49mm titanium case has the brightest Apple Watch display yet at 2,000 nits \u2013 two times brighter than previous models \u2013 and a bigger Digital Crown that's more rugged and capable. It features 36 hours of battery life, and will be capable of up to 60 hours of battery life with a new low-power battery optimization setting coming later this fall. Apple says the Apple Watch Ultra has enough battery life for most users to complete a long-course triathlon, consisting of a 2.4-mile swim, 112-mile bike ride, and full marathon at 26.2 miles.\nThe new Action button in high-contrast international orange can be customized for instant access to a variety of features, including Workouts, Compass Waypoints, Backtrack, and more. For example, it can instantly begin workouts and move users to the next interval of a Custom Workout or the next leg of a Multisport workout. It can also be used to mark segments, complementing the new Track running experience, which automatically provides the ultimate pacing and distance estimates for runners at a track.\nThe \u200cApple Watch Ultra\u200c also features three built-in microphones to improve sound quality in voice calls, and new advanced wind noise-reduction algorithms to deliver clearer and intelligible audio for calls. There's a new Dark Mode, a Wayfinder watch face with a built-in compass and space for up to eight complications. The watch also has a built-in depth gauge, and a new dual-frequency GPS with custom position algorithms to receive GPS signals in hard-to-reach locations.\nThe \u200cApple Watch Ultra\u200c also comes with the new Series 8 features including a new Low Power Mode for up to 36 hours of battery life, a body temperature sensor, advanced cycle tracking, international roaming on cellular models, and car crash detection. The latest watchOS 9 also brings new advanced running metrics to measure performance, like Stride Length, Ground Contact Time, Vertical Oscillation, and Running Power, while new Workout Views, such as Segments, Splits, and Elevation, provide important metrics, which can take advantage of the larger display on the Ultra by showing up to six metrics at once.\n\"Inspired by explorers and athletes from around the world, we created an entirely new category of Apple Watch designed for new and extreme environments \u2014 it's the most rugged and capable Apple Watch yet,\" said Jeff Williams, Apple's chief operating officer. \"Apple Watch Ultra is a versatile tool that empowers users to push their boundaries with adventure, endurance, and exploration.\"\nApple is also offering different bands aimed at hikers, divers and runners, with an Alpine loop band, Ocean band, and a super-thin Trail Loop, respectively.\nThe \u200cApple Watch Ultra\u200c starts at $799 and pre-orders open today with availability set for September 23.",
+        "url": "https://www.macrumors.com/2022/09/07/apple-unveils-apple-watch-pro-athletes/",
+        "labels": {
+            "apple watch": 0.7415429949760437,
+            "airtag": 0.07620013505220413,
+            "software": 0.052638258785009384,
+            "leaks or rumours": 0.02578335627913475,
+            "data privacy": 0.02368064410984516,
+            "apple tv or apple music": 0.017673013731837273,
+            "money or stock": 0.013137135654687881,
+            "iphone": 0.012074263766407967,
+            "mac computers": 0.011790784075856209,
+            "ipad": 0.009854822419583797,
+            "employees": 0.008264049887657166,
+            "airpods": 0.007360513787716627
+        }
+    },
+    "article_17": {
+        "title": "iOS 16.1 Beta Brings Adaptive Transparency to Original AirPods Pro",
+        "body": "The third beta of iOS 16.1 that was released earlier this week expands the Adaptive Transparency feature introduced with the second-generation AirPods Pro to the original \u200cAirPods Pro\u200c.\nAs noted on Reddit, first-generation \u200cAirPods Pro\u200c owners who also have the AirPods beta software will now see an \"Adaptive Transparency\" toggle in the AirPods section of the Settings app. The 5A304A beta firmware is required to see the setting.\nApple debuted Adaptive Transparency with the \u200cAirPods Pro\u200c 2. It is designed to allow the AirPods to block out loud sounds, such as sirens, construction work, or loud speakers at a concert without blocking out all noise.\nThe \u200cAirPods Pro\u200c 2 have an upgraded H2 chip that allows for Adaptive Transparency to work, so it is not yet clear how Adaptive Transparency with the H1 chip in the original \u200cAirPods Pro\u200c works in comparison.\n(Thanks, Aaron!)",
+        "url": "https://www.macrumors.com/2022/09/29/ios-16-1-adaptive-transparency-airpods-pro/",
+        "labels": {
+            "airpods": 0.6028851270675659,
+            "software": 0.2265661358833313,
+            "airtag": 0.04805215820670128,
+            "iphone": 0.042165711522102356,
+            "apple tv or apple music": 0.022708961740136147,
+            "ipad": 0.014562082476913929,
+            "data privacy": 0.01355310995131731,
+            "employees": 0.007244198117405176,
+            "leaks or rumours": 0.006715693511068821,
+            "money or stock": 0.00581440981477499,
+            "mac computers": 0.004982709418982267,
+            "apple watch": 0.004749685060232878
+        }
+    },
+    "article_18": {
+        "title": "Some iOS 16 Users Continue to Face Unaddressed Bugs and Battery Drain Two Weeks After Launch",
+        "body": "Today marks exactly two weeks since Apple released iOS 16 to the public. Besides the personalized Lock Screen, major changes in Messages, and new features in Maps, the update has also seen its fair share of bugs, performance problems, battery drain, and more.\nAfter major iOS updates, it's normal for some users to report having issues with the new update, but such reports usually subside in the days following the release. This year, things have been different, as \u200ciOS 16\u200c has seen quite a few bugs being reported by users on an almost daily basis.\nThe initial version of \u200ciOS 16\u200c was iOS 16.0 for all supported iPhones, while the iPhone 14 and iPhone 14 Pro had a day-one iOS 16.0.1 update available that addressed some problems for the latest iPhones. Last week, Apple released iOS 16.0.2, which addressed camera shaking on the \u200ciPhone 14 Pro\u200c, an annoying copy and paste prompt, and more. Despite the iOS 16.0.1 and iOS 16.0.2 updates, users continue to face several unaddressed bugs. Here are a few of them:\nMacRumors has seen no sign of iOS 16.0.3 in our analytics, so it's unclear if Apple is planning another \u200ciOS 16\u200c update before iOS 16.1 ships next month. Apple is currently testing iOS 16.1 with developers and public beta testers, but it won't see a launch until October, likely alongside iPadOS 16.1 and macOS Ventura. Apple Support has been advising customers who are facing issues to restart their iPhones, and in the worst-case scenario, do a restore, in hopes of addressing their problems.",
+        "url": "https://www.macrumors.com/2022/09/26/ios-16-two-weeks-bugs-battery-drain/",
+        "labels": {
+            "software": 0.6394438147544861,
+            "iphone": 0.17894355952739716,
+            "ipad": 0.08965115994215012,
+            "airtag": 0.021836917847394943,
+            "apple tv or apple music": 0.01664557307958603,
+            "data privacy": 0.011039843782782555,
+            "airpods": 0.00905157346278429,
+            "apple watch": 0.008628170937299728,
+            "money or stock": 0.007999338209629059,
+            "leaks or rumours": 0.006768473424017429,
+            "mac computers": 0.005856361240148544,
+            "employees": 0.004135228227823973
+        }
+    },
+    "article_19": {
+        "title": "Apple Has Reportedly Rejected TSMC\u2019s Chip Price Hike of 6 Percent, Decision Could Affect A17 Bionic, M3 Manufacturing",
+        "body": "New cutting-edge chip technologies introduced by TSMC require a hefty cost to mass-produce wafers for clients like Apple. The Taiwanese manufacturer is said to introduce its first 3nm products soon, but according to the latest report, its lucrative partner Apple will not be wanting any part of paying extra to its supplier.\nApple Accounts for 25 Percent of TSMC\u2019s Annual Revenue, so It Has More Leverage to Keep the Same Price\nTSMC\u2019s original business plan was to increase prices next year in between the 6-9 percent hike range. Economic News Daily reports that later, there was some negotiation, starting with a 3 percent increment and gradually reaching the 6 percent threshold. We assume that the chip manufacturer would charge a higher percentage to clients for its more advanced chip process, which at this time, is its first-generation 3nm.\nUnfortunately for TSMC, Apple has rejected these offers. As the latter accounts for 25 percent of its supplier\u2019s annual revenue, there will be little opportunity to go back and forth for price negotiation. This may be one reason why we reported that the upcoming M2 Pro and the M2 Max for updated MacBook Pro models would be manufactured on the 5nm process instead of 3nm; both entities might not have reached a middle ground for price agreement.\nWe are contemplating how this rumored price rejection may affect the upcoming A17 Bionic\u2019s launch schedule. According to a previous report, the upcoming SoC is said to take advantage of TSMC\u2019s second-generation 3nm process, as is the M3 for future Macs. A second-generation 3nm wafer will be significantly more expensive to produce, and if Apple intends to price its iPhone 15 Pro and iPhone 15 Ultra at the same level as the iPhone 14 Pro and iPhone 14 Pro Max, it may force TSMC to absorb those higher manufacturing costs or take a hit in profit margins for each high-end iPhone sold.\nAt this stage, the report does not state when both parties could reach an agreement, but we hope that this unnecessary stalemate does not hinder the progress of Apple\u2019s next-generation custom silicon.\nNews Source: Economic News Daily",
+        "url": "https://wccftech.com/apple-rejects-tsmc-chip-price-hike/",
+        "labels": {
+            "leaks or rumours": 0.37869495153427124,
+            "money or stock": 0.14305923879146576,
+            "iphone": 0.1301555037498474,
+            "mac computers": 0.07081791758537292,
+            "airtag": 0.06651564687490463,
+            "employees": 0.046936679631471634,
+            "ipad": 0.03854380548000336,
+            "apple watch": 0.03265218064188957,
+            "apple tv or apple music": 0.02729243040084839,
+            "data privacy": 0.027247939258813858,
+            "software": 0.024698782712221146,
+            "airpods": 0.013384793885052204
+        }
+    },
+    "article_20": {
+        "title": "Apple begins making the iPhone 14 in India, marking a big shift in its manufacturing strategy",
+        "body": "In this article AAPL Follow your favorite stocks CREATE FREE ACCOUNT\nA view of the new iPhone 14 at an Apple event at their headquarters in Cupertino, California, September 7, 2022. Carlos Barria | Reuters\nwatch now\nThe Cupertino, California, giant has been manufacturing iPhones in India since 2017 but these were usually older models. This time with the iPhone 14, Apple is producing its latest model in India for the first time, close to the device's launch. Apple introduced the iPhone 14 earlier this month.\nApple will sell India-produced phones locally but also export them to other markets globally. Customers in India will begin receiving the locally manufactured devices in the next few days. JPMorgan analysts said in a note this month that Apple will move 5% of its global production for the iPhone 14 to India by late 2022. Apple could also make 25% of all iPhones by 2025 in India, JPMorgan said. Apple's focus on manufacturing in India highlights the tech giant's desire to diversify production away from China and boost customers in India, which is currently a small market for the company.\nApple has a strong momentum in India. India is among the 20+ countries in the world where the premiumization trend has just started. Tarun Pathak research director, Counterpoint Research\nApple still relies heavily on China for the majority of iPhone production. But Beijing has persisted with a strategy of lockdowns to control Covid resurgences even as most of the world looks to open their societies. The zero-Covid policy has disrupted production at factories across China where lockdowns take place and highlighted some potential weak spots in Apple's supply chain. India has looked to boost local manufacturing of electronics through incentives.",
+        "url": "https://www.cnbc.com/2022/09/26/apple-starts-manufacturing-the-iphone-14-in-india.html",
+        "labels": {
+            "iphone": 0.6488721370697021,
+            "airtag": 0.10011430829763412,
+            "money or stock": 0.08439439535140991,
+            "data privacy": 0.034664832055568695,
+            "mac computers": 0.025568053126335144,
+            "employees": 0.024195663630962372,
+            "leaks or rumours": 0.018444979563355446,
+            "apple tv or apple music": 0.01689932867884636,
+            "ipad": 0.015190516598522663,
+            "airpods": 0.011879738420248032,
+            "software": 0.010063355788588524,
+            "apple watch": 0.009712615981698036
+        }
+    },
+    "article_21": {
+        "title": "Apple AirPods Pro 2: Improved Hearing Aid Functionality",
+        "body": "Apple AirPods Pro 2: Improved Hearing Aid Functionality\nAirPods Pro 2 now offer better sound quality, more battery power, and noise cancellation for very loud sounds like sirens\nKarl Strom By\nLast week, Apple hosted an event to launch all of its latest hardware\u2014new iPhones, new Apple Watches, and the long-awaited next generation of Apple\u2019s industry-leading wireless earbuds, AirPods Pro 2. But the big news for people with hearing loss was the announcement that AirPods Pro 2 now offer better sound quality, more battery power, and noise cancellation for very loud sounds like sirens. Sadly, Apple made no mention of Bluetooth LE Audio or Auracast technologies that offer to revolutionize accessibility in public spaces.\nTake a quick look at a HearingTracker Audiologist Matthew Allsop\u2019s YouTube short, \u201cApple AirPods Pro 2nd Generation Hearing Aid Hack\u201d that highlights all the new hearing enhancement features.\nImprovements in sound quality, battery life, and noise cancellation AirPods are the most popular wireless earbuds in the world, so they\u2019re closely monitored by the business press. There was A LOT of speculation\u2014and even some concern from stakeholders in the traditional hearing aid industry\u2014that Apple AirPods Pro 2 would incorporate more hearing aid features. Apart from improved sound quality, battery life, and loud noise suppression, this did not come to pass. Predictions that AirPods 2 would incorporate new \u201chealthable\u201d features\u2014like heart rate monitors and core body temperature sensors\u2014also appear to be wrong.\nTop features affecting hearing aid-like functionality updated in the Apple AirPods Pro 2 are Active Noise Cancellation (ANC), improved battery life, and Adaptive Transparency. Source: Apple\nIn a press release Apple said that AirPods Pro 2 \u201coffer richer bass and crystal-clear sound across a wider range of frequencies\u201d thanks to a \u201cnew low-distortion audio driver and custom amplifier.\u201d Substantial improvements in sound quality could mean improvements in speech clarity for those attempting to use AirPods Pro 2 as hearing aids. And Apple\u2019s new H2 chip\u2014which replaces the H1 chip found in the original AirPods Pro\u2014delivers twice as much Active Noise Cancellation (ANC) with the help of optimally-placed microphones and acoustic vents.\nImportantly, AirPods Pro 2 provide 1.5 hours of additional battery life\u2014or up to 6 hours total on a single charge with ANC active. This represents a 33% improvement when compared to the 1st gen AirPods Pro. While this may sound sufficient for the uninitiated, most hearing aid users will know that it is anything but; rechargeable hearing aids typically last 16-24 hours on a single charge, and all-day use is a must if you hope to truly adapt to an amplified world. And with AirPods Pro, if you\u2019re using a lot of high-drain features like Transparency Mode, you would expect less than 6 hours of operating time.\nAirPods Pro 2 provide up to 6 hours total on a single charge with Active Noise Cancellation (ANC) active, representing a 33% improvement over the previous version. Source: Apple\nAdaptive Transparency reduces very loud noise The new Adaptive Transparency feature offers better listening comfort and protects against sudden, intense noises. This is a feature most advanced hearing aids possess. According to Apple Senior Engineer Mary-Ann Rau, this will dynamically reduce environmental noise\u2014like sirens, construction jackhammers, or even loudspeakers at a concert\u2014for more comfortable everyday listening, with the sound being analyzed at 48,000 times per second to react instantaneously to any loud noise. Apple is still focused on Conversation Boost Conversation Boost is designed to use computational audio and beamforming microphones to help the wearer focus on the voice of the person in front of them and stay more connected in conversations in noisy environments. A recent study from the National Acoustic Laboratories (NAL) in Australia showed that Conversation Boost with Ambient Noise Reduction (ANR) is comparable to hearing aids with conventional directional microphones that provide 3-6 dB SNR improvement. These features, as well as Adaptive Transparency, work best when there is a more snug (closed) fit on the earbuds. That\u2019s why four sizes of eartips, including a new extra-small size, are offered to provide a better acoustic seal and control of sound inside the ear canal, preventing frequencies from \u201cleaking\u201d out of the ear.\nWith the addition of an extra-small eartip, the Apple AirPods Pro 2 earbuds now come with a total of four eartip size options for a snug acoustical fit. Source: Apple\nA new mic for Live Listen? The new charging case for AirPods Pro 2 sports a speaker that will provide Find My, pairing, and low-battery tones. Mysteriously, Apple did not mention the function of the single port on the left-hand side of the case. Some in the hearing industry are speculating, and hoping, that the mic might serve as a new audio source for Live Listen, which currently allows users to stream audio from their iPhone mic to their AirPods. \u201cRemote microphones\u201d are extremely powerful tools that allow people with hearing loss to better hear distant speech or speech in heavy background noise.\nThe new case might sport a microphone for Live Listen. Source: Apple\nNo lossless audio, and no mention of Bluetooth LE Audio or Auracast Apple made no mention of support for lossless audio in their launch event or press release. Implementing lossless audio would allow the new earbuds to reproduce streamed music bit-for-bit the same as the original audio file, resulting in extremely high-quality sound. As Apple Music currently offers lossless audio, it\u2019s possible AirPods Pro 2 may offer it via its Apple Lossless Audio Codec (ALAC) codec at a future date. And while Airpods Pro 2 use Bluetooth 5.3 wireless technology, there was no mention of Auracast, a Bluetooth Low-Energy (LE) Audio technology released in June that is expected to become the \u201cnext generation\u201d assistive listening technology. The Auracast platform will enable an audio transmitter, such as a smartphone, laptop, television, or public address (PA) system, to broadcast audio to an unlimited number of nearby Bluetooth audio receivers\u2014including hearing aids, earbuds, and similar Auracast-enabled devices. Although Bluetooth is becoming prevalent in hearing aids and Auracast could ultimately replace the venerable telecoil, we anticipate the telecoil will coexist with Auracast for many years to come. As with lossless audio, Apple could be planning to announce Auracast compatibility at a future date.\nOne of the best \u201cOTC hearing aids\u201d\u2014even if they don\u2019t call it that\u2014just got even better If you\u2019re unfamiliar with the idea using AirPods Pro as hearing aids, then check out the video below. The key step is uploading a hearing test to Apple Health (or taking a hearing test on your iPhone), which allows your AirPods to compensate for your unique hearing loss while in Transparency Mode. Even without taking the test, it is still possible to use Transparency Mode and Conversation Boost to receive less custom-tailored amplification and speech enhancement.\nHearingTracker Audiologist Matthew Allsop explains how to use Apple AirPods Pro earbuds as hearing aids. Closed captions are available on this video. If you are using a mobile phone, please enable captions clicking on the gear icon.\nCould Apple AirPods Pro 2 Earbuds Become OTC Hearing Aids? Apple could submit an application to the FDA for its Airpods Pro 2 to be classified as an over-the-counter (OTC) hearing aid, but this seems unlikely to happen. Certainly, the new Airpods Pro 2 and its predecessor have all the attributes expected in high-quality OTC hearing aids, including: Personalized audio processing, based on a hearing test, that compensates for milder forms of hearing loss;\nDirectional microphones and speech enhancement algorithms for better hearing in noise and listening comfort;\nBluetooth streaming and connectivity,\nRechargeability, and\nAn in-the-ear form factor with both manual and app-based volume controls. Apple has made no recommendations for the use of AirPods as hearing aids, and\u2014like personal sound amplification product (PSAP) manufacturers\u2014the company\u2019s marketing is devoid of the words \u201chearing loss\u201d or \u201chearing aids.\u201d Instead, it promotes accessibility with \u201cpowerful software features designed for people with mobility, vision, hearing, and cognitive disabilities\u201d, \u201cmild hearing challenges\u201d, and other supporting features for \u201cneurodiversity.\u201d\nApple announced Conversation Boost at the 2021 Worldwide Developers Conference (WWDC). Senior Engineering Program Manager (Siri), Gagan Gupta was careful to use the phrase \"hearing challenges\" in place of \"hearing loss\". Source: CNBC\nThis suggests Airpods Pro 2 earbuds will continue to focus on core music listening and richer audio experiences, while not being restricted in product development by having to adhere to OTC hearing aid regulations set by the FDA. It also strongly suggests that Apple doesn\u2019t view hearing aid functionality as a \u201cmake-or-break\u201d feature for selling AirPods.\nThe best hearing aid alternative on the market? Despite the limited battery life, the first-generation Apple AirPods Pro were one of the best hearing-enhancement hearables on the market. Considering the improvements in battery life, noise cancellation, and sound quality, AirPods Pro 2 are definitely on the short list of next-generation contenders. And if Apple adds LE Audio / Auracast compatibility in a firmware upgrade, AirPods Pro 2 will likely solidify a long-term position as a market leader. HearingTracker has published detailed instructions on how to set up and use AirPods Pro earbuds as hearing aids. But there are several obvious downsides when compared to professionally-fit hearing aids. The most notable is getting only a few hours of use-time with the earbuds. Additionally, our own testing showed that AirPods Pro did a relatively poor job of providing adequate personalized amplification based on the individual\u2019s hearing test results. Finally, using the conspicuous white earbuds in everyday situations might lead people to think you\u2019re not engaged enough to provide your full attention! However, AirPods Pro 2 should continue to provide a good situational boost in hearing for people with milder forms of hearing loss, or even people with normal hearing who just need a little help in background noise. And, due to their popularity and prevalence, accessibility is a huge factor; many people who could benefit from AirPod\u2019s amplification need only step through the setup process to start hearing better. And they can move on to OTC or medical-model hearing aids if and when they are ready. There could also be some new hidden gems in the new Apple AirPods Pro that will be revealed with time, and HearingTracker plans to investigate all the possibilities. Stay tuned!",
+        "url": "https://www.hearingtracker.com/news/apple-airpods-pro-2-improved-hearing-aid-functionality",
+        "labels": {
+            "airpods": 0.9266638159751892,
+            "airtag": 0.030921511352062225,
+            "software": 0.01612456701695919,
+            "apple tv or apple music": 0.00771845830604434,
+            "iphone": 0.0032227132469415665,
+            "employees": 0.0030798919033259153,
+            "mac computers": 0.002595136873424053,
+            "data privacy": 0.0024778961669653654,
+            "leaks or rumours": 0.002244380535557866,
+            "ipad": 0.0022067518439143896,
+            "apple watch": 0.0015062516322359443,
+            "money or stock": 0.0012385791633278131
+        }
+    },
+    "article_22": {
+        "title": "Apple announces the next generation AirPods Pro with the new H2 chip",
+        "body": "The long-awaited refresh of Apple\u2019s AirPods Pro is here. On Wednesday, at its \u201cFar Out\u201d event, the company announced a second-generation pair of the popular noise-canceling earbuds with a new H2 chip that the company promises will offer improved sound quality and noise cancellation.\nThe H2 chip allows the new earbuds to cancel \u201cup to twice as much noise\u201d over the first generation AirPods Pro, Apple says in a press release. The new buds and the H2 chip also offer an improved Adaptive Transparency mode. And Apple also says the AirPods Pro have a new low-distortion audio driver and custom amplifier for \u201cricher bass\u201d and \u201ccrystal-clear sound across a wider range of frequencies.\u201d\nOne major new feature of the new earbuds is the ability to adjust volume with swipes on the stem. That means you won\u2019t have to turn to another device just to bump up the volume on your favorite song. And Apple says the AirPods Pro have better battery life: six hours on a single charge with active noise cancellation turned on.\nThe new AirPods Pro also come with an improved charging case that offers Find My support and a built-in speaker so you can track them more easily. In addition to charging it with a Lightning cable or on a Qi or MagSafe charger, you\u2019ll also be able to charge the case on an Apple Watch charger. The case is also now sweat- and water-resistant, and there\u2019s a loop where you can attach a lanyard if you want another way to carry the case around.\nThe new AirPods Pro case has a lanyard loop. Image: Apple\nThe new earbuds will cost $249, and you can order them on September 9th. They\u2019ll be available on September 23rd. The updated AirPods Pro will also come with new extra-small ear tips, which could be a better fit for some ears.\nThe new AirPods Pro will come with smaller XS eartips. Image: Apple\nApple\u2019s original AirPods Pro were announced not at a product event but via press release in October 2019. They went on to become immensely successful \u2014 not necessarily for their audio fidelity, which has since been lapped by Sony, Samsung, Google, and other competitors, but because they work so seamlessly with the iPhone and other Apple gadgets.\nThe AirPods Pro have been bested at noise cancellation at this point by the likes of Sony and Bose, but their transparency mode remains best in class, even two years later.",
+        "url": "https://www.theverge.com/2022/9/7/23327631/apple-airpods-pro-new-second-gen-specs-price-release-date-features?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter",
+        "labels": {
+            "airpods": 0.8437315821647644,
+            "airtag": 0.049602095037698746,
+            "leaks or rumours": 0.03707025200128555,
+            "data privacy": 0.015128590166568756,
+            "apple tv or apple music": 0.01304683182388544,
+            "employees": 0.009561737067997456,
+            "money or stock": 0.00943923369050026,
+            "software": 0.006060579791665077,
+            "mac computers": 0.004987272433936596,
+            "ipad": 0.004315891768783331,
+            "iphone": 0.003824973711743951,
+            "apple watch": 0.0032309426460415125
+        }
+    },
+    "article_23": {
+        "title": "Most Annoying iOS 16 Features on Your iPhone and How To Fix Them",
+        "body": "iPhone's latest operating system -- iOS 16 -- added a ton of cool new features. Along with unsending and editing text messages, you can now easily remove people or objects from photos with a single tap, find all your saved Wi-Fi passwords and even use your Nintendo switch controllers to play games.\nNobody's perfect, however. Some of the new features in iOS 16 are more annoying than helpful for some iPhone users. For example, not many people seem to like the new iPhone home screen search button. And the random photo pop-ups can be awkward or embarrassing.\nIt's easy to disable the more irritating features on your updated iPhone. I'll walk you through how to \"fix\" the most widely unloved iOS 16 features. And while you're here, make sure you've changed these essential iPhone settings and learned about the many hidden features in iOS 16.\nWatch this: iOS 16: Powerful Features You May Have Missed 06:28\nStrip the new search button from your iPhone's home screen\nYour iPhone's search feature lets you quickly find a text message, third-party app, file, note or location -- pretty much anything on your device or on the web. As you know, to get the search bar, you just swipe down anywhere on the screen, and it appears.\nWith iOS 16, Apple adds another way to access Search from the home screen, via a small button right above your dock.\nHowever, the new search button is easy to accidentally trigger, because it's near where your thumb might go when you swipe between your various home pages.\nBut, like many new features on iOS 16, you can turn this setting off. Simply launch the Settings app, go to Home Screen and toggle off Show on Home Screen to remove the search button from your home screen.\nThe Search bubble should disappear, replaced by a few small dots representing your various home screens.\nEven if you remove the Search button, you can still access the feature by swiping down from anywhere on your home screen. Nelson Aguilar/CNET\nStop unexpected (and embarrassing) photo popups on your iPhone screen\nApple's artificial intelligence helps surface photos and videos in various places across your iPhone, as a reminder of family vacations, couple photos and holidays -- but you may not always want your personal pictures to pop up unexpectedly, especially if they're private, embarrassing or inappropriate.\nWith iOS 16, you can now prevent Featured Photos, as well as curated collections known as Memories, from appearing in photo widgets on your home screen and the Search and For You sections in Photos.\nTo block these tailored photos, launch the Settings app, go into Photos and toggle off Show Featured Content. All featured content will no longer appear across your device -- instead, it'll only be available in your photo library and albums.\nOnce Show Featured Content is turned off, featured photos and memories across your device should disappear. Nelson Aguilar/CNET\nKeep from accidentally ending your own phone calls\nThe side/power button on the side of your iPhone allows you to quickly sleep and wake up your device, but if you accidentally hit it during a phone call, you'll prematurely end your call. If that's something you've encountered in the past, iOS 16 finally allows you to prevent that from happening.\nIn Settings, go to Accessibility > Touch and toggle off Lock to End Call to prevent the side button from ending your calls. If you do hit the side button accidentally, your screen will go to sleep, but you'll stay on your phone call, uninterrupted.\nThis feature is hidden in the Accessibility section of your settings. Nelson Aguilar/CNET\nGo back to using old iPhone lock screen notifications\nApple's latest redesign brings widgets, customizable fonts and colors, a wallpaper gallery and stylized date and time to the lock screen, as well as one overlooked change to notifications. Instead of appearing at the top of your lock screen, notifications now appear at the bottom, which you can then tap on to appear full screen.\nHowever, not everyone may be happy with this change. If you want to go back to the way notifications appeared on iOS 15, launch the Settings application and go to Notifications > Display As. You'll then see three options:\nCount : Notifications appear as a numbered count at the bottom of the screen.\n: Notifications appear as a numbered count at the bottom of the screen. Stack : Notifications appear in a stack at the bottom of the screen.\n: Notifications appear in a stack at the bottom of the screen. List: Notifications appear fully across your screen.\nTo go back to the old notification style, choose the List option.",
+        "url": "https://www.cnet.com/tech/services-and-software/the-most-annoying-ios-16-features-on-your-iphone-and-how-to-fix-them/",
+        "labels": {
+            "software": 0.5216172933578491,
+            "iphone": 0.3847831189632416,
+            "ipad": 0.019173337146639824,
+            "apple tv or apple music": 0.011687229387462139,
+            "airtag": 0.011492378078401089,
+            "money or stock": 0.009943638928234577,
+            "data privacy": 0.00945830438286066,
+            "airpods": 0.007721166592091322,
+            "employees": 0.007628794759511948,
+            "leaks or rumours": 0.006452271249145269,
+            "mac computers": 0.0052871182560920715,
+            "apple watch": 0.0047552925534546375
+        }
+    },
+    "article_24": {
+        "title": "iOS 16 to Launch on September 12, Featuring Redesigned Lock Screen, Unsend and Edit in iMessage, and More",
+        "body": "Apple today announced that iOS 16 and watchOS 9 will be available to all users with compatible iPhone and Apple Watch models on Monday, September 12.\n\u200ciOS 16\u200c was first previewed by Apple in June, and over the last several months, it has undergone beta testing with app developers and members of the public beta program. \u200ciOS 16\u200c is a significant release, with major features including an entirely redesigned and customizable Lock Screen, the ability to temporarily edit iMessages, and much more.\nThe new Lock Screen allows customers to customize various visual elements to create their perfect Lock Screen. Customers can choose different fonts and colors for the clock, add widgets, add new wallpapers with depth effects, and more.\nBesides the newly redesigned Lock Screen, Apple has also brought highly requested features to the Messages app. Users in \u200ciOS 16\u200c can now edit messages up to 15 minutes after they've been sent and can unsend a message up to 2 minutes after they may have accidentally sent it. Improvements to SharePlay and collaboration within Messages are also a part of \u200ciOS 16\u200c.\nIn other core apps such as Mail and Safari, Apple is also improving features like Spotlight search and adding new ones like undo and schedule send for emails, Shared Tab Groups, Safari Passkeys, and more. Apple Maps is also gaining noteworthy features, including multi-stop routing and transit card support.\nUnlike in previous years, Apple is not releasing \u200ciOS 16\u200c and iPadOS 16 simultaneously. While \u200ciOS 16\u200c will be available to \u200ciPhone\u200c users on Tuesday, September 13, iPadOS 16 will be available later this fall. \u200ciOS 16\u200c is compatible with the following iPhones, but some features may require newer models:\n\u200cwatchOS 9\u200c is compatible with the Apple Watch Series 4 and newer.\nFor a complete rundown of every new feature and change coming part of \u200ciOS 16\u200c, be sure to read our comprehensive roundup.",
+        "url": "https://www.macrumors.com/2022/09/07/ios-16-to-launch-september-12/",
+        "labels": {
+            "software": 0.6088542938232422,
+            "iphone": 0.12745890021324158,
+            "leaks or rumours": 0.06657722592353821,
+            "ipad": 0.04741450771689415,
+            "data privacy": 0.03554148972034454,
+            "airtag": 0.03156370669603348,
+            "employees": 0.02099302038550377,
+            "apple tv or apple music": 0.015346483327448368,
+            "apple watch": 0.013799574226140976,
+            "mac computers": 0.012196793220937252,
+            "airpods": 0.011514462530612946,
+            "money or stock": 0.008739467710256577
+        }
+    }
+}

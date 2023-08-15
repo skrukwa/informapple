@@ -1,127 +1,477 @@
 {
     "article_0": {
         "title": "iPhone 12 does not come with power charger or earbuds in the box",
-        "body": "Apple will not include a power charger or earbuds with the iPhone 12, citing environmental reasons. Apple said it will be able to significantly reduce carbon emissions by not having to make the accessories in the first place, in addition to reducing the shipping box size of each iPhone sold.\nFor the first time, neither the power charger brick nor the Apple EarPods will be included with your iPhone purchase. Apple says doing this will save 2 million metric tons of carbon annually.\nApple VP Lisa Jackson said that there are more than 2 billion power adapters in the world already, so continuing to include them in the box with the iPhone was wasteful. The company also said that more and more customers are switching to wireless charging methods.\nThe iPhone 12 box will continue to feature the USB-C to Lightning charging cable, but the EarPod earbuds and power adaptor will not. Those accessories will now only be sold separately.\nThis move will have environmental benefits but the company will draw criticism for penny-pinching customers.\nFTC: We use income earning auto affiliate links. More.\nCheck out 9to5Mac on YouTube for more Apple news:",
-        "sentiment": -0.1502504482526671
+        "body": "Apple will not include a power charger or earbuds with the iPhone 12, citing environmental reasons. Apple said it will be able to significantly reduce carbon emissions by not having to make the accessories in the first place, in addition to reducing the shipping box size of each iPhone sold.\nFor the first time, neither the power charger brick nor the Apple EarPods will be included with your iPhone purchase. Apple says doing this will save 2 million metric tons of carbon annually.\nApple VP Lisa Jackson said that there are more than 2 billion power adapters in the world already, so continuing to include them in the box with the iPhone was wasteful. The company also said that more and more customers are switching to wireless charging methods.\nThe iPhone 12 box will continue to feature the USB-C to Lightning charging cable, but the EarPod earbuds and power adaptor will not. Those accessories will now only be sold separately.\nThis move will have environmental benefits but the company will draw criticism for penny-pinching customers.",
+        "url": "https://9to5mac.com/2020/10/13/iphone-12-does-not-come-with-power-charger-or-earbuds-in-the-box/",
+        "labels": {
+            "iphone": 0.897036612033844,
+            "airtag": 0.03141787275671959,
+            "airpods": 0.015812993049621582,
+            "data privacy": 0.009641856886446476,
+            "employees": 0.009177963249385357,
+            "money or stock": 0.008040828630328178,
+            "leaks or rumours": 0.007897166535258293,
+            "apple tv or apple music": 0.006989741697907448,
+            "ipad": 0.004679369740188122,
+            "mac computers": 0.004102620761841536,
+            "software": 0.0030795352067798376,
+            "apple watch": 0.002123536542057991
+        }
     },
     "article_1": {
         "title": "An iPhone 12 with USB-C would really help with the environment, not a missing charger",
         "body": "During last week\u2019s Apple\u2019s iPhone 12 event, the Cupertino-based company was proud to tout its environmental initiatives. Its offices, data centers and stores currently run on 100% renewable energy and the company is aiming for net zero \u201cclimate impact\u201d by 2030.\nApple\u2019s environmentally conscious redesign has extended beyond corporate offices and malls. This year\u2019s iPhones will not ship with earbuds or a charger, all in the name of lowering needless waste. This allows 70% more iPhones to be shipped on pallets and, according to Lisa Jackson, VP of environment, policy and social initiatives at Apple, \u201cit\u2019s like removing 450,000 cars from the road per year.\u201d\n\u201cThis could not only help to reduce waste but also would prevent upstream environmental impacts linked to the extraction of primary raw materials, manufacturing and distribution of products,\u201d said Dr. Teresa Domenech, a lecturer in industrial ecology at the University College London\u2019s Institute for Sustainable Resources, to CNBC.\nEven then, there\u2019s a dissonance in Apple\u2019s newly public ecological approach. For all the good the company is purporting to do, there\u2019s one dogged design quirk that continues to remain, flying in the face of its corporate activism. Apple is still sticking with its proprietary Lightning charge port. If the company really did care about the environment, it would have switched to USB Type-C.\nThe iPhone 12\u2019s hidden costs\n(Image credit: Apple)\nAccording to Apple, there are currently 2 billion iPhone charging adapters out in the world, and that\u2019s not including third-party ones. Many of these adapters use the standard rectangular USB Type-A port. But included with the iPhone 12 will be a USB Type-C to Lightning cable, making old adapters incompatible.\nAcross Apple stores later this month, sales reps will likely ask shoppers if they have a charge adapter that\u2019s USB Type-C compatible. Some might, many won\u2019t. Of course, these users could use their old 5W adapters and Type-A to lightning cables as well. But the new iPhone has fast charging, and for $19, users can upgrade to the latest charge adapters for speedy electrical fuel up. This curtails some of those environmental benefits.\nAt this moment, most of the tech world has moved on to USB Type-C. All Android phones are currently on the standard and have been so for years. Even the latest iPads and Macbooks currently use Type-C, so it\u2019s not as if the connection standard is foreign to Apple. It leaves the iPhone as the rogue outlier, stubbornly sticking to outdated electrical pins as a means to keep iPhone users tied to a proprietary port.\nIf Apple had switched to Type-C, it could have allowed the existing ecosystem of cables and adapters to be folded into the iPhone 12. Users with the new iPad or MacBook could roll over their existing charging accessories to keep iPhone 12s charged. Android users jumping to iPhone could have continued to use the charging adapters included with their old phones. Or anyone who knows someone with an Android device could have piggybacked off their existing power setup.\nGiven the potential waste-saving advantages, Apple\u2019s decision to stick to Lightning is all the more baffling. And let\u2019s not forget that Apple will still need to ship tiny Type-C power adapters across the world to accommodate the new cable included with the iPhone 12. While these new adapters will have a long shelf life, it will cut back on the emissions savings that Apple so proudly publicizes.\nWhy Apple won\u2019t kill the Lightning port\n(Image credit: Apple)\nSo, why has Apple chosen not to adopt Type-C for iPhone when the waste-saving advantages are seemingly obvious?\nIt likely comes down to profit. It\u2019s hard to say exactly why Lightning remains, especially when Apple has already switched over to USB-C on iPad and Macbook, but one can surmise that with iPhone being Apple\u2019s most popular product category, downstream accessory sales tied to lightning are powerful.\nCables and charging adapters are cheap to make. While Apple hasn\u2019t revealed manufacturing costs, generally charger production at high scale is only a couple of cents. So, even assuming the production, boxing, and shipping of adapters and cables comes out to a dollar, with a price tag of $19 a piece, it\u2019s easy money.\nAt the moment, Apple reports sales of cables and chargers along with other accessories like Airpods and the Apple Watch. This segment of Apple\u2019s business accounts for $10 billion in quarterly revenue. It\u2019s outperforming the Mac line by almost $3 billion. The financial incentive to switch to USB Type-C for iPhone 12 could rob Apple of the overwhelming gains from accessory sales.\nOutlook\nOverall, Apple\u2019s move to not include a charge adapter with this year\u2019s phone is good for the environment. Apple is often a trend setter, with the rest of the tech world following suit. Don\u2019t be surprised if Samsung, LG, and others start removing accessories and making boxes slimmer (though probably not right away in Samsung\u2019s case ). And of course, not having to include accessories will also increase profit margins.\nBut don\u2019t assume that Apple is being altruistic about any of this. If it were, it would have killed Lightning years ago, instead of clinging to it with a death grip to keep iPhone users from buying elsewhere.",
-        "sentiment": 0.024648289465241963
+        "url": "https://www.tomsguide.com/news/an-iphone-12-with-usb-c-would-really-help-the-environment-not-a-missing-charger",
+        "labels": {
+            "iphone": 0.8583065867424011,
+            "airtag": 0.07778489589691162,
+            "leaks or rumours": 0.013466769829392433,
+            "airpods": 0.0084663275629282,
+            "employees": 0.008244896307587624,
+            "data privacy": 0.0069966730661690235,
+            "ipad": 0.006513357628136873,
+            "apple tv or apple music": 0.005023580510169268,
+            "software": 0.004832383245229721,
+            "mac computers": 0.004476615227758884,
+            "money or stock": 0.0030210153199732304,
+            "apple watch": 0.0028669051826000214
+        }
     },
     "article_2": {
         "title": "Apple should switch the iPhone to USB-C if it really wants to help the environment",
         "body": "If you buy an iPhone in the future, you\u2019re not getting an included charging brick or earbuds. Apple says the reasons are environmental. Giving out fewer \u201cfree\u201d accessories with every phone means using less materials, the company claims, and also makes for smaller boxes that can be shipped more efficiently. So going forward, those boxes will just come with a phone and a Lightning to USB-C cable.\nI think Apple\u2019s approach is generally a good thing, but it should have gone further by switching away from its proprietary Lightning port entirely and fully embracing USB-C. Right away, that Lightning to USB-C cable would turn into a much more useful USB-C to USB-C cable that could charge basically all of your electronics. Or better still, Apple could remove the cable entirely and just ship the phone by itself, eliminating even more duplicitous waste.\nIt\u2019s a relatively small change for each person buying an iPhone, but it\u2019s massive when you consider the fact that Apple shipped almost 200 million iPhones over the past year, according to IDC. Chargers might make up a relatively small proportion of total e-waste, as Wired notes, but on a global basis, that\u2019s still tens of thousands of metric tons annually. And as the lack of headphone jacks on 2020\u2019s flagship smartphones shows, Apple\u2019s decisions also have a huge influence on the rest of the industry.\nApple argues no charging brick makes for smaller, more efficient, packaging. Image: Apple\nUSB-C is already becoming the standard\nI\u2019ll be the first to admit that USB-C isn\u2019t a perfect standard. Its naming scheme has been a mess (the current USB standard is called USB 3.2 Gen 2x2 for chrissake), and there are so many bad USB-C cables in the wild that some people have made it their mission to root out the worst of them. To borrow a famous turn of phrase, USB-C is the worst connection standard... except for all the others. But it\u2019s also the best one yet created.\nUSB-C is the worst connection standard, apart from all the others\nIn 2020, USB-C is about as universal as wired connection standards come. It\u2019s used by over-ear headphones, true wireless earbuds, VR headsets, tablets (including some of Apple\u2019s), laptops (including all of Apple\u2019s) and laptop accessories. It\u2019s used by game consoles like the Nintendo Switch, and it\u2019ll be used with both the PS5 and the Xbox Series X\u2019s controllers when those consoles ship next month. USB-C batteries are becoming commonplace and chargers are getting tiny and extremely capable \u2014 with up to 100 watts, a powerful battery or a charger the size of a deck of playing cards can sometimes power a laptop, tablet, and phone all at once.\nNot only is USB-C used almost everywhere, it\u2019s also hard to name something that Lightning actually does better. Longtime Apple blogger John Gruber has argued in the past that it\u2019s a more elegant and slightly thinner port which\u2026 sure, maybe? But is that enough reason to maintain the status quo if Apple cares as much about the environment as it claims?\nYou probably already have a USB-C charger\nApple\u2019s core argument for taking the charger out of the box is that it avoids piling on accessories that a lot of people already own. During its presentation, Apple estimated that there are 2 billion of its power adapters out in the world, and \u201cbillions\u201d of third-party chargers.\nBut let\u2019s put that into perspective. According to IDC, Apple commanded just 13.9 percent of the global smartphone market in 2019, shipping close to 200 million phones last year. Meanwhile, the rest of the industry combined shipped over a billion phones over the course of just a single year, and most of those devices used USB-C. That\u2019s a lot of people who already have everything they need to charge a hypothetical USB-C iPhone, including both charging bricks and USB-C cables. And it doesn\u2019t include all the people who bought other USB-C devices like headphones, laptops, and tablets, including recent MacBook and iPad Pro devices.\nThe Fairphone 3 Plus ships with no charging brick or cable at all\nAll of that means that if you really want to, you can absolutely sell a USB-C smartphone without any charging accessories at all. That\u2019s what ethical smartphone manufacturer Fairphone does. Inside the box for its most recent phone, the Fairphone 3 Plus, you\u2019ll find no headphones, no USB-C charging cable, and no USB-C charging brick. Instead there\u2019s a small screwdriver, so that when the time comes, you\u2019ll be theoretically able to repair the phone for yourself rather than having to throw it out.\nA slightly weird halfway house\nThere are serious questions to be asked about how positive an environmental impact Apple\u2019s existing plan is actually going to have. A big part of Apple\u2019s pitch is that there are already billions of power adapters out there, but it\u2019s likely that a significant portion of them use the USB-A standard, which is incompatible with the Lightning to USB-C cable Apple now packs into the box for faster charging speeds. Apple only started putting USB-C power adapters in the box last year, and even then it was limited to the Pro models, meaning the vast majority of iPhones sold came with a USB-A brick bundled in.\nUSB-C charging bricks only started getting bundled with last year\u2019s iPhone 11 Pro. Photo by Vjeran Pavic / The Verge\nI\u2019m not saying there\u2019ll be no environmental impact. With the iPhone 12, a lot of people will still be able to reuse their existing USB-A to Lightning charging cables and USB-A power bricks, regardless of the new cable they get in the box. But then what\u2019s the point of that Lightning to USB-C cable, particularly if you wind up switching to Apple\u2019s MagSafe wireless chargers instead? If it were a USB-C to USB-C cable, at least you could use it with other gadgets. Apple could have a much bigger environmental impact in the long run by eliminating its proprietary Lightning port entirely.\nApple\u2019s argument\nWe already know what Apple thinks about potentially switching to USB-C connectors, because it put out a statement on this very topic earlier this year. The statement came in response to EU efforts to mandate a common charger for all smartphones, and Apple argued that a switch to USB-C would actually be worse for the environment overall, by rendering hundreds of millions of Lightning accessories obsolete. Here\u2019s the relevant part of the statement it issued in January (emphasis added):\n\u201cMore than 1 billion Apple devices have shipped using a Lightning connector in addition to an entire ecosystem of accessory and device manufacturers who use Lightning to serve our collective customers. Legislation would have a direct negative impact by disrupting the hundreds of millions of active devices and accessories used by our European customers and even more Apple customers worldwide, creating an unprecedented volume of electronic waste and greatly inconveniencing users.\u201d\nThere absolutely are a lot of Lightning accessories out there. But the argument rings hollow given Apple\u2019s own history of obviating all those 30-pin iPod docks and early iPhone peripherals when it switched to Lightning in 2012. Instead of sending them straight to the dump, Apple and others sold 30-pin to Lightning adapters to extend the usefulness of those legacy accessories for years. Apple and its partners can surely now do the same in order to preserve all those Lightning devices. Yes, it would create a one-time glut of adapters that would eventually end up in landfills, but it\u2019s the short-term price to pay for the long-term benefits of convergence.\nSame pain, more gain\nAs someone who has a whole drawer filled with spare power adapters I never use, I\u2019m sympathetic to what Apple is trying to achieve with the iPhone 12. Giving out duplicate accessories with every new phone really isn\u2019t sustainable if we want to try and cut down on the estimated 53.6 million metric tons of electronic waste we threw out last year.\nThe iPhone 11 should have been the last with Lightning\nBut I also have some sympathy for those who say Apple is nickel-and-diming its customers with the move. When a phone costs hundreds of dollars, it\u2019s hard not to feel a little cheated by a smaller box with fewer accessories, particularly if the remaining ones are still half-proprietary.\nBy using the environment to justify the removal of wasteful iPhone charging accessories, Apple has now argued itself into a corner. If its environmental concerns are important enough to influence what gets included with a new phone, then they should also be important enough to influence its design directly.",
-        "sentiment": -0.037114746819593404
+        "url": "https://www.theverge.com/21522980/apple-iphone-12-pro-usb-c-lightning-environment-charger-box-electronic-waste",
+        "labels": {
+            "iphone": 0.7997153997421265,
+            "airtag": 0.09240942448377609,
+            "ipad": 0.017322679981589317,
+            "mac computers": 0.017302170395851135,
+            "software": 0.01598179340362549,
+            "airpods": 0.01132158748805523,
+            "apple tv or apple music": 0.008948642760515213,
+            "leaks or rumours": 0.008761119097471237,
+            "data privacy": 0.007333443034440279,
+            "employees": 0.007329262793064117,
+            "money or stock": 0.0069448393769562244,
+            "apple watch": 0.006629659794270992
+        }
     },
     "article_3": {
         "title": "iPhone 12 Pro so expensive in India that you can fly to Dubai to buy it, come back, and still save money - Technology News",
-        "body": "By Ankita Chakravarti: Apple launched four new iPhones including the iPhone 12 Mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max. Out of all the four new releases, only two will be available in India for now- the iPhone 12 and iPhone 12 Pro. Soon after the new iPhones were announced, Apple discontinued the iPhone 11 Pro and iPhone Pro Max. The company also reduced the prices of its existing iPhones including the iPhone 11, iPhone XR, and iPhone SE.\nadvertisement\nThe Apple iPhone 12 is priced starts at Rs 69,900 for the base variant whereas the iPhone 12 Pro costs Rs 1,19,900 for the base variant. Well, that is not something unexpected. Considering the previous trends, the iPhone Pro models are released with an exorbitant price tag. Now to add to the woes of people looking to buy the iPhone 12 Pro, they should know that the Apple iPhone 12 Pro is more expensive in India than in any other country. Dubai for instance sells the iPhone 12 Pro for Rs 84,000.\nNow this rings a bell. The iPhone 12 Pro is comparatively cheaper in Dubai. So cheap that you can actually go to Dubai, buy the phone and come back. Let us explain the math to you for a better understanding.\niPhone 12 Pro Price in India for 128 GB: Rs 1,19,000\niPhone 12 Pro Price in Dubai for 128GB: Rs 84,000. It costs Dh 4,199 in Dubai and if you convert the currency to INR, the price comes down to almost Rs 84,000.\nSo, should this mean that you can go to Dubai, buy the phone and then come back? Well, if you ask me. It is not that bad an idea. The 12 Pro will go on sale from November 6. So you book a flight for Dubai from Delhi or Kolkata for November 6 or later than that, you can get the return ticket for a little over Rs 18,000.\nBelow is the exact amount, you would be spending on your flight tickets to Dubai from New Delhi. However, the amount might change depending on the availability but this is what we found when tried booking a ticket to Dubai.\nFlight ticket: Indigo Rs 17929 approx\niPhone 12 Pro 128GB: 84,000\nSome other expenses: Around Rs 10,000\nTotal: Around Rs 1,11,929\nMoney saved: Around Rs 8000\nNow, considering that the world is battling coronavirus pandemic and the virus is in no mood to slow down, we do not encourage anyone to travel. The whole idea was to not send you to Dubai but to draw your attention towards Apple\u2019s exorbitant pricing in India. It is no secret that the taxes and duties that are applied to imported phones are highest in India. The taxes are so high that for an important iPhone that you will end up paying an average tax of Rs 24,000 for something like an iPhone 12 or iPhone 12 Mini.\nadvertisement\nHowever, despite the sky-rocketing prices, iPhone still sells best in India and the buyers give whatever price Apple asks them to pay. So for a business, that is not a bad deal at all.\nALSO READ | Apple iPhone 12 Pro, 12 Pro Max launched: Price, specifications, and features\n--- ENDS ---",
-        "sentiment": -0.3518129628417747
+        "body": "By Ankita Chakravarti: Apple launched four new iPhones including the iPhone 12 Mini, iPhone 12, iPhone 12 Pro, and iPhone 12 Pro Max. Out of all the four new releases, only two will be available in India for now- the iPhone 12 and iPhone 12 Pro. Soon after the new iPhones were announced, Apple discontinued the iPhone 11 Pro and iPhone Pro Max. The company also reduced the prices of its existing iPhones including the iPhone 11, iPhone XR, and iPhone SE.\nadvertisement\nThe Apple iPhone 12 is priced starts at Rs 69,900 for the base variant whereas the iPhone 12 Pro costs Rs 1,19,900 for the base variant. Well, that is not something unexpected. Considering the previous trends, the iPhone Pro models are released with an exorbitant price tag. Now to add to the woes of people looking to buy the iPhone 12 Pro, they should know that the Apple iPhone 12 Pro is more expensive in India than in any other country. Dubai for instance sells the iPhone 12 Pro for Rs 84,000.\nNow this rings a bell. The iPhone 12 Pro is comparatively cheaper in Dubai. So cheap that you can actually go to Dubai, buy the phone and come back. Let us explain the math to you for a better understanding.\niPhone 12 Pro Price in India for 128 GB: Rs 1,19,000\niPhone 12 Pro Price in Dubai for 128GB: Rs 84,000. It costs Dh 4,199 in Dubai and if you convert the currency to INR, the price comes down to almost Rs 84,000.\nSo, should this mean that you can go to Dubai, buy the phone and then come back? Well, if you ask me. It is not that bad an idea. The 12 Pro will go on sale from November 6. So you book a flight for Dubai from Delhi or Kolkata for November 6 or later than that, you can get the return ticket for a little over Rs 18,000.\nBelow is the exact amount, you would be spending on your flight tickets to Dubai from New Delhi. However, the amount might change depending on the availability but this is what we found when tried booking a ticket to Dubai.\nFlight ticket: Indigo Rs 17929 approx\niPhone 12 Pro 128GB: 84,000\nSome other expenses: Around Rs 10,000\nTotal: Around Rs 1,11,929\nMoney saved: Around Rs 8000\nNow, considering that the world is battling coronavirus pandemic and the virus is in no mood to slow down, we do not encourage anyone to travel. The whole idea was to not send you to Dubai but to draw your attention towards Apple\u2019s exorbitant pricing in India. It is no secret that the taxes and duties that are applied to imported phones are highest in India. The taxes are so high that for an important iPhone that you will end up paying an average tax of Rs 24,000 for something like an iPhone 12 or iPhone 12 Mini.\nadvertisement\nHowever, despite the sky-rocketing prices, iPhone still sells best in India and the buyers give whatever price Apple asks them to pay. So for a business, that is not a bad deal at all.\nALSO READ | Apple iPhone 12 Pro, 12 Pro Max launched: Price, specifications, and features",
+        "url": "https://www.indiatoday.in/technology/features/story/iphone-12-pro-so-expensive-in-india-that-you-can-fly-to-dubai-to-buy-it-come-back-and-still-save-money-1733722-2020-10-21",
+        "labels": {
+            "iphone": 0.8440292477607727,
+            "money or stock": 0.04919016733765602,
+            "airtag": 0.04410656541585922,
+            "data privacy": 0.012411230243742466,
+            "employees": 0.00933039840310812,
+            "airpods": 0.009011740796267986,
+            "leaks or rumours": 0.008446418680250645,
+            "software": 0.008424550294876099,
+            "apple tv or apple music": 0.004900278989225626,
+            "ipad": 0.004575247410684824,
+            "apple watch": 0.0028691235929727554,
+            "mac computers": 0.002704987535253167
+        }
     },
     "article_4": {
         "title": "Google Reportedly Pays Apple $8-12 Billion Per Year to be Default iOS Search Engine",
         "body": "The United States Justice Department is targeting a lucrative deal between Apple and Google as part of one of the U.S. government's largest antitrust cases, reports The New York Times.\nOn Tuesday, the Justice Department filed an antitrust lawsuit against Google, claiming the Mountain View-based company used anticompetitive and exclusionary practices in the search and advertising markets to maintain an unlawful monopoly.\nIn 2017, Apple updated an agreement to keep Google's search engine as the preselected option on Apple devices. The New York Times reports that Apple receives an estimated eight to 12 billion dollars per year in exchange for making Google the default search engine on its devices and services, including the iPhone and Siri. This is believed to be the single biggest payment Google makes to anyone, and it accounts for 14 to 21 percent of Apple's annual profits.\nProsecutors claim that the deal is representative of illegal tactics used to protect Google's monopoly and stifle competition. According to the Justice Department, almost one half of Google's search traffic now comes from Apple devices, and the prospect of losing the agreement has been described as \"terrifying\" and a \"code red\" scenario within the company. Google's search traffic is integral to its business model due to its system of ads.\nApple is likewise coming under fire for facilitating anticompetitive behavior by acquiescing to the deal and extracting more money with regular renegotiations. Although the two companies are competitors in Silicon Valley, the agreement is said to be part of \"an unlikely union of rivals.\"\nThe Justice Department's complaint cites a senior Apple employee's remark from 2018 which said that \"our vision is that we work as if we are one company.\"\nThe legal intervention poses a threat to a significant chunk of Apple's revenue, but it is a bigger danger for Google, which would seemingly have no way to replace the traffic it would lose. The New York Times speculates that such a breakup could push Apple to acquire or build its own search engine, which could in turn pose an even greater threat to Google.",
-        "sentiment": -0.2403152729384601
+        "url": "https://www.macrumors.com/2020/10/25/google-apple-search-default-8-12-billion/",
+        "labels": {
+            "money or stock": 0.2742781937122345,
+            "software": 0.2068360447883606,
+            "iphone": 0.157296285033226,
+            "leaks or rumours": 0.15178757905960083,
+            "ipad": 0.06881143897771835,
+            "airtag": 0.05380725488066673,
+            "employees": 0.016920993104577065,
+            "data privacy": 0.015528758056461811,
+            "airpods": 0.015036783181130886,
+            "apple watch": 0.013669229112565517,
+            "mac computers": 0.013351194560527802,
+            "apple tv or apple music": 0.012676253914833069
+        }
     },
     "article_5": {
         "title": "5G Drains iPhone 12 Battery 20% Faster Than 4G in Benchmark",
         "body": "After the first reviews for the iPhone 12 and iPhone 12 Pro emerged yesterday, a new report by Tom's Guide reveals the extent of battery life reductions when using 5G.\nThe report outlines a test wherein the iPhone surfs the web continuously at 150 nits of screen brightness, launching a new site every 30 seconds until the battery drains. Interestingly, the test was run on an iPhone 12 and 12 Pro both over 4G and 5G.\nUsing 5G, the \u200ciPhone 12\u200c lasted just eight hours and 25 minutes, while the \u200ciPhone 12\u200c Pro lasted nine hours and six minutes. When using 4G, the \u200ciPhone 12\u200c and 12 Pro perform better enduring for ten hours and 23 minutes and 11 hours and 24 minutes, respectively. This means that the \u200ciPhone 12\u200c and \u200ciPhone 12\u200c Pro's battery life drains around 20 percent faster when using 5G in this artificial benchmark.\nThe same test on the \u200ciPhone\u200c 11 in 2019 yielded a result of 11 hours and 16 minutes over 4G, and the \u200ciPhone\u200c 11 Pro achieved ten hours and 24 minutes.\nTom's Guide reports that this falls short of the battery life of 5G Android phones under the same test:\nCompared to the Android competition, Apple's new phones are a step behind those devices on our best phone battery life list, especially over 5G networks.\nThe battery capacities across the \u200ciPhone 12\u200c lineup are believed to have been reduced this year, and while it was known that 5G would likely drain battery life, the extent of which was unknown.\nThe battery results may have been behind Apple's move to include a \"Smart Data mode\" with the \u200ciPhone 12\u200c and \u200ciPhone 12\u200c Pro, which selectively turns off 5G at times when it may not be needed. For example, when streaming music with the screen turned off, Smart Data mode reportedly turns off 5G and favors 4G instead.\nHowever, users can go further and manually turn off 5G to boost battery life on the \u200ciPhone 12\u200c and \u200ciPhone 12\u200c Pro. In settings, users can choose from \"5G On,\" \"5G Auto,\" which seems to be Apple's Smart Data mode, and \"LTE.\"",
-        "sentiment": -0.33142375831420606
+        "url": "https://www.macrumors.com/2020/10/21/iphone-12-5g-battery-drain/",
+        "labels": {
+            "iphone": 0.8061591982841492,
+            "ipad": 0.07335934042930603,
+            "airtag": 0.03752366080880165,
+            "software": 0.013892831280827522,
+            "leaks or rumours": 0.010986348614096642,
+            "data privacy": 0.010484750382602215,
+            "airpods": 0.010131049901247025,
+            "employees": 0.009216089732944965,
+            "money or stock": 0.008227085694670677,
+            "mac computers": 0.007218716666102409,
+            "apple tv or apple music": 0.006574946455657482,
+            "apple watch": 0.006225937977433205
+        }
     },
     "article_6": {
         "title": "Samsung considers copying Apple's charger removal despite mocking ads",
-        "body": "The slimmer iPhone 12 box, without the charger or earphones.\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\nSamsung may be shooting itself in the foot with its own marketing effort, as it is believed the South Korean electronics giant may follow Apple in removing the charger from the box for the \"Galaxy S21,\" shortly after mocking the iPhone for the move with the iPhone 12.\nAs smartphone producers aim to cut down the cost of items included in the box for products, as well as making their offerings better for the environment, Apple took the decision to remove the charger and earphones from the package sold with each iPhone 12. Not that long after that October 13 announcement, Samsung seems to be doing the same thing.\nRumors and Korean media reports seen by SamMobile allege that Samsung is strongly considering ditching both the charger and earphones from its smartphone offerings, starting with the \"Galaxy S21\" but also being applied to other models. Samsung may not necessarily go as far as Apple though, as some insiders believe only the headphones would be removed, while the charger will remain for now.\nSuch a move would be beneficial for Samsung in similar ways to Apple. By not including a charger or headphones in the box, it would produce less e-waste which would help the environment, as well as cutting the cost of the product overall.\nFor this latter point, the removal of the items could help reduce the overall cost of the smartphone to users, or to bolster profits by keeping the price the same while cutting production costs. Customers could also be encouraged to buy headphones separately, such as Samsung's Galaxy Buds, further increasing revenue.\nIf true, the reports may be embarrassing to Samsung. Following Apple's October 13 event announcing the iPhone 12, Samsung posted to one of its Facebook accounts a simple image of a charger, along with the words \"Included with your Galaxy,\" to poke fun at what it offers that Apple isn't including in the box.\nA Samsung Facebook post from October 13\nSuch mockery isn't new to Samsung. It has a history of not only creating sarcastic marketing campaigns attacking Apple, but it's also followed Apple's footsteps even after such actions.\nFor example, in August 2019, Samsung was found to have removed advertising from late 2017 where it focused on the lack of wireless charging and a 3.5mm audio port. The removal took place after Samsung introduced the Galaxy Note 10 series, a smartphone line that also lacked a headphone jack.",
-        "sentiment": -0.5216108255964869
+        "body": "If you buy through our links, we may get a commission. Read our ethics policy\nThe slimmer iPhone 12 box, without the charger or earphones.\nSamsung may be shooting itself in the foot with its own marketing effort, as it is believed the South Korean electronics giant may follow Apple in removing the charger from the box for the \"Galaxy S21,\" shortly after mocking the iPhone for the move with the iPhone 12.\nAs smartphone producers aim to cut down the cost of items included in the box for products, as well as making their offerings better for the environment, Apple took the decision to remove the charger and earphones from the package sold with each iPhone 12. Not that long after that October 13 announcement, Samsung seems to be doing the same thing.\nRumors and Korean media reports seen by SamMobile allege that Samsung is strongly considering ditching both the charger and earphones from its smartphone offerings, starting with the \"Galaxy S21\" but also being applied to other models. Samsung may not necessarily go as far as Apple though, as some insiders believe only the headphones would be removed, while the charger will remain for now.\nSuch a move would be beneficial for Samsung in similar ways to Apple. By not including a charger or headphones in the box, it would produce less e-waste which would help the environment, as well as cutting the cost of the product overall.\nFor this latter point, the removal of the items could help reduce the overall cost of the smartphone to users, or to bolster profits by keeping the price the same while cutting production costs. Customers could also be encouraged to buy headphones separately, such as Samsung's Galaxy Buds, further increasing revenue.\nIf true, the reports may be embarrassing to Samsung. Following Apple's October 13 event announcing the iPhone 12, Samsung posted to one of its Facebook accounts a simple image of a charger, along with the words \"Included with your Galaxy,\" to poke fun at what it offers that Apple isn't including in the box.\nA Samsung Facebook post from October 13\nSuch mockery isn't new to Samsung. It has a history of not only creating sarcastic marketing campaigns attacking Apple, but it's also followed Apple's footsteps even after such actions.\nFor example, in August 2019, Samsung was found to have removed advertising from late 2017 where it focused on the lack of wireless charging and a 3.5mm audio port. The removal took place after Samsung introduced the Galaxy Note 10 series, a smartphone line that also lacked a headphone jack.",
+        "url": "https://appleinsider.com/articles/20/10/27/samsung-considers-copying-apples-charger-removal-despite-mocking-ads",
+        "labels": {
+            "airtag": 0.27928438782691956,
+            "iphone": 0.14956873655319214,
+            "ipad": 0.10630107671022415,
+            "software": 0.08518673479557037,
+            "money or stock": 0.07852780073881149,
+            "mac computers": 0.06839236617088318,
+            "leaks or rumours": 0.06720085442066193,
+            "data privacy": 0.046439364552497864,
+            "apple watch": 0.04456596076488495,
+            "apple tv or apple music": 0.027596309781074524,
+            "airpods": 0.026148643344640732,
+            "employees": 0.02078779973089695
+        }
     },
     "article_7": {
         "title": "Judge rules Apple can continue blocking Fortnite from App Store",
         "body": "CNN Business \u2014\nA federal judge has ruled that Apple can continue to block the hit video game Fortnite from its app store as the iPhone maker defends a landmark antitrust lawsuit by the game\u2019s publisher, Epic Games.\nThe ruling means that, for the foreseeable future, millions of Fortnite players who access the game on iPhones, iPads and other Apple devices will remain unable to play the game\u2019s latest content or download app updates.\nEpic Games sued Apple (AAPL) in August after Apple (AAPL) removed Fortnite from its platform. Apple (AAPL) blamed Epic for deliberately breaching the terms of its developer contract when Epic sought to circumvent Apple (AAPL)\u2019s in-app payment system \u2014 using a software update that encouraged Fortnite players to buy in-game currency directly from Epic Games.\nThe move meant Apple could not take its 30% cut of Fortnite revenues on iOS, prompting it to ban Fortnite as well as Unreal Engine, a software tool owned by Epic that is widely used by game developers and Hollywood.\nIn federal court, Epic had asked Judge Yvonne Gonzalez for a preliminary injunction that would restore Fortnite to the Apple App Store. It also asked for a ruling barring Apple from retaliating against the company and its overseas affiliates.\nWhile Gonzalez\u2019s Friday decision did not permit Fortnite to return to the App Store, she ruled Apple must not punish Unreal Engine or Epic\u2019s affiliates.\nOther users\u2019 reliance on Epic\u2019s Unreal Engine meant that cutting it off would \u201cunnecessarily impact\u201d them, Gonzalez wrote in her order.\n\u201cEpic Games and Apple are at liberty to litigate this action for the future of the digital frontier, but their dispute should not create havoc to bystanders,\u201d she wrote.\nThe case is viewed as a pivotal fight between two tech titans that could reshape how app stores \u2014 and perhaps the wider digital economy \u2014 function in the future. The ruling comes days after the House Judiciary Committee\u2019s antitrust panel issued a historic report finding that Apple, Amazon, Facebook and Google have monopoly power and have abused their dominance in the marketplace.\nEpic\u2019s suit against Apple has become a high-profile reflection of those allegations.\n\u201cThis matter presents questions at the frontier edges of antitrust law in the United States,\u201d the judge wrote.\nBut at this stage, she added that \u201ctoo many unknowns remain.\u201d to determine whether Epic may succeed with its antitrust claims.\nThe case, Epic Games v. Apple, is expected to go to trial next May.",
-        "sentiment": -0.39350166133440595
+        "url": "https://edition.cnn.com/2020/10/09/tech/apple-fortnite-epic-games-app-store/index.html",
+        "labels": {
+            "software": 0.7232465744018555,
+            "iphone": 0.046813417226076126,
+            "airtag": 0.045617807656526566,
+            "data privacy": 0.044049251824617386,
+            "mac computers": 0.03266240656375885,
+            "money or stock": 0.030241455882787704,
+            "employees": 0.021688386797904968,
+            "ipad": 0.016957148909568787,
+            "leaks or rumours": 0.016740864142775536,
+            "airpods": 0.01164568867534399,
+            "apple watch": 0.006687402259558439,
+            "apple tv or apple music": 0.0036495851818472147
+        }
     },
     "article_8": {
         "title": "Apple in talks to buy streaming rights to upcoming James Bond film 'No Time to Die'",
-        "body": "Apple in talks to buy streaming rights to upcoming James Bond film 'No Time to Die'\nArticle Hero Image\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\nApple TV may soon be the place to watch a long-delayed James Bond film, should the parent company decide to skip the film's theatrical release.\nApple is said to be bidding on an upcoming James Bond flick, titled \"No Time to Die,\" hoping to bring the movie exclusively to Apple TV+.\nEarlier this year, Apple purchased Tom Hanks' World War II film, \"Greyhound,\" when it was apparent that a theater release would be impossible.\nThe Bond franchise is owned by MGM, and according to Binged, the company likely feels pressure to sell the film to the highest bidder. Many would-be theater releases have taken to releasing films on streaming platforms in the wake of the ongoing coronavirus pandemic.\nIn addition to Apple, Netflix is said to be in the running to purchase the upcoming Bond film.",
-        "sentiment": -0.563566437789372
+        "body": "Apple in talks to buy streaming rights to upcoming James Bond film 'No Time to Die'\nIf you buy through our links, we may get a commission. Read our ethics policy\nArticle Hero Image\nApple TV may soon be the place to watch a long-delayed James Bond film, should the parent company decide to skip the film's theatrical release.\nApple is said to be bidding on an upcoming James Bond flick, titled \"No Time to Die,\" hoping to bring the movie exclusively to Apple TV+.\nEarlier this year, Apple purchased Tom Hanks' World War II film, \"Greyhound,\" when it was apparent that a theater release would be impossible.\nThe Bond franchise is owned by MGM, and according to Binged, the company likely feels pressure to sell the film to the highest bidder. Many would-be theater releases have taken to releasing films on streaming platforms in the wake of the ongoing coronavirus pandemic.\nIn addition to Apple, Netflix is said to be in the running to purchase the upcoming Bond film.",
+        "url": "https://appleinsider.com/articles/20/10/23/apple-in-talks-to-buy-streaming-rights-to-upcoming-james-bond-film-no-time-to-die",
+        "labels": {
+            "leaks or rumours": 0.32160037755966187,
+            "iphone": 0.12921828031539917,
+            "money or stock": 0.09583649784326553,
+            "apple watch": 0.09102659672498703,
+            "airtag": 0.08534953743219376,
+            "ipad": 0.0756906270980835,
+            "mac computers": 0.06926525384187698,
+            "apple tv or apple music": 0.05110600218176842,
+            "software": 0.03016066737473011,
+            "employees": 0.01867442950606346,
+            "airpods": 0.018304087221622467,
+            "data privacy": 0.013767660595476627
+        }
     },
     "article_9": {
         "title": "iPhone 12 Pro Pre-Orders Already Selling Out With Delivery Times Pushing Into November",
         "body": "Apple today opened pre-orders for the 6.1-inch models of the iPhone 12 and iPhone 12 Pro through its website and the Apple Store app, and estimated delivery times are already slipping into November for select configurations in the United States.\nCustomers ordering a SIM-free/Pacific Blue/128GB version of the iPhone 12 Pro, for example, are already facing an estimated delivery window of November 6-13. Some configurations of the iPhone 12 Pro remain available for launch day delivery on October 23, but inventory is quickly dwindling, so customers should order as soon as possible.\nAvailability of the standard iPhone 12 is faring better so far, with many configurations still available for launch day delivery on October 23.\nPre-orders for the iPhone 12 mini and iPhone 12 Pro Max begin later, on Friday, November 6. Pricing starts at $699 for the iPhone 12 mini, $799 for the iPhone 12, $999 for the iPhone 12 Pro, and $1,099 for the iPhone 12 Pro Max.\nApple has also started accepting orders for the new iPad Air, which remains available for launch day delivery on October 23 at the time of writing this.",
-        "sentiment": -0.34191398482237545
+        "url": "https://www.macrumors.com/2020/10/16/iphone-12-pro-preorders-selling-out/",
+        "labels": {
+            "iphone": 0.7457189559936523,
+            "money or stock": 0.08781874179840088,
+            "airtag": 0.07293231785297394,
+            "data privacy": 0.020745234563946724,
+            "software": 0.016091080382466316,
+            "airpods": 0.013058465905487537,
+            "leaks or rumours": 0.01070802565664053,
+            "employees": 0.008268501609563828,
+            "ipad": 0.007891548797488213,
+            "apple tv or apple music": 0.007453026715666056,
+            "mac computers": 0.005001212935894728,
+            "apple watch": 0.004312878008931875
+        }
     },
     "article_10": {
         "title": "How long until Samsung copies Apple, stops including chargers, and deletes this ad? - 9to5Mac",
-        "body": "Last year it appeared that Samsung was putting an end to its marketing approach of mocking Apple over the differences between iPhones and the Galaxy smartphones. Well, that didn\u2019t last long, as Samsung has taken shots at Apple over the decision to stop including a charger with iPhone 12.\nSome of the most notable attack ads from Samsung when it comes to Apple was when Apple removed the headphone jack with the iPhone 7 and the notch that launched with the iPhone X (Samsung also brought up no headphone jack again).\nOf course, it was only a matter of time before Samsung followed Apple\u2019s lead and started ditching the headphone jack in its own Galaxy devices and producing a headphone dongle it previously made fun of. But last year, it quietly removed its ads that used the attack approach.\nWell, Samsung apparently can\u2019t help itself. Although they\u2019re not full video ads, Samsung took to Twitter and Facebook to mock Apple over the iPhone 12 not including a power adapter in the box as well as 120Hz display and 5G (via MacRumors).\nThe big irony here is Samsung is already reported to be in talks to do the same with its upcoming devices. In addition to the charger dig, Samsung claims to have the \u201cbest camera, battery, performance, memory\u201d and also took a swipe at the iPhone not including a 120Hz display.\nHere\u2019s the Facebook post:\nWhile some may be frustrated at Apple for ditching the power adapter, Apple\u2019s perspective is most people have plenty of chargers and there are big environmental savings, the equivalent of removing 450,000 cars from the road each year by making the change (2 million metric tons of carbon). Plus USB-C chargers don\u2019t cost much anyway if you do need one.\nWhen you think about it from that perspective, it\u2019s like Samsung is bragging about polluting more than Apple. With Samsung already allegedly talking about when to copy Apple, how soon do you think it will happen as well as deleting this ad? Share your thoughts in the comments below!\nAnd what do you think? Is Samsung\u2019s approach going back to mocking Apple funny or tired? Clever or just thirsty for attention?\nFTC: We use income earning auto affiliate links. More.\nCheck out 9to5Mac on YouTube for more Apple news:",
-        "sentiment": -0.3632520446063657
+        "body": "Last year it appeared that Samsung was putting an end to its marketing approach of mocking Apple over the differences between iPhones and the Galaxy smartphones. Well, that didn\u2019t last long, as Samsung has taken shots at Apple over the decision to stop including a charger with iPhone 12.\nSome of the most notable attack ads from Samsung when it comes to Apple was when Apple removed the headphone jack with the iPhone 7 and the notch that launched with the iPhone X (Samsung also brought up no headphone jack again).\nOf course, it was only a matter of time before Samsung followed Apple\u2019s lead and started ditching the headphone jack in its own Galaxy devices and producing a headphone dongle it previously made fun of. But last year, it quietly removed its ads that used the attack approach.\nWell, Samsung apparently can\u2019t help itself. Although they\u2019re not full video ads, Samsung took to Twitter and Facebook to mock Apple over the iPhone 12 not including a power adapter in the box as well as 120Hz display and 5G (via MacRumors).\nThe big irony here is Samsung is already reported to be in talks to do the same with its upcoming devices. In addition to the charger dig, Samsung claims to have the \u201cbest camera, battery, performance, memory\u201d and also took a swipe at the iPhone not including a 120Hz display.\nHere\u2019s the Facebook post:\nWhile some may be frustrated at Apple for ditching the power adapter, Apple\u2019s perspective is most people have plenty of chargers and there are big environmental savings, the equivalent of removing 450,000 cars from the road each year by making the change (2 million metric tons of carbon). Plus USB-C chargers don\u2019t cost much anyway if you do need one.\nWhen you think about it from that perspective, it\u2019s like Samsung is bragging about polluting more than Apple. With Samsung already allegedly talking about when to copy Apple, how soon do you think it will happen as well as deleting this ad? Share your thoughts in the comments below!\nAnd what do you think? Is Samsung\u2019s approach going back to mocking Apple funny or tired? Clever or just thirsty for attention?",
+        "url": "https://9to5mac.com/2020/10/15/samsung-mocks-apple-no-charger-iphone-12/",
+        "labels": {
+            "mac computers": 0.3135223388671875,
+            "airtag": 0.22638382017612457,
+            "iphone": 0.10940803587436676,
+            "money or stock": 0.09547897428274155,
+            "data privacy": 0.05006420984864235,
+            "ipad": 0.0435551218688488,
+            "apple tv or apple music": 0.0372798778116703,
+            "leaks or rumours": 0.03347751498222351,
+            "airpods": 0.02602015994489193,
+            "apple watch": 0.023183103650808334,
+            "employees": 0.021161338314414024,
+            "software": 0.020465536043047905
+        }
     },
     "article_11": {
         "title": "Apple\u2019s revived MagSafe charging standard opens the door for a portless iPhone",
         "body": "Apple revived one of its more beloved technologies, MagSafe, at its annual iPhone reveal on Tuesday, showing off a new line of smartphones with magnets built into the back for fast and sturdy connections to wireless chargers, snap-on cases, and other accessories.\nWhile the old MagSafe was a safety feature for charging laptops without worrying about damaging your machine when the cord was ripped out, the new MagSafe is a savvy, smartphone-centric accessory play for Apple. It lets the company build a new gadget ecosystem for the iPhone that it controls entirely, just like Lightning and Apple\u2019s other proprietary ports and cables, while also offering tangible benefits like faster 15W charging.\nBut while MagSafe now seems like a nice complementary feature to the newly announced iPhones, it paves the way for Apple to make magnetic wireless charging the centerpiece for how we charge all of our devices going forward. Just look at the company\u2019s new MagSafe Duo Charger, a wireless charging stand for both the Apple Watch and iPhone, or Belkin\u2019s even more robust (and also outlandish-looking) MagSafe 3-in-1 charger that lets you charge an Apple Watch, AirPods, and an iPhone all at once. Both seem to nudge us closer to a world in which the iPhone doesn\u2019t need to support Lightning charging or any kind of wired charging whatsoever.\nBelkin\u2019s new MagSafe 3-in-1 charger has charging docks for the AirPods. Apple Watch, and iPhone. Image: Belkin\nAnd Apple is rumored to be working on a portless iPhone for just that reason. Removing the port would mean Apple could avoid \u2014 if it wanted to \u2014 transitioning its smartphone line over to the USB-C standard it now uses on MacBooks and higher-end iPads. It would also allow the company to make devices even thinner, using the same logic it employed when it removed the headphone jack. Waterproofing could become even more effective with fewer holes in your phone, especially if Apple can convince us (and cellular carriers) to embrace an embedded SIM card instead of including a SIM slot in each phone. With MagSafe, Apple could present an alternative way to charge your phone entirely through wireless charging and whatever cables and adapters it may come up with to solve your on-the-go charging needs.\nThere is certainly a financial incentive for Apple to retain control of its charging ecosystem. Apple\u2019s \u201cwearables, home, and accessories\u201d division, which includes major products like the Apple Watch and AirPods in addition to all cables and chargers, was the lowest earner in the company\u2019s most recent financial quarter. But it\u2019s basically neck and neck with the entire iPad business and earns close to $6.5 billion a quarter, making it still vital to Apple\u2019s bottom line as its iPhone revenue growth continues to slow and Apple leans more on its ecosystem and services.\nMagSafe gives Apple a platform to launch to a portless iPhone as soon as next year\nBut Apple is known to at least make an effort to offer a consumer benefit in exchange for eschewing universal standards or making a widely anti-consumer product choice. In this case, a full investment in MagSafe does seem like it would have some very real quality-of-life improvements to owning the iPhone, even if it did involve some serious habit changes for iPhone owners.\nFor one, wireless charging is simply easier and less cumbersome than plugging in a cable, and even more so when magnets are involved so you don\u2019t have to adjust the device\u2019s positioning to ensure the charger activates. MagSafe also presents situations like using your phone in bed without worrying about bending or breaking a cable or damaging the phone\u2019s port.\nPlus, the sheer variety and utility of accessorizing you can now do thanks to built-in magnets on the back of the iPhone is exciting. The snap-on wallet and red leather charging case Apple is making are just a couple of the countless potential accessories we can imagine. Think of magnetic snap-on zoom lenses or bundles of cases that can attach magnetically and don\u2019t need to be forcefully ripped off your phone if you want to swap one for another. PopSocket, the leading maker of removable grips for iPhones, is surely fast at work on MagSafe-ready versions of its products.\nImage: Apple\nFor Apple, MagSafe also presents an opportunity for it to do a little product revisionism after the AirPower fiasco of last year, in which Apple canceled the already-announced product after determining that it couldn\u2019t reliably create the all-in-one wireless charging mat it thought it could. While AirPower is gone for good it seems, MagSafe is now back to help Apple fully realize wireless charging, and MagSafe brings with it the consumer goodwill it accumulated during its time on the MacBook line (even though the earlier iteration of MagSafe is really nothing like this current one).",
-        "sentiment": 0.251104289952379
+        "url": "https://www.theverge.com/2020/10/14/21515789/apple-portless-iphone-magsafe-wireless-charging",
+        "labels": {
+            "iphone": 0.5997711420059204,
+            "airtag": 0.10394410789012909,
+            "mac computers": 0.05695861577987671,
+            "software": 0.04269513860344887,
+            "leaks or rumours": 0.04091297462582588,
+            "money or stock": 0.04032530263066292,
+            "employees": 0.02835960127413273,
+            "data privacy": 0.019724462181329727,
+            "airpods": 0.019416483119130135,
+            "ipad": 0.019348226487636566,
+            "apple tv or apple music": 0.0183144249022007,
+            "apple watch": 0.010229525156319141
+        }
     },
     "article_12": {
         "title": "DuckDuckGo Now Has Driving &amp; Walking Directions Powered By Apple Maps",
         "body": "We've been providing users with mapping features within DuckDuckGo Search for many years, along the way improving them with greater accuracy, dark mode, local re-querying and more. Now we're excited to announce a big step forward with the introduction of directions \u2013 private, as always, and like our embedded maps, powered by Apple's MapKit JS framework and already familiar to millions of users.\nYou'll now see a new addition to location and map search results that will help you plan trips by showing you a route overview, distance and travel time. Look out for it both at the top of search results that display a map, as well as within our expanded map module. Let's see an example of the latter\u2026\nA location query such as Tower of London can open our expanded maps, as usual.\nClicking the Directions button in the map sidebar will now display boxes to enter a starting point and a destination. For convenience, the starting point by default will be set to your current location, which works anonymously (as explained below). The best routes and their estimated durations will be shown on the map, and updating the starting point will redraw the available routes.\nAs with all our search features, your privacy is still protected when using these directions thanks to our strict privacy policy of not collecting or sharing any personal information. In the case of location-related searches, your browser sends location information which we isolate from any personal information the browser sends, and which we discard after use, enabling us to provide anonymous localized results and features. Our help page has more detail on how we keep location searches private.\nRoute planning was a missing piece in DuckDuckGo Search. Integrating it means our maps now have the functionality you expect with the privacy you deserve, with no trade-offs.\nFor more privacy advice follow us on Twitter, and stay protected and informed with our privacy newsletters.",
-        "sentiment": 0.15622262523642608
+        "url": "https://spreadprivacy.com/duckduckgo-search-map-directions/",
+        "labels": {
+            "software": 0.8511062860488892,
+            "airtag": 0.03734554722905159,
+            "iphone": 0.035219524055719376,
+            "data privacy": 0.016462130472064018,
+            "ipad": 0.014125103130936623,
+            "employees": 0.01223666500300169,
+            "airpods": 0.008943255059421062,
+            "mac computers": 0.008042201399803162,
+            "apple watch": 0.005918558221310377,
+            "apple tv or apple music": 0.0046725464053452015,
+            "money or stock": 0.003958447370678186,
+            "leaks or rumours": 0.0019696662202477455
+        }
     },
     "article_13": {
         "title": "MagSafe Charger Only Charges at Full 15W Speeds With Apple's NEW 20W Power Adapter",
-        "body": "Article Hero Image\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\nNew testing shows Apple's MagSafe charging puck does peak at 15W with iPhone 12, but only when paired with the company's 20W adapter.\nThe apparent restriction was discovered by Aaron Zollo of YouTube channel Zollotech. In a comprehensive evaluation of Apple's MagSafe device posted on Monday, Zollo found two Apple adapters \u2014 a new standalone 20W USB-C device and the 18W unit that came with iPhone 11 Pro handsets \u2014 achieved high rates of charge.\nMeasuring energy throughput with an inline digital meter revealed MagSafe hits the advertised 15W peak charging rate (up to 16W in the video) when paired with Apple's branded 20W adapter. Speeds drop to about 13W with the 18W adapter, and Zollo notes the system takes some time to ramp up to that level.\nOlder adapters and third-party models with high output ratings do not fare well in the test. Apple's own 96W MacBook Pro USB-C adapter eked out 10W with MagSafe, matching a high seen by Anker's PowerPort Atom PD1. Likewise, charging rates hovered between 6W and 9W when attached to Aukey's 65W adapter, Google's Pixel adapter and Samsung's Note 20 Ultra adapter.\nIt appears third-party devices will need to adopt a MagSafe-compatible power delivery (PD) profile to ensure fast, stable energy delivery when connected to iPhone 12 series devices.\nAs can be expected with any charging solution, temperature plays a significant role in potential throughput. Zollo found MagSafe significantly throttles speeds as temperatures rise, meaning actual rates are not a constant 15W even when using the 20W adapter. When heat rises, energy output decreases to protect sensitive hardware components and the battery itself. In some cases, this could prompt users to remove their iPhone from its case \u2014 including Apple-branded MagSafe models \u2014 to achieve maximum thermal efficiency.\nZollo also confirms older Qi-compatible iPhone models, like iPhone 8 Plus and iPhone 11 Pro Max, charge at about 5W with MagSafe. Apple previously said Qi devices would charge at 7.5W.",
-        "sentiment": -0.22251139354193583
+        "body": "If you buy through our links, we may get a commission. Read our ethics policy\nArticle Hero Image\nNew testing shows Apple's MagSafe charging puck does peak at 15W with iPhone 12, but only when paired with the company's 20W adapter.\nThe apparent restriction was discovered by Aaron Zollo of YouTube channel Zollotech. In a comprehensive evaluation of Apple's MagSafe device posted on Monday, Zollo found two Apple adapters \u2014 a new standalone 20W USB-C device and the 18W unit that came with iPhone 11 Pro handsets \u2014 achieved high rates of charge.\nMeasuring energy throughput with an inline digital meter revealed MagSafe hits the advertised 15W peak charging rate (up to 16W in the video) when paired with Apple's branded 20W adapter. Speeds drop to about 13W with the 18W adapter, and Zollo notes the system takes some time to ramp up to that level.\nOlder adapters and third-party models with high output ratings do not fare well in the test. Apple's own 96W MacBook Pro USB-C adapter eked out 10W with MagSafe, matching a high seen by Anker's PowerPort Atom PD1. Likewise, charging rates hovered between 6W and 9W when attached to Aukey's 65W adapter, Google's Pixel adapter and Samsung's Note 20 Ultra adapter.\nIt appears third-party devices will need to adopt a MagSafe-compatible power delivery (PD) profile to ensure fast, stable energy delivery when connected to iPhone 12 series devices.\nAs can be expected with any charging solution, temperature plays a significant role in potential throughput. Zollo found MagSafe significantly throttles speeds as temperatures rise, meaning actual rates are not a constant 15W even when using the 20W adapter. When heat rises, energy output decreases to protect sensitive hardware components and the battery itself. In some cases, this could prompt users to remove their iPhone from its case \u2014 including Apple-branded MagSafe models \u2014 to achieve maximum thermal efficiency.\nZollo also confirms older Qi-compatible iPhone models, like iPhone 8 Plus and iPhone 11 Pro Max, charge at about 5W with MagSafe. Apple previously said Qi devices would charge at 7.5W.",
+        "url": "https://appleinsider.com/articles/20/10/27/magsafe-15w-fast-charging-restricted-to-apple-20w-adapter",
+        "labels": {
+            "airtag": 0.23938679695129395,
+            "iphone": 0.14434555172920227,
+            "ipad": 0.11534400284290314,
+            "apple watch": 0.08264082670211792,
+            "data privacy": 0.07946673780679703,
+            "mac computers": 0.07467684894800186,
+            "software": 0.06448396295309067,
+            "apple tv or apple music": 0.06243991106748581,
+            "money or stock": 0.04489181190729141,
+            "employees": 0.03660403937101364,
+            "airpods": 0.03158311918377876,
+            "leaks or rumours": 0.024136293679475784
+        }
     },
     "article_14": {
         "title": "The Triumphant Return of the Good Small Phone - Wired",
         "body": "What\u2019s the difference between the iPhone 12 Mini and the iPhone 12? About three square inches of display. That\u2019s it. Everything else is the same. Which makes this the first time in years that you\u2019ve been able to buy a smaller phone that wasn\u2019t also a worse phone\u2014not just from Apple, but pretty much anywhere.\nAfter a brief period in which small phones pretty much vanished altogether, like a Caspian horse they\u2019ve made a modest retreat from extinction. But your choices, if you\u2019re in the market, range from the gimmicky Palm phone\u2014originally marketed as a secondary phone for when you\u2019re on the go\u2014to the iPhone SE, which Apple relaunched earlier this year after hiatus that began in 2018. The iPhone SE is perfectly fine, especially for the $400 price, but other than a peppy A13 processor it\u2019s a clear and present downgrade from the rest of Apple\u2019s lineup.\nOtherwise your options are a feature phone or an Android deep cut like the Sony Xperia XZ2 Compact. And that\u2019s about it. How far has phone-size creep gone? Look no further than the iPhone 12 Mini\u2019s introduction. \u201cWith its amazing size, it fits in the palm of your hand,\u201d said Apple vice-president of marketing Kaiann Drance in Tuesday\u2019s promotional video. Imagine that: A phone. That fits. In your hand.\nYes, bigger screen sizes make sense for all kinds of reasons. You can put a bigger battery in them, and they\u2019re more fun to watch Disney+ on. But for too long smartphone manufacturers have equated bigger with better, stretching pants pockets and thumbs beyond the bounds of nature. It\u2019s by no means a new phenomenon; the mediocritization of small phones has been happening for nearly a decade. It seems inexplicable, though, that people only want to buy smartphones the size of a 6-inch Spicy Italian from Subway.\n\u201cSmall phones tend to be cheap, and there is absolutely a market for premium small phones,\u201d says Avi Greengart, founder of tech analysis firm Techsponential. \u201cHuman ergonomics have not changed.\u201d",
-        "sentiment": -0.07623055990299453
+        "url": "https://www.wired.com/story/apple-iphone-12-mini-return-of-the-good-small-phone/",
+        "labels": {
+            "airtag": 0.30189093947410583,
+            "iphone": 0.1404317319393158,
+            "employees": 0.10851521790027618,
+            "airpods": 0.08203715831041336,
+            "software": 0.06943200528621674,
+            "data privacy": 0.06556510925292969,
+            "ipad": 0.05123300850391388,
+            "apple tv or apple music": 0.048119042068719864,
+            "leaks or rumours": 0.04082276672124863,
+            "mac computers": 0.03139282017946243,
+            "money or stock": 0.030866406857967377,
+            "apple watch": 0.029693778604269028
+        }
     },
     "article_15": {
         "title": "Apple CEO Tim Cook 'More Exciting Things' in Store For This Year",
         "body": "During today's earnings call for the fourth fiscal quarter of 2020 (third calendar quarter), Cook said that while he doesn't want to give too much away, \"this year has a few more exciting things in store.\"\nCook is likely speaking about the Apple Silicon Macs, as Apple has previously said the first \u200cApple Silicon\u200c Mac will be coming before the end of 2020. There are rumors of a third fall event coming in November, which would likely be Mac focused.\nThere are also other possible products that could be coming, such as the AirPods Studio and the AirTags, though launch dates for these products are less certain than the new Apple Macs and it continues to be unclear if we'll see one or both before the end of the year.",
-        "sentiment": 0.4597834558226168
+        "url": "https://www.macrumors.com/2020/10/29/tim-cook-more-in-store-this-year/",
+        "labels": {
+            "iphone": 0.18598079681396484,
+            "money or stock": 0.16810673475265503,
+            "airtag": 0.13985291123390198,
+            "mac computers": 0.08649101108312607,
+            "software": 0.07825173437595367,
+            "leaks or rumours": 0.07466404139995575,
+            "apple watch": 0.06582678854465485,
+            "ipad": 0.06375160068273544,
+            "employees": 0.04963395744562149,
+            "apple tv or apple music": 0.04290752112865448,
+            "airpods": 0.024089649319648743,
+            "data privacy": 0.020443391054868698
+        }
     },
     "article_16": {
         "title": "Today Marks the Ninth Anniversary of Steve Jobs' Death",
         "body": "Nine years ago today, Steve Jobs passed away from pancreatic cancer at the age of 56, one day after Apple executives introduced the iPhone 4s at a media event on the company's Infinite Loop headquarters campus.\nIn the days following his passing, Apple started posting comments from fans on its \"Remembering Steve\" webpage. Apple continues to maintain the page highlighting a few of the over one million submissions from people around the world who \"shared their memories, thoughts, and feelings about Steve.\"\nThe company marked the first anniversary of his passing with a photo and audio slideshow on its website, and on this day Tim Cook traditionally shares words of remembrance with Apple staff and on social media.",
-        "sentiment": 0.3229781002737582
+        "url": "https://www.macrumors.com/2020/10/05/ninth-anniversary-of-steve-jobs-death/",
+        "labels": {
+            "airtag": 0.2694006860256195,
+            "employees": 0.10977718234062195,
+            "apple watch": 0.10138387978076935,
+            "apple tv or apple music": 0.08175517618656158,
+            "money or stock": 0.07939497381448746,
+            "software": 0.07049833238124847,
+            "airpods": 0.05962975695729256,
+            "mac computers": 0.04901707544922829,
+            "ipad": 0.0478561595082283,
+            "leaks or rumours": 0.047075141221284866,
+            "iphone": 0.046309832483530045,
+            "data privacy": 0.03790179640054703
+        }
     },
     "article_17": {
         "title": "Bloomberg: First Mac With Apple Silicon Will Be Announced in November",
         "body": "Apple is set to host its next event on Tuesday, October 13, where it is widely expected to unveil its iPhone 12 lineup and more, but those waiting for the first Apple Silicon Mac may have to be patient for a little bit longer.\nBloomberg's Mark Gurman today reported that the first Mac with a custom Apple Silicon processor will be announced as part of \"another launch\" in November. Gurman said this Mac will be a notebook, but rumors have conflicted on whether it will be a new 13-inch MacBook Pro, a new MacBook Air, or a revived 12-inch MacBook.\nGurman previously said the first Apple Silicon Mac would be announced \"by\" November, but today's wording narrows this down to \"in\" November, making it unlikely that we will be hearing about Apple Silicon Macs at next week's Apple event.\nDuring its WWDC keynote in June, Apple announced that it will be switching from Intel to its own custom-designed processors for Macs starting later this year, promising industry-leading performance per watt. At the time, Apple said that it plans to ship the first Mac with Apple Silicon by the end of the year and complete the transition in about two years.\nApple Silicon processors are based on Arm architecture, meaning that future Macs will be able to run thousands of iPhone and iPad apps without any recompilation. These apps will be distributed through the Mac App Store, unless a developer opts out.",
-        "sentiment": -0.02833109744824469
+        "url": "https://www.macrumors.com/2020/10/09/apple-silicon-mac-release-timeframe/",
+        "labels": {
+            "leaks or rumours": 0.403144508600235,
+            "mac computers": 0.26896509528160095,
+            "software": 0.1816435605287552,
+            "money or stock": 0.047504037618637085,
+            "airtag": 0.04242516681551933,
+            "employees": 0.018130699172616005,
+            "data privacy": 0.014243867248296738,
+            "iphone": 0.006164118181914091,
+            "apple watch": 0.005378903355449438,
+            "apple tv or apple music": 0.004793746396899223,
+            "airpods": 0.004474904388189316,
+            "ipad": 0.003131468314677477
+        }
     },
     "article_18": {
         "title": "iPhone 12 Pro Models Around 20-25% Faster Than iPhone 11 Pro Models in Early Benchmark Results",
         "body": "Benchmark results for the iPhone 12 Pro and iPhone 12 Pro Max are beginning to surface on Geekbench, and based on the scores available so far, the new A14 Bionic chip is over 20 percent faster than its A13 predecessor in iPhone 11 Pro models.\nOne result for the iPhone 12 Pro lists a single-core score of 1,597 and a multi-core score of 4,152, which is 26 percent faster than the iPhone 11 Pro's average single-core and multi-core scores of 1,327 and 3,289 respectively. Likewise, the iPhone 12 Pro Max is around 20-25 percent faster than the iPhone 11 Pro Max, although there are only two results so far.\nAs to be expected, iPhone 12 Pro performance appears to be roughly in line with the new iPad Air, which is also equipped with the A14 Bionic chip. In one result, for example, the new iPad Air had single-core and multi-core scores of 1,583 and 4,198 respectively.\niPhone13,3 corresponds with the 6.1-inch iPhone 12 Pro\nIt's worth noting that some results for the iPhone 12 Pro models are showing significantly lower multi-core scores, but Geekbench founder John Poole informed MacRumors that this is common with brand new iPhones with a fresh \"out of box setup,\" as the devices could be in the process of being restored among other factors.\nAs noted by Apple, the A14 Bionic chip is the fastest smartphone chip ever, and the first to be built on a 5-nanometer process. The chip's integrated Neural Engine has also been doubled from 8-cores to 16-cores, making it up to 80 percent faster for machine learning tasks, such as applying Deep Fusion to improve detail in photos.\niPhone 12 and iPhone 12 Pro pre-orders begin tomorrow at 5 a.m. Pacific Time, followed by the iPhone 12 mini and iPhone 12 Pro Max on November 6.",
-        "sentiment": -0.01966344089143806
+        "url": "https://www.macrumors.com/2020/10/15/iphone-12-pro-benchmarks-geekbench/",
+        "labels": {
+            "iphone": 0.7364334464073181,
+            "airtag": 0.07476437091827393,
+            "leaks or rumours": 0.041216421872377396,
+            "software": 0.03565690293908119,
+            "money or stock": 0.026512324810028076,
+            "ipad": 0.015968065708875656,
+            "airpods": 0.013888968154788017,
+            "apple tv or apple music": 0.013654764741659164,
+            "employees": 0.012598182074725628,
+            "data privacy": 0.012575723230838776,
+            "mac computers": 0.008733502589166164,
+            "apple watch": 0.0079973004758358
+        }
     },
     "article_19": {
         "title": "I too would like the \u201cdismiss my alarms for 1-day\u201d feature added so I don\u2019t have to manually turn the alarms off the on, if I wake up before my alarms- Apple Community",
-        "body": "Can I dismiss an alarm before it goes off? I would like to be able to dismiss my morning alarm if I wake up before it goes off, without having to turn the alarm off and then back on once the alarm time has passed. Is this possible? Is there any app I can download that has this feature? I loved this feature with my android and used it often. It is so helpful to be able to prompt an alarm to avoid disturbing others that are still sleeping without having to remember to reset your alarm every day.\n83 2",
-        "sentiment": 0.29376597205797833
+        "body": "Can I dismiss an alarm before it goes off? I would like to be able to dismiss my morning alarm if I wake up before it goes off, without having to turn the alarm off and then back on once the alarm time has passed. Is this possible? Is there any app I can download that has this feature? I loved this feature with my android and used it often. It is so helpful to be able to prompt an alarm to avoid disturbing others that are still sleeping without having to remember to reset your alarm every day.\n1493 2",
+        "url": "https://discussions.apple.com/thread/250860295",
+        "labels": {
+            "software": 0.3065659999847412,
+            "mac computers": 0.18345414102077484,
+            "airtag": 0.10868173092603683,
+            "data privacy": 0.0949334129691124,
+            "iphone": 0.08260726183652878,
+            "apple watch": 0.046036045998334885,
+            "ipad": 0.03786960244178772,
+            "apple tv or apple music": 0.036011770367622375,
+            "airpods": 0.033166538923978806,
+            "employees": 0.03300774097442627,
+            "leaks or rumours": 0.020308908075094223,
+            "money or stock": 0.01735680177807808
+        }
     },
     "article_20": {
         "title": "Apple Launches \u2018Apple Music TV,\u2019 a 24-Hour Music Video Livestream",
         "body": "Apple has launched Apple Music TV, a free 24-hour curated livestream of popular music videos that will also include \u201cexclusive new music videos and premiers, special curated music video blocks, and live shows and events as well as chart countdowns and guests,\u201d according to the announcement.\nApple Music TV will be available to U.S. residents only on the Apple Music app and the Apple TV app. It can be found at apple.co/AppleMusicTV and in the browse tab in the Apple Music and Apple TV app.\nThe service premiered Monday morning (Oct. 19) with a countdown of the top 100 all-time most-streamed songs in the U.S. on Apple Music. On Thursday (October 22), it will celebrate the upcoming release of Bruce Springsteens\u2019s \u201cLetter to You\u201d album with an \u201call day Bruce takeover\u201d featuring music-video blocks of his most popular videos, an interview with Zane Lowe, anchor of Apple Music\u2019s radio station, and a special livestream fan event.\nIt will also have two exclusive video premieres on Friday at 12 p.m. ET/9 a.m. PT, Joji\u2019s \u201c777\u201d and Saint Jhn\u2019s \u201cGorgeous\u201d; the channel will premiere new videos every Friday at that time.\nFurther details were scant before launch, but Lowe\u2019s involvement implies a connection between the new TV channel and Apple Music 1 radio station (formerly called Beats 1), its on-air hosts and its purview, which is geared toward hits but features adventurous programming, largely overseen by Lowe. However, the fact that the channel is launching with a heritage artist like Springsteen implies a difference in scope.\nThe move is the long-anticipated culmination of years of speculation and talk about when and how the company would move into the music video space, which has long been dominated by YouTube, Vevo and, in the past, MTV.\nSurprisingly, the announcement includes no specific mention of music documentaries, which is a format the company has already invested in \u2014 most notably the forthcoming Billie Eilish feature-length doc \u201cThe World\u2019s a Little Blurry,\u201d which is scheduled for release in February.\nApple Music has created a bounty of original content since its official launch in 2015, including concert films, interviews and more \u2014 \u201cthat content will now also have a home on Apple Music TV,\u201d the announcement promises.",
-        "sentiment": -0.009061125608590933
+        "url": "https://variety.com/2020/music/news/apple-music-tv-launch-videos-1234809088/",
+        "labels": {
+            "apple tv or apple music": 0.579522967338562,
+            "software": 0.16785970330238342,
+            "airtag": 0.08663082867860794,
+            "apple watch": 0.03692568838596344,
+            "iphone": 0.032904911786317825,
+            "airpods": 0.016795264557003975,
+            "data privacy": 0.016772516071796417,
+            "ipad": 0.016560329124331474,
+            "employees": 0.014499871991574764,
+            "mac computers": 0.013307154178619385,
+            "leaks or rumours": 0.011177366599440575,
+            "money or stock": 0.007043381687253714
+        }
     },
     "article_21": {
-        "title": "Apple Removes Beats Landing Page From Website Ahead of Tuesday's Launch Event",
-        "body": "Apple has quietly removed the \"Beats by Dre\" webpage from its website ahead of its Apple event on Tuesday, as it prepares to launch a new, lower-cost HomePod and AirPods Studio headphones.\nAs noted by Apple Terminal, the landing page for Beats products can no longer be found on Apple's website. The Wayback Machine has a snapshot of the page in its original form from October 2, while the most recent snapshot from October 9 shows the page as down, suggesting Apple removed it sometime between these two dates.\nOver the last couple of weeks, MacRumors has independently observed a gradual removal of all links to Beats' support website from Apple's own support pages. Apple also quietly retired its Beats Updater utility that lets users update the firmware of their Beats Wireless headphones, earphones, and speakers.\nApple still sells Beats-branded products on the headphones and speakers section of its online store. However, earlier this month, Bloomberg reported that Apple is no longer selling headphones and wireless speakers from companies like Sonos, Bose, and Logitech. Apple did something similar in the past, eliminating stock of fitness trackers ahead of the launch Apple Watch.\nThese moves all point to Apple readying itself for new product launches in the audio category. Rumors indicate Apple is working on several new audio products, including a smaller, lower-cost HomePod and high-end over-ear Apple-branded headphones that could be called \"\u200cAirPods Studio\u200c,\" to be sold alongside the \u200cAirPods\u200c and AirPods Pro.\nBoth of these new products are expected to launch before the end of the year, and the removal of the third-party audio products from the online store suggests we could be seeing Apple's new audio devices soon, perhaps as soon as this week at Apple's \"Hi, Speed\" event on Tuesday, October 13, when it is also expected to announce the new iPhone 12 lineup.\nUpdate 10:50 a.m.: The Beats by Dre landing page has returned to the store section of Apple's website.",
-        "sentiment": -0.1773155789511899
+        "title": "Apple Stops Selling Rival Earphones, Speakers Ahead of Launches",
+        "body": "Bloomberg Markets Today\nMarkets Today has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Tom Mackenzie and Mark Cudmore.",
+        "url": "https://www.bloomberg.com/news/articles/2020-10-05/apple-stops-selling-rival-earphones-speakers-ahead-of-launches",
+        "labels": {
+            "leaks or rumours": 0.23914583027362823,
+            "airpods": 0.18148159980773926,
+            "money or stock": 0.16477346420288086,
+            "airtag": 0.08545072376728058,
+            "iphone": 0.07251662015914917,
+            "ipad": 0.06449826806783676,
+            "apple tv or apple music": 0.048354122787714005,
+            "apple watch": 0.036487746983766556,
+            "data privacy": 0.035856105387210846,
+            "mac computers": 0.03536473959684372,
+            "employees": 0.026939012110233307,
+            "software": 0.00913174543529749
+        }
     },
     "article_22": {
-        "title": "Apple Glasses Will Reportedly Use Sony's 'Cutting-Edge' OLED Micro-Displays to Deliver 'Real AR Experience'",
-        "body": "Earlier this week, Japanese publication Nikkan Kogyo Shimbun reported that Sony will supply Apple with OLED microdisplays for its widely rumored AR/VR glasses, as spotted by Mac Otakara. The report has since been corroborated by display industry analyst Ross Young, who said multiple sources have informed him that Apple is indeed planning to use Sony's microdisplay technology for its head-mounted accessory.\nA generic mockup of AR glasses\nOLED (Organic LED) Microdisplays from SONY\u00ae Semiconductor Solutions are cutting-edge small video displays providing fast response, high-contrast image technology and precise color reproduction. The very thin displays bring greater visual impact to applications in AR/VR/MR, broadcasting, electronic view finders, industrial maintenance and medical. With large aperture and high luminance, a wide color spectrum, less reflectance and a high dynamic range they operate in extreme speed without showing any motion blur.\nAccording to FRAMOS , a supplier of embedded vision technologies, Sony's OLED microdisplays are small, cutting-edge displays with an ultra-fast response rate, ultra-high contrast, a wide color gamut for precise color reproduction, high luminance, low reflectance, and other benefits that would be ideal for Apple's glasses:\nSony's microdisplays also have integrated drivers for a thin and light design, and power-saving modes are available for longer battery life.\nYoung said the glasses will use a 0.5-inch display with a 1,280x960 resolution, and these specs appear to correspond with Sony's ECX337A component. According to Sony's website, this microdisplay in particular has a max brightness of 1,000 nits, an ultra-high contrast of 100,000:1, and an ultra-fast response rate of 0.01 ms or less.\nThe high contrast provided by Sony's microdisplays allows an additional information layer to appear seamlessly, and not as an overlay. \"This information is simply added to the background for a 'real AR' experience,\" according to FRAMOS.\nAccording to the Nikkan Kogyo Shimbun, Apple plans to release its AR/VR glasses in 2021, but analyst Ming-Chi Kuo does not expect a release until 2022 at the earliest. Young also believes that the glasses will be introduced in the first half of 2022. For a recap of all rumors to date, be sure to read our detailed Apple Glasses roundup.",
-        "sentiment": 0.35664404111985976
+        "title": "Apple Removes Beats Landing Page From Website Ahead of Tuesday's Launch Event",
+        "body": "Apple has quietly removed the \"Beats by Dre\" webpage from its website ahead of its Apple event on Tuesday, as it prepares to launch a new, lower-cost HomePod and AirPods Studio headphones.\nAs noted by Apple Terminal, the landing page for Beats products can no longer be found on Apple's website. The Wayback Machine has a snapshot of the page in its original form from October 2, while the most recent snapshot from October 9 shows the page as down, suggesting Apple removed it sometime between these two dates.\nOver the last couple of weeks, MacRumors has independently observed a gradual removal of all links to Beats' support website from Apple's own support pages. Apple also quietly retired its Beats Updater utility that lets users update the firmware of their Beats Wireless headphones, earphones, and speakers.\nApple still sells Beats-branded products on the headphones and speakers section of its online store. However, earlier this month, Bloomberg reported that Apple is no longer selling headphones and wireless speakers from companies like Sonos, Bose, and Logitech. Apple did something similar in the past, eliminating stock of fitness trackers ahead of the launch Apple Watch.\nThese moves all point to Apple readying itself for new product launches in the audio category. Rumors indicate Apple is working on several new audio products, including a smaller, lower-cost HomePod and high-end over-ear Apple-branded headphones that could be called \"\u200cAirPods Studio\u200c,\" to be sold alongside the \u200cAirPods\u200c and AirPods Pro.\nBoth of these new products are expected to launch before the end of the year, and the removal of the third-party audio products from the online store suggests we could be seeing Apple's new audio devices soon, perhaps as soon as this week at Apple's \"Hi, Speed\" event on Tuesday, October 13, when it is also expected to announce the new iPhone 12 lineup.\nUpdate 10:50 a.m.: The Beats by Dre landing page has returned to the store section of Apple's website.",
+        "url": "https://www.macrumors.com/2020/10/12/apple-removes-beats-landing-page/",
+        "labels": {
+            "software": 0.30322572588920593,
+            "airtag": 0.15411238372325897,
+            "iphone": 0.10515052080154419,
+            "leaks or rumours": 0.09837351739406586,
+            "airpods": 0.075442835688591,
+            "money or stock": 0.06911289691925049,
+            "ipad": 0.05777953937649727,
+            "mac computers": 0.03419879823923111,
+            "apple tv or apple music": 0.028177157044410706,
+            "data privacy": 0.025081004947423935,
+            "apple watch": 0.02471720427274704,
+            "employees": 0.02462834306061268
+        }
     },
     "article_23": {
-        "title": "Apple Officially Obsoletes Last iPod Nano Model",
-        "body": "As expected, Apple has added the seventh-generation iPod nano to its list of Vintage and Obsolete products, officially designating the last iPod in the iconic nano lineup as \"vintage.\"\nThe vintage products list features devices that have not been updated for more than five years and less than seven years. After products pass the seven year mark, they are considered obsolete.\nApple debuted a refreshed version of the seventh-generation iPod nano in mid-2015, and that was the final iPod nano that came out. Now that the device is five years old, it is being added to the vintage list.\nApple launched the first iPod nano in September 2005, and over the course of the nano's lifetime, it got several redesigns. The first iPod nano model was similar in design to a standard iPod but with a slimmer, easier to pocket shape.\nFast forward seven years to October 2020 and the seventh-generation iPod nano, which ended up being the final model that was introduced. It had an iPod touch-style multi-touch display and a Home button, but the nano and touch product lines were ultimately so similar that Apple did away with the iPod nano.\nApple refreshed the seventh-generation iPod nano in 2015 to add new colors, but the design remained the same. The iPod nano was discontinued along with the iPod shuffle in mid-2017, leaving the iPod touch as the only iPod Apple sells.\nDevices on Apple's vintage list are able to receive hardware service from Apple and Apple service providers, but it is subject to the availability of repair components and where required by law. Obsolete products have no hardware service available with no exceptions.\nIn addition to the seventh-generation iPod nano, the 5th-generation \u200ciPod touch\u200c, which was originally released on October 11, 2012, has also been added to the Vintage and Obsolete list.",
-        "sentiment": 0.1581047802631344
+        "title": "Apple Glasses Will Reportedly Use Sony's 'Cutting-Edge' OLED Micro-Displays to Deliver 'Real AR Experience'",
+        "body": "Earlier this week, Japanese publication Nikkan Kogyo Shimbun reported that Sony will supply Apple with OLED microdisplays for its widely rumored AR/VR glasses, as spotted by Mac Otakara. The report has since been corroborated by display industry analyst Ross Young, who said multiple sources have informed him that Apple is indeed planning to use Sony's microdisplay technology for its head-mounted accessory.\nA generic mockup of AR glasses\nOLED (Organic LED) Microdisplays from SONY\u00ae Semiconductor Solutions are cutting-edge small video displays providing fast response, high-contrast image technology and precise color reproduction. The very thin displays bring greater visual impact to applications in AR/VR/MR, broadcasting, electronic view finders, industrial maintenance and medical. With large aperture and high luminance, a wide color spectrum, less reflectance and a high dynamic range they operate in extreme speed without showing any motion blur.\nAccording to FRAMOS , a supplier of embedded vision technologies, Sony's OLED microdisplays are small, cutting-edge displays with an ultra-fast response rate, ultra-high contrast, a wide color gamut for precise color reproduction, high luminance, low reflectance, and other benefits that would be ideal for Apple's glasses:\nSony's microdisplays also have integrated drivers for a thin and light design, and power-saving modes are available for longer battery life.\nYoung said the glasses will use a 0.5-inch display with a 1,280x960 resolution, and these specs appear to correspond with Sony's ECX337A component. According to Sony's website, this microdisplay in particular has a max brightness of 1,000 nits, an ultra-high contrast of 100,000:1, and an ultra-fast response rate of 0.01 ms or less.\nThe high contrast provided by Sony's microdisplays allows an additional information layer to appear seamlessly, and not as an overlay. \"This information is simply added to the background for a 'real AR' experience,\" according to FRAMOS.\nAccording to the Nikkan Kogyo Shimbun, Apple plans to release its AR/VR glasses in 2021, but analyst Ming-Chi Kuo does not expect a release until 2022 at the earliest. Young also believes that the glasses will be introduced in the first half of 2022. For a recap of all rumors to date, be sure to read our detailed Apple Glasses roundup.",
+        "url": "https://www.macrumors.com/2020/10/22/apple-glasses-sony-oled-microdisplays/",
+        "labels": {
+            "leaks or rumours": 0.7528598308563232,
+            "airtag": 0.06437791883945465,
+            "iphone": 0.030698928982019424,
+            "employees": 0.026535773649811745,
+            "mac computers": 0.021949920803308487,
+            "data privacy": 0.02051594667136669,
+            "software": 0.018208656460046768,
+            "money or stock": 0.0167682021856308,
+            "ipad": 0.015421603806316853,
+            "apple tv or apple music": 0.013915463350713253,
+            "apple watch": 0.013657322153449059,
+            "airpods": 0.00509034376591444
+        }
     },
     "article_24": {
-        "title": "Leaker: iPhone 12 Lineup to Feature Faster Face ID, Improved Zoom, and Longer Battery Life",
-        "body": "Leaker Max Weinbach has today shared new \"finalized and revised\" information about the upcoming iPhone 12 via his Twitter account @PineLeaks.\nWeinbach states that the \"most important things\" about the new iPhones were already revealed by Chinese Weibo user \"Kang\" via an extensive leak on Friday, but he does offer some specific new information.\nApple is reportedly still intending to ship the \"dynamic zoning algorithm\" feature, which could allow for faster Face ID. The notch may only be reduced in width on the 5.4-inch iPhone 12 mini due to its smaller size. This would be achieved by arranging the components of the TrueDepth camera system more \"tightly,\" but at the cost of increasing its height. Alleged images of the \u200ciPhone 12 mini\u200c's screen emerged in July, which seemed to show a smaller notch.\nhttps://t.co/EPj76hm9wZ\nThe \"dynamic zoning algorithm\" is shipping. The redesigned TrueDepth Camera System though, is not. Instead, a more \"tightly\" arranged TrueDepth will be shipped with the 5.4\" iPhone. The notch shrinks horizontally, but increases slightly vertically. \u2014 Pine (@PineLeaks) October 11, 2020\nWeinbach believes that all \u200ciPhone 12\u200c models will gain significantly improved digital zoom via software enhancements, and the \u200ciPhone 12\u200c Pro and iPhone 12 Pro Max will also benefit from improved optical zoom.\nImproved digital zoom will be achieved by combining several frames at different zoom levels and stacking them together - an hybrid of cropping and optical zooming. An algorithm based off of Deep Fusion will take care of correct alignment and sharpening. Smart HDR 3 does the rest. \u2014 Pine (@PineLeaks) October 11, 2020\nThere may also be \"a sort of macro camera\" feature and the ultrawide lens aperture on Pro models may also be able to get closer to subjects, although these are not expected to be headline features. The ultrawide lens is also speculated to have up to a 35% larger aperture to improve low-light performance.\nThe new Ultra Wide is definitely getting a larger aperture, which will result in significantly improved Low Light performance across the board. Again, pay attention to the 12 Pro Max. \u2014 Pine (@PineLeaks) October 11, 2020\nThe \u200ciPhone 12\u200c Pro and 12 Pro Max are claimed to have a boost of at least one hour to battery life, but the \u200ciPhone 12 mini\u200c's battery life is expected to perform worse than the iPhone 11 due to its size.\nhttps://t.co/XjFk5c1zNM\nExpect at least an 1 hour battery life increase for the Pro Models. As seen in internal tests, the 5.4\" iPhone will perform worse than the current iPhone 11, which is expected because of its form factor. \u2014 Pine (@PineLeaks) October 11, 2020\nWeinbach also reinforced previous claims about \u200ciPhone 12\u200c models likely supporting 4K video at 120 or 240 frames per second.\nThe report is apparently based on recent updates from sources that were received over the past three weeks. The \u200ciPhone 12\u200c lineup is almost certain to be revealed on Tuesday at Apple's \"Hi, Speed\" event.",
-        "sentiment": -0.3035804094531788
+        "title": "Apple Officially Obsoletes Last iPod Nano Model",
+        "body": "As expected, Apple has added the seventh-generation iPod nano to its list of Vintage and Obsolete products, officially designating the last iPod in the iconic nano lineup as \"vintage.\"\nThe vintage products list features devices that have not been updated for more than five years and less than seven years. After products pass the seven year mark, they are considered obsolete.\nApple debuted a refreshed version of the seventh-generation iPod nano in mid-2015, and that was the final iPod nano that came out. Now that the device is five years old, it is being added to the vintage list.\nApple launched the first iPod nano in September 2005, and over the course of the nano's lifetime, it got several redesigns. The first iPod nano model was similar in design to a standard iPod but with a slimmer, easier to pocket shape.\nFast forward seven years to October 2020 and the seventh-generation iPod nano, which ended up being the final model that was introduced. It had an iPod touch-style multi-touch display and a Home button, but the nano and touch product lines were ultimately so similar that Apple did away with the iPod nano.\nApple refreshed the seventh-generation iPod nano in 2015 to add new colors, but the design remained the same. The iPod nano was discontinued along with the iPod shuffle in mid-2017, leaving the iPod touch as the only iPod Apple sells.\nDevices on Apple's vintage list are able to receive hardware service from Apple and Apple service providers, but it is subject to the availability of repair components and where required by law. Obsolete products have no hardware service available with no exceptions.\nIn addition to the seventh-generation iPod nano, the 5th-generation \u200ciPod touch\u200c, which was originally released on October 11, 2012, has also been added to the Vintage and Obsolete list.",
+        "url": "https://www.macrumors.com/2020/10/01/apple-officially-obsoletes-last-ipod-nano-model/",
+        "labels": {
+            "software": 0.2815932333469391,
+            "airtag": 0.18616236746311188,
+            "ipad": 0.11022479087114334,
+            "money or stock": 0.10189832001924515,
+            "apple tv or apple music": 0.06637538969516754,
+            "iphone": 0.06427765637636185,
+            "employees": 0.05521966889500618,
+            "data privacy": 0.05358200520277023,
+            "mac computers": 0.04841720312833786,
+            "airpods": 0.012606903910636902,
+            "apple watch": 0.010863677598536015,
+            "leaks or rumours": 0.008778817020356655
+        }
     }
 }

@@ -1,0 +1,8 @@
+a {
+    color: var(--medium-gray);
+    transition: 0.2s;
+}
+
+a:hover {
+    color: var(--black-gray);
+}

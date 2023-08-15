@@ -1,0 +1,38 @@
+#article-view-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#article-view-content {
+    max-width: 80ch;
+}
+
+#article-view-content > * {
+    margin-bottom: 3rem;
+}
+
+#grid-bar-graph {
+    display: grid;
+    grid-template-columns: auto min-content;
+    column-gap: 1rem;
+}
+
+#grid-bar-graph span {
+    font-size: 1rem;
+}
+
+.grid-bar {
+    height: 0.5rem;
+    border-radius: 999px;
+    background: linear-gradient(90deg, #e6e6e6, #cdcdcd, #313131);
+    margin-top: 0.25rem;
+}
+
+.grid-value {
+    grid-row: span 2;
+    justify-self: end;
+}
+
+.grid-label {
+    margin-bottom: 0.25rem;
+}
