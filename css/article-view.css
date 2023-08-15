@@ -36,3 +36,7 @@
 .grid-label {
     margin-bottom: 0.25rem;
 }
+
+#a {
+    overflow-wrap: anywhere;
+}
