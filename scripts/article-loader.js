@@ -23,6 +23,7 @@ function updateDisplay(article) {
     const p = document.getElementById('p')
 
     h2.innerHTML = article.title
+    document.title = article.title + ' - Informapple'
 
     const firstValue = Object.values(article.labels)[0]
     for (let label of Object.keys(article.labels)) {
@@ -40,6 +41,7 @@ function updateDisplay(article) {
 
     a.href = article.url
     a.innerHTML = cleanURL(article.url)
+
     p.innerHTML = article.body.replace(/\n/g, '<br><br>')
 }
 
