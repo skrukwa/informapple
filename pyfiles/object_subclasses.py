@@ -10,7 +10,8 @@ from newsplease import NewsArticle
 
 @dataclass(kw_only=True, slots=True)
 class Submission:
-    """An object containing information about a single Reddit submission (aka post).
+    """
+    An object containing information about a single Reddit submission (aka post).
 
     Instance Attributes:
     - archive: the original submission data from the ZST archive
