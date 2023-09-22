@@ -69,7 +69,7 @@ yearInputField.addEventListener('keyup', () => {
 })
 
 function toMonthInt(input) {
-    // returns (0 <= int <= 12) or null
+    // returns (1 <= int <= 12) or null
 
     input = input.toLowerCase()
 
