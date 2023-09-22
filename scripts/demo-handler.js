@@ -45,7 +45,7 @@ const colors = new Map ([
     ['not sure', customDarkGray]
 ])
 
-let currentMonth = null // (0 <= int <= 12) or null
+let currentMonth = null // (1 <= int <= 12) or null
 let currentYear = null // (0 <= int) or null
 
 monthInputField.addEventListener('keyup', () => {
