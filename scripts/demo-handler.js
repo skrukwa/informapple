@@ -120,7 +120,7 @@ function updateDisplay() {
         articleContainer.innerHTML = ''
         updateArticles()
     } else {
-        articleContainer.innerHTML = '<p>Dates start Jan 2015 and end Dec 2022.<br>Please update your search.</p>'
+        articleContainer.innerHTML = '<p>Dates start Jan 2015 and end Dec 2022.<br><br>Please update your search.</p>'
     }
 }
 
@@ -150,7 +150,7 @@ async function updateArticles() {
         const darkColor = colors.get(label).dark
         const title = article.title
         const body = article.body
-        const href = `https://informapple.com/article?m=${currentMonthCode}&y=${currentYearCode}&a=${key}`
+        const href = `/article?m=${currentMonthCode}&y=${currentYearCode}&a=${key}`
 
         articleContainer.insertAdjacentHTML('beforeend',
         `
