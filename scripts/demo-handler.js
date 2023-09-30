@@ -72,6 +72,7 @@ function toMonthInt(input) {
     // returns (1 <= int <= 12) or null
 
     input = input.toLowerCase()
+    input = input.replaceAll(' ', '')
 
     if (/^[0-9]+$/.test(input)) {
         // input is 1 or more numbers
@@ -95,6 +96,8 @@ function toMonthInt(input) {
 function toYearInt(input) {
     // returns (0 <= int) or null
 
+    input = input.replaceAll(' ', '')
+
     if (/^[0-9]+$/.test(input)) {
         // input is 1 or more numbers
         input = parseInt(input)
@@ -114,14 +117,15 @@ function checkValidDate() {
 }
 
 function updateDisplay() {
-    if (currentMonth === null || currentYear === null) {
-        articleContainer.innerHTML = ''
-    } else if (checkValidDate()) {
-        articleContainer.innerHTML = ''
-        updateArticles()
-    } else {
-        articleContainer.innerHTML = '<p>Dates start Jan 2015 and end Dec 2022.<br><br>Please update your search.</p>'
+    if (currentMonth !== null && currentYear !== null) {
+        if (checkValidDate()) {
+            articleContainer.innerHTML = ''
+            updateArticles()
+            return
+        }
     }
+    
+    articleContainer.innerHTML = '<p>Dates start Jan 2015 and end Dec 2022.<br><br>Please update your search.</p>'
 }
 
 async function updateArticles() {
@@ -164,3 +168,5 @@ async function updateArticles() {
         )
     }
 }
+
+updateDisplay()
