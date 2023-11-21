@@ -2,7 +2,7 @@
 Informapple has been a personal project that I have had with me since April 3, 2015, when I registered the domain. For the first chapter of its life, it was a [WordPress](https://wordpress.com) blog with some custom graphics and content made by me ([Evan Skrukwa](https://www.linkedin.com/in/skrukwa)). I learned the basics of [Google AdSense](https://adsense.google.com/start) and [Google Analytics](https://developers.google.com/analytics) among other things. Now, Informapple has been fully revitalized from scratch to become an interactive, unique, and valuable custom project.
 
 # Front End
-The website was written using pure HTML, CSS, and JS. In fact, the files you see above are the files that run the website, as the website is hosted by this [Github page](https://pages.github.com) itself.
+The website was written using pure HTML, CSS, and JavaScript. In fact, the files you see above are the files that run the website, as the website is hosted by this [Github page](https://pages.github.com) itself.
 
 # Data Scraping
 All data processing, scraping, and classifying was done using Python. Initially, roughly 490GB of open-source Zstandard compressed archive files of all Reddit posts were used to find popular Apple-related news for a given month. Those articles were then retrieved from the web, and finally, were categorized using [Meta's BART-based zero-shot text classification model](https://huggingface.co/facebook/bart-large-mnli).
