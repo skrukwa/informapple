@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
-      - uses: actions/setup-node
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
       - run: npm clean-install
       - run: npm run build
-      - uses: actions/upload-pages-artifact
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: 'build'
   deploy:
@@ -26,4 +26,4 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages
+      - uses: actions/deploy-pages@v4
