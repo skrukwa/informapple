@@ -1,8 +1,8 @@
 # Informappple
-Informapple has been a personal project that I have had with me since April 3, 2015, when I registered the domain. For the first chapter of its life, it was a [WordPress](https://wordpress.com) blog with some custom graphics and content made by me ([Evan Skrukwa](https://www.linkedin.com/in/skrukwa)). I learned the basics of [Google AdSense](https://adsense.google.com/start) and [Google Analytics](https://developers.google.com/analytics) among other things. Now, Informapple has been fully revitalized from scratch to become an interactive, unique, and valuable custom project.
+Informapple has been a personal project that I have had with me since April 3, 2015, when I registered the domain. For the first few years of its life, it was a [WordPress](https://wordpress.com) blog with some custom graphics and content I wrote. I learned the basics of [Google AdSense](https://adsense.google.com/start) and [Google Analytics](https://developers.google.com/analytics) among other things. Now, Informapple has been fully revitalized from scratch to become an interactive, unique, and valuable custom project.
 
 # Front End
-The website was written using pure HTML, CSS, and JavaScript. In fact, the files you see above are the files that run the website, as the website is hosted by this [Github page](https://pages.github.com) itself.
+The website was written using pure HTML, CSS, and TypeScript. In fact, the files you see above are the files that run the website, as the website is hosted by [Github Pages](https://pages.github.com). The front end is built and deployed using [Github Actions](https://docs.github.com/en/actions) to compile the TypeScript and deploy the build artifact.
 
 # Data Scraping
 All data processing, scraping, and classifying was done using Python. Initially, roughly 490GB of open-source Zstandard compressed archive files of all Reddit posts were used to find popular Apple-related news for a given month. Those articles were then retrieved from the web, and finally, were categorized using [Meta's BART-based zero-shot text classification model](https://huggingface.co/facebook/bart-large-mnli).
