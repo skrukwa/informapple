@@ -3,12 +3,7 @@
 function onMobile() {
     const mobileWidth = (window.innerWidth <= 750)
     const mobileAspectRatio = ((window.innerWidth / window.innerHeight) <= 3 / 4)
-
-    if (mobileWidth && mobileAspectRatio) {
-        return true
-    } else {
-        return false
-    }
+    return mobileWidth && mobileAspectRatio;
 }
 
 function updateLvh() {
@@ -18,7 +13,7 @@ function updateLvh() {
     }
 }
 
-function LvhHandler() {
+function lvhHandler() {
     if (onMobile()) {
         updateLvh()
     } else {
@@ -27,7 +22,7 @@ function LvhHandler() {
     }
 }
 
-const lvh100 = document.getElementById('lvh100')
+const lvh100 = document.getElementById('lvh100') as HTMLDivElement
 let lvh = lvh100.offsetHeight / 100
 
-window.addEventListener('resize', LvhHandler)
+window.addEventListener('resize', lvhHandler)

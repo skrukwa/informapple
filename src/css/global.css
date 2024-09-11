@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Nunito Sans';
-    src: url('/fonts/nunito-sans-regular.woff2') format('woff2');
+    src: url('../fonts/nunito-sans-regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Argentum Sans';
-    src: url('/fonts/argentum-sans-light.woff2') format('woff2');
+    src: url('../fonts/argentum-sans-light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;

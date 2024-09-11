@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "build": "rsync -a --delete --exclude=*.ts src/ build && tsc",
+    "dev": "rsync -a --delete --exclude=*.ts src/ build && tsc --watch"
+  }
+}
