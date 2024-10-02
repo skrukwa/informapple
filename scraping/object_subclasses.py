@@ -1,5 +1,4 @@
 """
-----------Objectives----------
 Define custom classes to be used in other files.
 """
 from dataclasses import dataclass

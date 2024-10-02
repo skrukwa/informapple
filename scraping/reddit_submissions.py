@@ -1,13 +1,9 @@
 """
-----------Objectives----------
 Read and scrape all submissions from a given subreddit using a ZST archive.
 Order those submissions by -current- upvote count using Python Reddit API Wrapper (PRAW).
 
-----------Resources used----------
-For naming the PRAW_USERAGENT:
-https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example
-For creating the praw.reddit.Reddit object:
-https://github.com/praw-dev/praw
+See also:
+https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example (for PRAW_USERAGENT)
 """
 import io
 import json

@@ -1,9 +1,7 @@
 """
-----------Objectives----------
 Apply zero shot text classification to submission article headlines.
 
-----------Resources used----------
-For using the pre-trained zero shot model:
+See also:
 https://huggingface.co/facebook/bart-large-mnli
 """
 from tqdm import tqdm

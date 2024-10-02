@@ -1,5 +1,4 @@
 """
-----------Objectives----------
 Define Exception subclasses to be used in other files.
 """
 

@@ -1,5 +1,4 @@
 """
-----------Objectives----------
 Create a JSON output for a given ZST archive.
 """
 import json

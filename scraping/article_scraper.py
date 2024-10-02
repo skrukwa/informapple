@@ -1,9 +1,7 @@
 """
-----------Objectives----------
 Scrape content of articles.
 
-----------Resources used----------
-For using the newsplease library:
+See also:
 https://github.com/fhamborg/news-please
 """
 import logging
