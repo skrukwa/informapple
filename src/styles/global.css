@@ -64,7 +64,7 @@ a:hover {
     color: var(--black);
 }
 
-.hero-absolute {
+.hero-fixed {
     width: 100%;
     height: calc(var(--lvh) * 100);
     position: fixed;
