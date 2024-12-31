@@ -1,0 +1,28 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
+div {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  color: var(--dark-gray);
+  opacity: 70%;
+  font-size: 2rem;
+  display: block;
+  width: min-content;
+  transform: rotate(90deg);
+  animation: bounce 3s ease infinite;
+}
+
+@keyframes bounce {
+  50% {
+    transform: rotate(90deg) translateX(0.5rem);
+  }
+}

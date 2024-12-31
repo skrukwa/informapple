@@ -1,75 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="css/inline-hyperlinks.css">
-    <link rel="stylesheet" href="css/lvh.css">
-    <link rel="stylesheet" href="css/header.css">
-    <link rel="stylesheet" href="css/hero.css">
-    <link rel="stylesheet" href="css/scroll.css">
-    <link rel="stylesheet" href="css/mobile.css">
-    <link rel="stylesheet" href="css/demo.css">
-    <link rel="stylesheet" href="css/footer.css">
-    <link rel="stylesheet" href="css/breakpoints.css">
-    <link rel="icon" type="image/x-icon" href="media/favicon.png">
-    <script type="module" src="scripts/common.js"></script>
-    <script type="module" src="scripts/demo-handler.js" defer></script>
-    <script src="scripts/step-cards.js"></script>
-    <script src="scripts/lvh.js" defer></script>
-    <title>Informapple</title>
-    <meta name="description" content="View 8 years of AI classified top Apple Articles scraped by Evan Skrukwa.">
-  </head>
-  <body>
-    <div id="lvh100"></div>
-    <header id="header-light">
-      <img src="media/logo.png">
-      <a href="https://github.com/skrukwa/informapple">see the source code</a>
-    </header>
-    <div class="hero-absolute">
-      <video playsinline autoplay muted loop id="hero-video">
-        <source src="media/hero-background.mp4" type="video/mp4">
-      </video>
-    </div>
-    <div class="hero-absolute">
-      <main class="section-padding-with-header">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="View 8 years of AI classified top Apple Articles scraped by Evan Skrukwa.">
+        <title>Informapple</title>
+
+        <link rel="icon" type="image/x-icon" href="media/favicon.png">
+
+        <link rel="stylesheet" href="styles/mobile.css">
+        <link rel="stylesheet" href="styles/breakpoints.css">
+        <link rel="stylesheet" href="styles/global.css">
+        <link rel="stylesheet" href="styles/hyperlinks-inline.css">
+
+        <script type="module" src="scripts/common.js"></script>
+
+        <script type="module" src="components/article-card/article-card.js"></script>
+        <script type="module" src="components/article-search-demo/article-search-demo.js"></script>
+        <script type="module" src="components/footer/footer.js"></script>
+        <script type="module" src="components/header/header.js"></script>
+        <script type="module" src="components/hero-background/hero-background.js"></script>
+        <script type="module" src="components/hero-content/hero-content.js"></script>
+        <script type="module" src="components/lvh/lvh.js"></script>
+        <script type="module" src="components/main-scroll/main-scroll.js"></script>
+        <script type="module" src="components/scroll-indicator/scroll-indicator.js"></script>
+        <script type="module" src="components/step-cards/step-cards.js"></script>
+    </head>
+    <body>
+        <lvh-component></lvh-component>
+        <header-component></header-component>
+        <div class="hero-absolute">
+            <hero-background-component></hero-background-component>
+        </div>
+        <div class="hero-absolute">
+            <hero-content-component></hero-content-component>
+            <scroll-indicator-component></scroll-indicator-component>
+        </div>
         <div>
-          <h1>welcome to<br><a href="">informapple.ca</a></h1>
-          <h3>An analytical project classifying 8 years of top Apple news articles.</h3>
-          <h4>Developed by <a href="https://linkedin.com/in/skrukwa">Evan Skrukwa</a> and powered by Python.</h4>
+            <div class="section-padding" id="mobile-container">
+                <step-cards-component></step-cards-component>
+            </div>
+            <main-scroll-component></main-scroll-component>
         </div>
-        <step-cards-component></step-cards-component>
-      </main>
-    </div>
-    <div id="scroll-container">
-      <header id="header-dark">
-        <img src="media/logo.png">
-        <a href="https://github.com/skrukwa/informapple">see the source code</a>
-      </header>
-      <div class="section-padding" id="mobile-container">
-        <step-cards-component></step-cards-component>
-      </div>
-      <div class="section-padding-with-header dark-mode" id="demo-container">
-        <div id="date-selector-container">
-          <h2>Top 25 Apple articles for</h2>
-          <form autocomplete="off">
-            <input type="text" id="month-field" placeholder="ex. September">
-            <input type="text" id="year-field" placeholder="ex. 2016">
-          </form>
-        </div>
-        <div id="articles-container">
-          <!--
-          <article>
-            <span style="color: #0D47A1; background-color: #90CAF9">mac computers (85%)</span>
-            <h4>[Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, id unde facilis magnam odit perspiciatis, quibusdam et distinctio, dolores maxime aspernatur error doloribus? Voluptatum aliquam excepturi dolores nisi veritatis totam.]</h4>
-            <p>[Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla vel ducimus amet quo natus porro.]</p>
-            <a href="example-link" class="fill-div"></a>
-          </article>
-          -->
-        </div>
-      </div>
-      <footer class="dark-mode">&copy; Evan Skrukwa. All rights reserved. This website is not affiliated with Apple.</footer>
-    </div>
-  </body>
+    </body>
 </html>

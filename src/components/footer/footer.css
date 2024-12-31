@@ -1,0 +1,9 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
+footer {
+    text-align: center;
+    padding: 1.25rem;
+}

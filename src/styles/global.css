@@ -16,10 +16,10 @@
 
 html {
     --blue: #3c65d2;
-    --black-gray: #0f1315;
-    --dark-gray: #252c33;
+    --black: #0f1315;
+    --dark-gray: #1e2229;
     --medium-gray: #7c868a;
-    --light-gray: #b1c3cf;
+    --light-gray: #c1cbd1;
     --white: #ffffff;
     --lvh: 1lvh;
 }
@@ -34,11 +34,12 @@ html {
 
 body {
     margin: 0;
-    color: var(--black-gray);
+    color: var(--black);
     background-color: var(--white);
     font-family: 'Nunito Sans', sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+    overscroll-behavior: none;
 }
 
 h1 {
@@ -46,7 +47,7 @@ h1 {
     font-weight: 300;
 }
 
-h2, input[type='text'], h3, h4, p {
+h2, h3, h4, p, input[type='text'] {
     font-weight: 400;
 }
 
@@ -54,23 +55,24 @@ img {
     pointer-events: none;
 }
 
-form input[type='text'] {
-    color: var(--white);
-    background-color: var(--dark-gray);
-    text-align: center;
-    border: 0;
-    border-radius: 0.5rem;
+a {
+    color: var(--medium-gray);
+    transition: 0.2s;
 }
 
-::placeholder {
-    color: var(--medium-gray);
- }
+a:hover {
+    color: var(--black);
+}
 
-form input:focus {
-    outline: 1px solid var(--white);
+.hero-absolute {
+    width: 100%;
+    height: calc(var(--lvh) * 100);
+    position: fixed;
+    top: 0;
+    z-index: -1;
 }
 
 .dark-mode {
     color: var(--white);
-    background-color: var(--black-gray);
+    background-color: var(--black);
 }

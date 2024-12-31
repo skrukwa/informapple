@@ -1,9 +1,12 @@
 {
-  "devDependencies": {
-    "typescript": "^5.6.2"
-  },
+  "type": "module",
   "scripts": {
-    "build": "rsync -a --delete --exclude=*.ts src/ build && tsc",
-    "dev": "rsync -a --delete --exclude=*.ts src/ build && tsc --watch"
+    "dev": "concurrently \"http-server src\" \"tsc --watch\"",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.1",
+    "http-server": "^14.1.1",
+    "typescript": "^5.6.2"
   }
 }

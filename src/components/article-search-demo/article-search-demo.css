@@ -1,0 +1,70 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
+#demo-container {
+    flex: 1;
+}
+
+#date-selector-container h2,
+#date-selector-container form {
+    display: inline-block;
+}
+
+#date-selector-container h2,
+#date-selector-container form input {
+    margin-right: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+#month-field {
+    width: 13ch;
+}
+
+#year-field {
+    width: 8ch;
+}
+
+#articles-container {
+    margin-top: 3.75rem;
+    display: grid;
+    gap: 2rem;
+    --min-col-width: min(100%, 60ch);
+    grid-template-columns: repeat(auto-fill, minmax(var(--min-col-width), 1fr));
+}
+
+.text-input-div {
+    position: relative;
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+.text-input-div input {
+    padding: 0.75rem;
+    border: 1px solid var(--light-gray);
+    border-radius: 1rem;
+}
+
+.text-input-div label {
+    color: var(--light-gray);
+    font-size: 1.75rem;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    transition: all 0.2s ease-out;
+    background-color: var(--black);
+    padding: 0 0.25rem;
+    pointer-events: none;
+}
+
+.text-input-div input:focus + label,
+.text-input-div input:not(:placeholder-shown) + label {
+    top: -0.625rem;
+    left: 0.5rem;
+    font-size: 1rem;
+}
+
+.text-input-div input:focus {
+    outline: none;
+}

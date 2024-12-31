@@ -1,0 +1,56 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
+header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img {
+    max-height: 1.75rem;
+    max-width: 45vw;
+}
+
+#header-light {
+    border-bottom: 1px solid var(--black);
+    -webkit-backdrop-filter: blur(3px) brightness(107%);
+            backdrop-filter: blur(3px) brightness(107%);
+}
+
+#header-dark {
+    border-bottom: 1px solid var(--white);
+    background-color: var(--dark-gray);
+}
+
+#header-dark > img {
+    filter: brightness(999);
+}
+
+#header-dark-container {
+    z-index: 1;
+    clip-path: inset(100% 0 -100% 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    position: sticky;
+    top: calc(-1 * var(--header-height));
+}
+
+#header-placeholder {
+    visibility: hidden;
+    margin-top: calc(var(--lvh) * 100 - var(--header-height));
+}
+
+header:not(#source-code-container) > a,
+#source-code-container > img {
+    visibility: hidden;
+}
+
+#source-code-container {
+    z-index: 1;
+}

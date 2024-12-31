@@ -1,0 +1,21 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
+main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+div {
+    flex-shrink: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+div > * {
+    margin-bottom: 3rem;
+}

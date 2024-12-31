@@ -1,3 +1,8 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
 figure {
     margin: 0;
     max-width: 34rem;

@@ -1,33 +1,7 @@
-#demo-container {
-    min-height: calc(var(--lvh) * 100);
-}
-
-#date-selector-container h2,
-#date-selector-container form {
-    display: inline-block;
-}
-
-#date-selector-container h2,
-#date-selector-container form input {
-    margin-right: 0.5rem;
-    margin-bottom: 1rem;
-}
-
-#month-field {
-    width: 13ch;
-}
-
-#year-field {
-    width: 8ch;
-}
-
-#articles-container {
-    margin-top: 3.75rem;
-    display: grid;
-    gap: 2rem;
-    --min-col-width: min(100%, 60ch);
-    grid-template-columns: repeat(auto-fill, minmax(var(--min-col-width), 1fr));
-}
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
 
 article {
     position: relative;

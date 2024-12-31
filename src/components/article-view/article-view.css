@@ -1,3 +1,8 @@
+@import "../../../styles/breakpoints.css";
+@import "../../../styles/global.css";
+@import "../../../styles/hyperlinks-inline.css";
+@import "../../../styles/mobile.css";
+
 #article-view-container {
     display: flex;
     justify-content: space-around;
@@ -37,6 +42,6 @@
     margin-bottom: 0.25rem;
 }
 
-#a {
+a {
     overflow-wrap: anywhere;
 }

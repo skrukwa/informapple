@@ -1,11 +1,15 @@
-a:not(.fill-div) {
+.inline {
     text-decoration: none;
     color: var(--blue);
     position: relative;
     white-space: nowrap;
 }
 
-a:not(.fill-div)::after {
+.inline:hover {
+    color: var(--blue);
+}
+
+.inline::after {
     content: '';
     position: absolute;
     width: 100%;
@@ -18,7 +22,7 @@ a:not(.fill-div)::after {
     transition: transform 0.25s ease-out;
 }
 
-a:not(.fill-div):hover::after {
+.inline:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
 }
