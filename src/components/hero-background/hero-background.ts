@@ -12,7 +12,7 @@ class HeroBackground extends HTMLElement {
             <link rel="stylesheet" href="/components/hero-background/hero-background.css">
             
             <video playsinline autoplay muted loop>
-                <source src="media/hero-background.mp4" type="video/mp4">
+                <source src="media/hero-background.av1.webm" type="video/webm">
             </video>
             `
     }

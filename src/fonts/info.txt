@@ -1,4 +1,4 @@
-argentum sans light
+argentum sans light, regular
 retrieved via
 github.com/cssobral2013/Argentum-Sans
 07/26/2023
