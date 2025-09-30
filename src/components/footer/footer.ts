@@ -1,3 +1,5 @@
+import styles from './footer.css?inline';
+
 class Footer extends HTMLElement {
 
     constructor() {
@@ -9,7 +11,7 @@ class Footer extends HTMLElement {
 
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/footer/footer.css">
+            <style>${styles}</style>
             
             <footer class="dark-mode">&copy; Evan Skrukwa. All rights reserved. This website is not affiliated with Apple.</footer>
             `

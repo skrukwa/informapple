@@ -1,3 +1,5 @@
+import styles from './article-card.css?inline'
+
 class ArticleCard extends HTMLElement {
 
     private _darkColor: string
@@ -46,8 +48,7 @@ class ArticleCard extends HTMLElement {
         this.attachShadow({mode: 'open'})
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/article-card/article-card.css">
-            
+            <style>${styles}</style>
             <article>
                 <span style="color: ${this._darkColor}; background-color: ${this._lightColor}">${this._label}</span>
                 <h4>${this._title}</h4>

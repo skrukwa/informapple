@@ -1,3 +1,5 @@
+import styles from './hero-content.css?inline';
+
 class HeroContent extends HTMLElement {
 
     constructor() {
@@ -9,7 +11,7 @@ class HeroContent extends HTMLElement {
 
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/hero-content/hero-content.css">
+            <style>${styles}</style>
             
             <main class="section-padding-with-header">
                 <div>

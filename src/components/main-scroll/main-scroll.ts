@@ -1,3 +1,5 @@
+import styles from './main-scroll.css?inline';
+
 class MainScroll extends HTMLElement {
 
     constructor() {
@@ -9,7 +11,7 @@ class MainScroll extends HTMLElement {
 
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/main-scroll/main-scroll.css">
+            <style>${styles}</style>
             
             <div>
                 <article-search-demo-component></article-search-demo-component>

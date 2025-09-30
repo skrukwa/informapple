@@ -1,4 +1,5 @@
-import {Category, fetchArticles} from '/scripts/common.js'
+import { Category, fetchArticles } from '../../scripts/common';
+import styles from './article-search-demo.css?inline';
 
 type ButtonColor = {
     light: string
@@ -62,7 +63,7 @@ class ArticleSearchDemo extends HTMLElement {
         this.attachShadow({mode: 'open'})
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/article-search-demo/article-search-demo.css">
+            <style>${styles}</style>
 
             <div class="section-padding-with-header dark-mode" id="demo-container">
                 <div id="date-selector-container">
@@ -194,18 +195,15 @@ class ArticleSearchDemo extends HTMLElement {
             const body = article.body
             const href = `/article?m=${monthParam}&y=${yearParam}&a=${articleParam}`
 
-            this.articleContainer.insertAdjacentHTML('beforeend',
-                `
-                <article-card-component
-                    dark-color="${darkColor}"
-                    light-color="${lightColor}"
-                    label="${displayLabel}"
-                    title="${title}"
-                    body="${body}"
-                    href="${href}">
-                </article-card-component>
-                `
-            )
+            const card = document.createElement('article-card-component')
+            card.setAttribute('dark-color', darkColor)
+            card.setAttribute('light-color', lightColor)
+            card.setAttribute('label', displayLabel)
+            card.setAttribute('title', title)
+            card.setAttribute('body', body)
+            card.setAttribute('href', href)
+
+            this.articleContainer.appendChild(card)
         }
     }
 }

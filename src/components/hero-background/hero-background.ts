@@ -1,3 +1,5 @@
+import styles from './hero-background.css?inline';
+
 class HeroBackground extends HTMLElement {
 
     constructor() {
@@ -9,10 +11,10 @@ class HeroBackground extends HTMLElement {
 
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/hero-background/hero-background.css">
+            <style>${styles}</style>
             
             <video playsinline autoplay muted loop>
-                <source src="media/hero-background.av1.webm" type="video/webm">
+                <source src="hero-background.av1.webm" type="video/webm">
             </video>
             `
     }

@@ -1,7 +1,4 @@
-@import "../../../styles/breakpoints.css";
-@import "../../../styles/global.css";
-@import "../../../styles/hyperlinks-inline.css";
-@import "../../../styles/mobile.css";
+@import '/styles/_shared.css';
 
 #demo-container {
     flex: 1;

@@ -1,3 +1,5 @@
+import styles from './step-cards.css?inline';
+
 class StepCards extends HTMLElement {
 
     constructor() {
@@ -9,7 +11,7 @@ class StepCards extends HTMLElement {
 
         const htmlContent =
             `
-            <link rel="stylesheet" href="components/step-cards/step-cards.css">
+            <style>${styles}</style>
             
             <figure>
                 <div class="step-card" id="step-card-1">

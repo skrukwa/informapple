@@ -1,3 +1,5 @@
+import styles from './lvh.css?inline';
+
 class LVH extends HTMLElement {
 
     private lvh100: HTMLElement | null
@@ -13,7 +15,7 @@ class LVH extends HTMLElement {
         this.attachShadow({mode: 'open'})
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/lvh/lvh.css">
+            <style>${styles}</style>
 
             <div id="lvh100"></div>
             `

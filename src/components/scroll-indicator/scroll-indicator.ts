@@ -1,3 +1,5 @@
+import styles from './scroll-indicator.css?inline';
+
 class ScrollIndicator extends HTMLElement {
 
     constructor() {
@@ -7,7 +9,7 @@ class ScrollIndicator extends HTMLElement {
     connectedCallback() {
         this.attachShadow({mode: 'open'})
         this.shadowRoot.innerHTML = `
-            <link rel="stylesheet" href="/components/scroll-indicator/scroll-indicator.css">
+            <style>${styles}</style>
             
             <div>
                 <span>></span>

@@ -1,4 +1,5 @@
-import {fetchArticle} from '/scripts/common.js'
+import {fetchArticle} from '../../scripts/common'
+import styles from './article-view.css?inline';
 
 class ArticleView extends HTMLElement {
 
@@ -18,7 +19,7 @@ class ArticleView extends HTMLElement {
         this.attachShadow({mode: 'open'})
         this.shadowRoot.innerHTML =
             `
-            <link rel="stylesheet" href="/components/article-view/article-view.css">
+            <style>${styles}</style>
 
             <div class="section-padding" id="article-view-container">
                 <div id="article-view-content">
