@@ -1,6 +1,5 @@
 #mobile-container {
     border-top: 1px solid var(--black);
     background: linear-gradient(10deg, #fff4ee,#f7f0ff, #e2edff, #f3ffff);
-    display: flex;
     justify-content: center;
 }
